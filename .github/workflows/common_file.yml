@@ -34,8 +34,8 @@ jobs:
         run: |
           python3 script/gen_agh_file.py ./result/agh_direct_alidns.txt --dns ${{ env.ALI_DNS }}
           python3 script/gen_agh_file.py ./result/agh_direct_updns.txt --dns ${{ env.UPSTREAM_DNS }}
-          sed -i '1s/^/tls:\/\/8.8.4.4\ntls:\/\/1.0.0.1\n/' ./result/agh_direct_alidns.txt
-          sed -i '1s/^/tls:\/\/8.8.4.4\ntls:\/\/1.0.0.1\n/' ./result/agh_direct_updns.txt
+          sed -i '1s/^/tls:\/\/8.8.4.4\ntls:\/\/1.0.0.1\n\[\/lan\/\]127\.0\.0\.1:54\n\[\/\/\]127\.0\.0\.1:54\n/' ./result/agh_direct_alidns.txt
+          sed -i '1s/^/tls:\/\/8.8.4.4\ntls:\/\/1.0.0.1\n/\[\/lan\/\]127\.0\.0\.1:54\n\[\/\/\]127\.0\.0\.1:54\n' ./result/agh_direct_updns.txt
 
       # - name: Release and upload assets
       #   uses: softprops/action-gh-release@v1

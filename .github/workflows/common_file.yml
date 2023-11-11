@@ -29,10 +29,13 @@ jobs:
         run: |
           wget ${{ env.DIRECT_LIST }} -O ./result/agh_direct_alidns.txt
           cp -f ./result/agh_direct_alidns.txt ./result/agh_direct_updns.txt
+
       - name: Generate Common Files
         run: |
           python3 script/gen_agh_file.py ./result/agh_direct_alidns.txt --dns ${{ env.ALI_DNS }}
           python3 script/gen_agh_file.py ./result/agh_direct_updns.txt --dns ${{ env.UPSTREAM_DNS }}
+          sed -i '1s/^/tls:\/\/8.8.4.4\ntls:\/\/1.0.0.1\n/' ./result/agh_direct_alidns.txt
+          sed -i '1s/^/tls:\/\/8.8.4.4\ntls:\/\/1.0.0.1\n/' ./result/agh_direct_updns.txt
 
       # - name: Release and upload assets
       #   uses: softprops/action-gh-release@v1

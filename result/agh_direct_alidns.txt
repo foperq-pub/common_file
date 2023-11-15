@@ -1030,7 +1030,6 @@ tls://1.0.0.1
 [/128sy.com/]223.5.5.5
 [/128uu.com/]223.5.5.5
 [/12988.net/]223.5.5.5
-[/12edu.com/]223.5.5.5
 [/12h5.com/]223.5.5.5
 [/12jn.com/]223.5.5.5
 [/12ky.com/]223.5.5.5
@@ -2264,7 +2263,6 @@ tls://1.0.0.1
 [/2gdt.com/]223.5.5.5
 [/2gei.com/]223.5.5.5
 [/2google.com/]223.5.5.5
-[/2hanjutv.com/]223.5.5.5
 [/2haohr.com/]223.5.5.5
 [/2heng.xin/]223.5.5.5
 [/2hua.com/]223.5.5.5
@@ -2700,7 +2698,6 @@ tls://1.0.0.1
 [/360uu.com/]223.5.5.5
 [/360vcloud.com/]223.5.5.5
 [/360vipshop.com/]223.5.5.5
-[/360vps.com/]223.5.5.5
 [/360vrzy.com/]223.5.5.5
 [/360wbl.com/]223.5.5.5
 [/360webcache.com/]223.5.5.5
@@ -4432,7 +4429,6 @@ tls://1.0.0.1
 [/56ml.com/]223.5.5.5
 [/56mp.com/]223.5.5.5
 [/56pan.com/]223.5.5.5
-[/56php.com/]223.5.5.5
 [/56qq.com/]223.5.5.5
 [/56show.com/]223.5.5.5
 [/56shuku.org/]223.5.5.5
@@ -20183,7 +20179,6 @@ tls://1.0.0.1
 [/emojiwiz.com/]223.5.5.5
 [/emqx.com/]223.5.5.5
 [/emqx.net/]223.5.5.5
-[/emrl0z.com/]223.5.5.5
 [/ems-audio.com/]223.5.5.5
 [/ems517.com/]223.5.5.5
 [/emsec.hk/]223.5.5.5
@@ -34414,6 +34409,7 @@ tls://1.0.0.1
 [/lanshanweb.com/]223.5.5.5
 [/lanshenniao.com/]223.5.5.5
 [/lanshizi.com/]223.5.5.5
+[/lansors.com/]223.5.5.5
 [/lantian-hotel.com/]223.5.5.5
 [/lantian.tv/]223.5.5.5
 [/lanting123.com/]223.5.5.5
@@ -34971,7 +34967,6 @@ tls://1.0.0.1
 [/leweicn.com/]223.5.5.5
 [/lewen.la/]223.5.5.5
 [/lewen567.com/]223.5.5.5
-[/lewen88.com/]223.5.5.5
 [/lewenba.cc/]223.5.5.5
 [/lewenn.com/]223.5.5.5
 [/lewenxsw.com/]223.5.5.5
@@ -36001,7 +35996,6 @@ tls://1.0.0.1
 [/lolgo.net/]223.5.5.5
 [/loli.cloud/]223.5.5.5
 [/loli.ee/]223.5.5.5
-[/loli.my/]223.5.5.5
 [/loli.wiki/]223.5.5.5
 [/loliloli.moe/]223.5.5.5
 [/loliloli.net/]223.5.5.5
@@ -38935,6 +38929,7 @@ tls://1.0.0.1
 [/mukewang.com/]223.5.5.5
 [/mukool.com/]223.5.5.5
 [/mulazim.com/]223.5.5.5
+[/multilingual-volc.com/]223.5.5.5
 [/mumayi.com/]223.5.5.5
 [/mumu01.com/]223.5.5.5
 [/muniao.com/]223.5.5.5
@@ -43658,6 +43653,7 @@ tls://1.0.0.1
 [/qoocc.com/]223.5.5.5
 [/qooic.com/]223.5.5.5
 [/qookar.com/]223.5.5.5
+[/qookkagames.com/]223.5.5.5
 [/qoqaoligei.com/]223.5.5.5
 [/qoqkkhy.com/]223.5.5.5
 [/qosq.com/]223.5.5.5
@@ -48862,7 +48858,6 @@ tls://1.0.0.1
 [/sumrday.net/]223.5.5.5
 [/sumscope.com/]223.5.5.5
 [/sumsz.com/]223.5.5.5
-[/sumygg.com/]223.5.5.5
 [/sumzc.com/]223.5.5.5
 [/sun-ada.net/]223.5.5.5
 [/sun-wish.com/]223.5.5.5
@@ -52662,6 +52657,7 @@ tls://1.0.0.1
 [/upupbug.com/]223.5.5.5
 [/upupfile.com/]223.5.5.5
 [/upupoo.com/]223.5.5.5
+[/upupview.com/]223.5.5.5
 [/upupw.net/]223.5.5.5
 [/upwardsware.com/]223.5.5.5
 [/upwith.me/]223.5.5.5
@@ -55124,7 +55120,6 @@ tls://1.0.0.1
 [/win3000.com/]223.5.5.5
 [/win4000.com/]223.5.5.5
 [/win71234.com/]223.5.5.5
-[/win789.com/]223.5.5.5
 [/win7china.com/]223.5.5.5
 [/win7en.com/]223.5.5.5
 [/win7qijian.com/]223.5.5.5
@@ -55645,7 +55640,6 @@ tls://1.0.0.1
 [/wowoyou.net/]223.5.5.5
 [/wowqu.cc/]223.5.5.5
 [/wowsai.com/]223.5.5.5
-[/wowys.com/]223.5.5.5
 [/woxian.com/]223.5.5.5
 [/woxiaoyun.com/]223.5.5.5
 [/woxihuan.com/]223.5.5.5
@@ -63152,6 +63146,7 @@ tls://1.0.0.1
 [/zihaixiaochengxu.com/]223.5.5.5
 [/zihexin.net/]223.5.5.5
 [/zihu.com/]223.5.5.5
+[/zihua.li/]223.5.5.5
 [/zihua01.com/]223.5.5.5
 [/zihuazhijia.com/]223.5.5.5
 [/ziisp.com/]223.5.5.5

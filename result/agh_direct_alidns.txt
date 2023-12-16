@@ -9119,6 +9119,7 @@ tls://1.0.0.1
 [/b2b179.com/]223.5.5.5
 [/b2b6.com/]223.5.5.5
 [/b2baa.com/]223.5.5.5
+[/b2bgo.com/]223.5.5.5
 [/b2bic.com/]223.5.5.5
 [/b2bname.com/]223.5.5.5
 [/b2bvip.com/]223.5.5.5
@@ -19858,6 +19859,7 @@ tls://1.0.0.1
 [/edu84.com/]223.5.5.5
 [/edu84.net/]223.5.5.5
 [/edu88.com/]223.5.5.5
+[/eduapaashwc.com/]223.5.5.5
 [/eduartisan.com/]223.5.5.5
 [/educg.net/]223.5.5.5
 [/educhn.net/]223.5.5.5
@@ -25591,6 +25593,7 @@ tls://1.0.0.1
 [/hc-byq.com/]223.5.5.5
 [/hc-cdn.com/]223.5.5.5
 [/hc-software.com/]223.5.5.5
+[/hc-sre.com/]223.5.5.5
 [/hc01.com/]223.5.5.5
 [/hc121.com/]223.5.5.5
 [/hc23.com/]223.5.5.5
@@ -27422,6 +27425,7 @@ tls://1.0.0.1
 [/huaweicloud.com/]223.5.5.5
 [/huaweicloudapis.com/]223.5.5.5
 [/huaweicloudlive.com/]223.5.5.5
+[/huaweicloudsite.com/]223.5.5.5
 [/huaweicloudwaf.com/]223.5.5.5
 [/huaweidevice.com/]223.5.5.5
 [/huaweidun.com/]223.5.5.5
@@ -27430,8 +27434,10 @@ tls://1.0.0.1
 [/huaweimarine.com/]223.5.5.5
 [/huaweimarketplace.com/]223.5.5.5
 [/huaweimossel.com/]223.5.5.5
+[/huaweioneaccess.com/]223.5.5.5
 [/huaweirom.com/]223.5.5.5
 [/huaweisafedns.com/]223.5.5.5
+[/huaweisre.com/]223.5.5.5
 [/huaweistatic.com/]223.5.5.5
 [/huaweiuniversity.com/]223.5.5.5
 [/huaweiyun.com/]223.5.5.5
@@ -27919,6 +27925,7 @@ tls://1.0.0.1
 [/hwangda.com/]223.5.5.5
 [/hwanjia.com/]223.5.5.5
 [/hwasmart.com/]223.5.5.5
+[/hwastro.com/]223.5.5.5
 [/hwbaoan.com/]223.5.5.5
 [/hwccpc.com/]223.5.5.5
 [/hwcdnsre.com/]223.5.5.5
@@ -27929,6 +27936,7 @@ tls://1.0.0.1
 [/hwclouds.com/]223.5.5.5
 [/hwclouds.mobi/]223.5.5.5
 [/hwclouds.net/]223.5.5.5
+[/hwcloudsite.com/]223.5.5.5
 [/hwcloudvis.com/]223.5.5.5
 [/hwcpb.com/]223.5.5.5
 [/hwcrazy.com/]223.5.5.5
@@ -39155,6 +39163,7 @@ tls://1.0.0.1
 [/myhwcdn.com/]223.5.5.5
 [/myhwcloudlive.com/]223.5.5.5
 [/myhwclouds.com/]223.5.5.5
+[/myhwclouds.net/]223.5.5.5
 [/myie.me/]223.5.5.5
 [/myie9.com/]223.5.5.5
 [/myimis.com/]223.5.5.5
@@ -64400,6 +64409,7 @@ tls://1.0.0.1
 [/bj1.api.bing.com/]223.5.5.5
 [/bookkeeper.itunes.apple.com/]223.5.5.5
 [/borgmon.adz.google.com/]223.5.5.5
+[/build.microsoft.com/]223.5.5.5
 [/c.admob.com/]223.5.5.5
 [/c.android.clients.google.com/]223.5.5.5
 [/cache-management-prod.google.com/]223.5.5.5
@@ -64463,6 +64473,7 @@ tls://1.0.0.1
 [/ctldl.windowsupdate.com/]223.5.5.5
 [/dartsearch-cn.net/]223.5.5.5
 [/dd-cdn.origin-apple.com.akadns.net/]223.5.5.5
+[/devblogs.microsoft.com/]223.5.5.5
 [/developer.microsoft.com/]223.5.5.5
 [/dg-meta.video.google.com/]223.5.5.5
 [/discussionschinese.apple.com/]223.5.5.5
@@ -64595,6 +64606,7 @@ tls://1.0.0.1
 [/js-cdn.music.apple.com/]223.5.5.5
 [/kc.kexinshe.com/]223.5.5.5
 [/km.support.apple.com/]223.5.5.5
+[/learn.microsoft.com/]223.5.5.5
 [/manga.bilibili.com/]223.5.5.5
 [/maps.apple.com/]223.5.5.5
 [/menu-static.gog-statics.com/]223.5.5.5
@@ -64746,6 +64758,7 @@ tls://1.0.0.1
 [/upp.itunes.apple.com/]223.5.5.5
 [/valid.apple.com/]223.5.5.5
 [/valid.origin-apple.com.akadns.net/]223.5.5.5
+[/vscode.download.prss.microsoft.com/]223.5.5.5
 [/wear.googleapis.com/]223.5.5.5
 [/weather-data.apple.com/]223.5.5.5
 [/weather-data.apple.com.akadns.net/]223.5.5.5

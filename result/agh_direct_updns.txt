@@ -9119,6 +9119,7 @@ tls://1.0.0.1
 [/b2b179.com/]127.0.0.1:54
 [/b2b6.com/]127.0.0.1:54
 [/b2baa.com/]127.0.0.1:54
+[/b2bgo.com/]127.0.0.1:54
 [/b2bic.com/]127.0.0.1:54
 [/b2bname.com/]127.0.0.1:54
 [/b2bvip.com/]127.0.0.1:54
@@ -19858,6 +19859,7 @@ tls://1.0.0.1
 [/edu84.com/]127.0.0.1:54
 [/edu84.net/]127.0.0.1:54
 [/edu88.com/]127.0.0.1:54
+[/eduapaashwc.com/]127.0.0.1:54
 [/eduartisan.com/]127.0.0.1:54
 [/educg.net/]127.0.0.1:54
 [/educhn.net/]127.0.0.1:54
@@ -25591,6 +25593,7 @@ tls://1.0.0.1
 [/hc-byq.com/]127.0.0.1:54
 [/hc-cdn.com/]127.0.0.1:54
 [/hc-software.com/]127.0.0.1:54
+[/hc-sre.com/]127.0.0.1:54
 [/hc01.com/]127.0.0.1:54
 [/hc121.com/]127.0.0.1:54
 [/hc23.com/]127.0.0.1:54
@@ -27422,6 +27425,7 @@ tls://1.0.0.1
 [/huaweicloud.com/]127.0.0.1:54
 [/huaweicloudapis.com/]127.0.0.1:54
 [/huaweicloudlive.com/]127.0.0.1:54
+[/huaweicloudsite.com/]127.0.0.1:54
 [/huaweicloudwaf.com/]127.0.0.1:54
 [/huaweidevice.com/]127.0.0.1:54
 [/huaweidun.com/]127.0.0.1:54
@@ -27430,8 +27434,10 @@ tls://1.0.0.1
 [/huaweimarine.com/]127.0.0.1:54
 [/huaweimarketplace.com/]127.0.0.1:54
 [/huaweimossel.com/]127.0.0.1:54
+[/huaweioneaccess.com/]127.0.0.1:54
 [/huaweirom.com/]127.0.0.1:54
 [/huaweisafedns.com/]127.0.0.1:54
+[/huaweisre.com/]127.0.0.1:54
 [/huaweistatic.com/]127.0.0.1:54
 [/huaweiuniversity.com/]127.0.0.1:54
 [/huaweiyun.com/]127.0.0.1:54
@@ -27919,6 +27925,7 @@ tls://1.0.0.1
 [/hwangda.com/]127.0.0.1:54
 [/hwanjia.com/]127.0.0.1:54
 [/hwasmart.com/]127.0.0.1:54
+[/hwastro.com/]127.0.0.1:54
 [/hwbaoan.com/]127.0.0.1:54
 [/hwccpc.com/]127.0.0.1:54
 [/hwcdnsre.com/]127.0.0.1:54
@@ -27929,6 +27936,7 @@ tls://1.0.0.1
 [/hwclouds.com/]127.0.0.1:54
 [/hwclouds.mobi/]127.0.0.1:54
 [/hwclouds.net/]127.0.0.1:54
+[/hwcloudsite.com/]127.0.0.1:54
 [/hwcloudvis.com/]127.0.0.1:54
 [/hwcpb.com/]127.0.0.1:54
 [/hwcrazy.com/]127.0.0.1:54
@@ -39155,6 +39163,7 @@ tls://1.0.0.1
 [/myhwcdn.com/]127.0.0.1:54
 [/myhwcloudlive.com/]127.0.0.1:54
 [/myhwclouds.com/]127.0.0.1:54
+[/myhwclouds.net/]127.0.0.1:54
 [/myie.me/]127.0.0.1:54
 [/myie9.com/]127.0.0.1:54
 [/myimis.com/]127.0.0.1:54
@@ -64400,6 +64409,7 @@ tls://1.0.0.1
 [/bj1.api.bing.com/]127.0.0.1:54
 [/bookkeeper.itunes.apple.com/]127.0.0.1:54
 [/borgmon.adz.google.com/]127.0.0.1:54
+[/build.microsoft.com/]127.0.0.1:54
 [/c.admob.com/]127.0.0.1:54
 [/c.android.clients.google.com/]127.0.0.1:54
 [/cache-management-prod.google.com/]127.0.0.1:54
@@ -64463,6 +64473,7 @@ tls://1.0.0.1
 [/ctldl.windowsupdate.com/]127.0.0.1:54
 [/dartsearch-cn.net/]127.0.0.1:54
 [/dd-cdn.origin-apple.com.akadns.net/]127.0.0.1:54
+[/devblogs.microsoft.com/]127.0.0.1:54
 [/developer.microsoft.com/]127.0.0.1:54
 [/dg-meta.video.google.com/]127.0.0.1:54
 [/discussionschinese.apple.com/]127.0.0.1:54
@@ -64595,6 +64606,7 @@ tls://1.0.0.1
 [/js-cdn.music.apple.com/]127.0.0.1:54
 [/kc.kexinshe.com/]127.0.0.1:54
 [/km.support.apple.com/]127.0.0.1:54
+[/learn.microsoft.com/]127.0.0.1:54
 [/manga.bilibili.com/]127.0.0.1:54
 [/maps.apple.com/]127.0.0.1:54
 [/menu-static.gog-statics.com/]127.0.0.1:54
@@ -64746,6 +64758,7 @@ tls://1.0.0.1
 [/upp.itunes.apple.com/]127.0.0.1:54
 [/valid.apple.com/]127.0.0.1:54
 [/valid.origin-apple.com.akadns.net/]127.0.0.1:54
+[/vscode.download.prss.microsoft.com/]127.0.0.1:54
 [/wear.googleapis.com/]127.0.0.1:54
 [/weather-data.apple.com/]127.0.0.1:54
 [/weather-data.apple.com.akadns.net/]127.0.0.1:54

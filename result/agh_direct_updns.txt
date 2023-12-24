@@ -64596,6 +64596,7 @@ tls://1.0.0.1
 [/msgr.dlservice.microsoft.com/]127.0.0.1:54
 [/msgruser.dlservice.microsoft.com/]127.0.0.1:54
 [/music.apple.com/]127.0.0.1:54
+[/myvs.download.prss.microsoft.com/]127.0.0.1:54
 [/ocsp-lb.apple.com.akadns.net/]127.0.0.1:54
 [/ocsp.apple.com/]127.0.0.1:54
 [/ocsp.globalsign.com/]127.0.0.1:54
@@ -64603,6 +64604,7 @@ tls://1.0.0.1
 [/ocsp2-lb.apple.com.akadns.net/]127.0.0.1:54
 [/ocsp2.apple.com/]127.0.0.1:54
 [/ocsp2.globalsign.com/]127.0.0.1:54
+[/oemsoc.download.prss.microsoft.com/]127.0.0.1:54
 [/officecdn.microsoft.com/]127.0.0.1:54
 [/opencourse.pku.edu.cn/]127.0.0.1:54
 [/oscdn.apple.com/]127.0.0.1:54
@@ -64682,6 +64684,7 @@ tls://1.0.0.1
 [/silverlight.dlservice.microsoft.com/]127.0.0.1:54
 [/slupdate.dlservice.microsoft.com/]127.0.0.1:54
 [/smp-device-content.apple.com/]127.0.0.1:54
+[/software.download.prss.microsoft.com/]127.0.0.1:54
 [/sp.itunes.apple.com/]127.0.0.1:54
 [/ss.bjmu.edu.cn/]127.0.0.1:54
 [/ssl-google-analytics.l.google.com/]127.0.0.1:54
@@ -64705,6 +64708,7 @@ tls://1.0.0.1
 [/support-china.apple-support.akadns.net/]127.0.0.1:54
 [/support.1ucrs.com/]127.0.0.1:54
 [/support.apple.com/]127.0.0.1:54
+[/surface.downloads.prss.microsoft.com/]127.0.0.1:54
 [/swallow-apple-com.v.aaplimg.com/]127.0.0.1:54
 [/swallow.apple.com/]127.0.0.1:54
 [/swcatalog-cdn.apple.com.akadns.net/]127.0.0.1:54
@@ -64735,6 +64739,7 @@ tls://1.0.0.1
 [/valid.apple.com/]127.0.0.1:54
 [/valid.origin-apple.com.akadns.net/]127.0.0.1:54
 [/vscode.download.prss.microsoft.com/]127.0.0.1:54
+[/vz.download.prss.microsoft.com/]127.0.0.1:54
 [/wear.googleapis.com/]127.0.0.1:54
 [/weather-data.apple.com/]127.0.0.1:54
 [/weather-data.apple.com.akadns.net/]127.0.0.1:54

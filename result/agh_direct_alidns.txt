@@ -64596,6 +64596,7 @@ tls://1.0.0.1
 [/msgr.dlservice.microsoft.com/]223.5.5.5
 [/msgruser.dlservice.microsoft.com/]223.5.5.5
 [/music.apple.com/]223.5.5.5
+[/myvs.download.prss.microsoft.com/]223.5.5.5
 [/ocsp-lb.apple.com.akadns.net/]223.5.5.5
 [/ocsp.apple.com/]223.5.5.5
 [/ocsp.globalsign.com/]223.5.5.5
@@ -64603,6 +64604,7 @@ tls://1.0.0.1
 [/ocsp2-lb.apple.com.akadns.net/]223.5.5.5
 [/ocsp2.apple.com/]223.5.5.5
 [/ocsp2.globalsign.com/]223.5.5.5
+[/oemsoc.download.prss.microsoft.com/]223.5.5.5
 [/officecdn.microsoft.com/]223.5.5.5
 [/opencourse.pku.edu.cn/]223.5.5.5
 [/oscdn.apple.com/]223.5.5.5
@@ -64682,6 +64684,7 @@ tls://1.0.0.1
 [/silverlight.dlservice.microsoft.com/]223.5.5.5
 [/slupdate.dlservice.microsoft.com/]223.5.5.5
 [/smp-device-content.apple.com/]223.5.5.5
+[/software.download.prss.microsoft.com/]223.5.5.5
 [/sp.itunes.apple.com/]223.5.5.5
 [/ss.bjmu.edu.cn/]223.5.5.5
 [/ssl-google-analytics.l.google.com/]223.5.5.5
@@ -64705,6 +64708,7 @@ tls://1.0.0.1
 [/support-china.apple-support.akadns.net/]223.5.5.5
 [/support.1ucrs.com/]223.5.5.5
 [/support.apple.com/]223.5.5.5
+[/surface.downloads.prss.microsoft.com/]223.5.5.5
 [/swallow-apple-com.v.aaplimg.com/]223.5.5.5
 [/swallow.apple.com/]223.5.5.5
 [/swcatalog-cdn.apple.com.akadns.net/]223.5.5.5
@@ -64735,6 +64739,7 @@ tls://1.0.0.1
 [/valid.apple.com/]223.5.5.5
 [/valid.origin-apple.com.akadns.net/]223.5.5.5
 [/vscode.download.prss.microsoft.com/]223.5.5.5
+[/vz.download.prss.microsoft.com/]223.5.5.5
 [/wear.googleapis.com/]223.5.5.5
 [/weather-data.apple.com/]223.5.5.5
 [/weather-data.apple.com.akadns.net/]223.5.5.5

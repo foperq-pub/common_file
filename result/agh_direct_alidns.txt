@@ -64767,3 +64767,6 @@ tls://1.0.0.1
 [/xn--flw351e.com/]223.5.5.5
 [/xp.apple.com/]223.5.5.5
 [/xz.pphimalayanrt.com/]223.5.5.5
+[/push.apple.com/]223.5.5.5
+[/push-apple.com.akadns.net/]223.5.5.5
+[/courier-push-apple.com.akadns.net/]223.5.5.5

@@ -28,7 +28,7 @@ jobs:
       - name: Download Lists And Copy Lists
         run: |
           wget ${{ env.DIRECT_LIST }} -O ./result/agh_direct_alidns.txt
-          python3 script/custonmize_list.py ./result/agh_direct_alidns.txt ./customization/domain_local_dns.txt
+          python3 script/customize_list.py ./result/agh_direct_alidns.txt ./customization/domain_local_dns.txt
           cp -f ./result/agh_direct_alidns.txt ./result/agh_direct_updns.txt
 
       - name: Generate Common Files

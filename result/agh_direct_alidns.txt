@@ -12570,6 +12570,7 @@ tls://1.0.0.1
 [/cdn-uc.cc/]223.5.5.5
 [/cdn-v.com/]223.5.5.5
 [/cdn.fun/]223.5.5.5
+[/cdn.jetbrains.com/]223.5.5.5
 [/cdn.razersynapse.com/]223.5.5.5
 [/cdn.samsung.com/]223.5.5.5
 [/cdn.shanghai.nyu.edu/]223.5.5.5
@@ -64322,7 +64323,6 @@ tls://1.0.0.1
 [/doubleclick-cn.net/]223.5.5.5
 [/doubleclick.net/]223.5.5.5
 [/download.developer.apple.com/]223.5.5.5
-[/download.jetbrains.com/]223.5.5.5
 [/download.microsoft.com/]223.5.5.5
 [/download.mlcc.google.com/]223.5.5.5
 [/download.qatp1.net/]223.5.5.5

@@ -6463,7 +6463,6 @@ tls://1.0.0.1
 [/987.com/]127.0.0.1:54
 [/9873.com/]127.0.0.1:54
 [/987app.com/]127.0.0.1:54
-[/987jx.net/]127.0.0.1:54
 [/987you.com/]127.0.0.1:54
 [/98809.com/]127.0.0.1:54
 [/988272.com/]127.0.0.1:54
@@ -7679,6 +7678,7 @@ tls://1.0.0.1
 [/ak1ak1.com/]127.0.0.1:54
 [/ak47ids.com/]127.0.0.1:54
 [/akaifa.com/]127.0.0.1:54
+[/akamai.com/]127.0.0.1:54
 [/akashadata.com/]127.0.0.1:54
 [/akaxin.com/]127.0.0.1:54
 [/akbe.com/]127.0.0.1:54
@@ -8585,6 +8585,7 @@ tls://1.0.0.1
 [/apsgo.com/]127.0.0.1:54
 [/aptchina.com/]127.0.0.1:54
 [/aptchip.com/]127.0.0.1:54
+[/aptdn.net/]127.0.0.1:54
 [/aptenon.com/]127.0.0.1:54
 [/apusic.com/]127.0.0.1:54
 [/apxm.net/]127.0.0.1:54
@@ -16037,7 +16038,6 @@ tls://1.0.0.1
 [/cqbnedu.com/]127.0.0.1:54
 [/cqbnrc.com/]127.0.0.1:54
 [/cqbntv.com/]127.0.0.1:54
-[/cqbyer.net/]127.0.0.1:54
 [/cqbys.com/]127.0.0.1:54
 [/cqcaee.com/]127.0.0.1:54
 [/cqcatr.com/]127.0.0.1:54
@@ -17250,7 +17250,6 @@ tls://1.0.0.1
 [/data5u.com/]127.0.0.1:54
 [/data777.com/]127.0.0.1:54
 [/data985.com/]127.0.0.1:54
-[/datacachelocation.com/]127.0.0.1:54
 [/datacaciques.com/]127.0.0.1:54
 [/datacname.com/]127.0.0.1:54
 [/datadragon.net/]127.0.0.1:54
@@ -18208,7 +18207,6 @@ tls://1.0.0.1
 [/div.io/]127.0.0.1:54
 [/divcss5.com/]127.0.0.1:54
 [/divepai.com/]127.0.0.1:54
-[/divetgallery.com/]127.0.0.1:54
 [/diving-fish.com/]127.0.0.1:54
 [/diwork.com/]127.0.0.1:54
 [/dixintong.com/]127.0.0.1:54
@@ -18598,7 +18596,6 @@ tls://1.0.0.1
 [/domengle.com/]127.0.0.1:54
 [/dominoh.com/]127.0.0.1:54
 [/domobcdn.com/]127.0.0.1:54
-[/domolo.com/]127.0.0.1:54
 [/domp4.cc/]127.0.0.1:54
 [/domyshop.com/]127.0.0.1:54
 [/donews.com/]127.0.0.1:54
@@ -30279,7 +30276,6 @@ tls://1.0.0.1
 [/iucars.com/]127.0.0.1:54
 [/iucdn.com/]127.0.0.1:54
 [/iuctrip.com/]127.0.0.1:54
-[/iudodo.com/]127.0.0.1:54
 [/iufida.com/]127.0.0.1:54
 [/iuinns.com/]127.0.0.1:54
 [/iuni.com/]127.0.0.1:54
@@ -30521,6 +30517,7 @@ tls://1.0.0.1
 [/janmeng.com/]127.0.0.1:54
 [/janpn.com/]127.0.0.1:54
 [/janrain.biz/]127.0.0.1:54
+[/janrainservices.com/]127.0.0.1:54
 [/jarencai.com/]127.0.0.1:54
 [/jarhu.com/]127.0.0.1:54
 [/jarvisw.com/]127.0.0.1:54
@@ -34695,7 +34692,6 @@ tls://1.0.0.1
 [/laserfair.com/]127.0.0.1:54
 [/lashou.com/]127.0.0.1:54
 [/lastdream.net/]127.0.0.1:54
-[/lasy.site/]127.0.0.1:54
 [/lategege.com/]127.0.0.1:54
 [/latepost.com/]127.0.0.1:54
 [/latexstudio.net/]127.0.0.1:54
@@ -36427,7 +36423,6 @@ tls://1.0.0.1
 [/lsfyw.net/]127.0.0.1:54
 [/lsg3.com/]127.0.0.1:54
 [/lsgrandtheatre.com/]127.0.0.1:54
-[/lsgsgs.com/]127.0.0.1:54
 [/lsgw.com/]127.0.0.1:54
 [/lsgzn.com/]127.0.0.1:54
 [/lsh-cat.com/]127.0.0.1:54
@@ -49661,7 +49656,6 @@ tls://1.0.0.1
 [/szlilun.com/]127.0.0.1:54
 [/szline9.com/]127.0.0.1:54
 [/szlingsheng.com/]127.0.0.1:54
-[/szlips.com/]127.0.0.1:54
 [/szlos.com/]127.0.0.1:54
 [/szlottery.org/]127.0.0.1:54
 [/szltech.com/]127.0.0.1:54
@@ -53750,6 +53744,7 @@ tls://1.0.0.1
 [/vpssir.com/]127.0.0.1:54
 [/vpsss.net/]127.0.0.1:54
 [/vpszh.com/]127.0.0.1:54
+[/vqlai.com/]127.0.0.1:54
 [/vqs.com/]127.0.0.1:54
 [/vqu.show/]127.0.0.1:54
 [/vqudo.com/]127.0.0.1:54
@@ -56364,7 +56359,6 @@ tls://1.0.0.1
 [/www-63608.com/]127.0.0.1:54
 [/www-hangzhou-aliyun.com/]127.0.0.1:54
 [/www.adobe.com/]127.0.0.1:54
-[/www.akamai.com/]127.0.0.1:54
 [/www.amd.com/]127.0.0.1:54
 [/www.analog.com/]127.0.0.1:54
 [/www.cc/]127.0.0.1:54
@@ -57950,7 +57944,6 @@ tls://1.0.0.1
 [/xishuai.com/]127.0.0.1:54
 [/xishuai.net/]127.0.0.1:54
 [/xishuashuatuan.com/]127.0.0.1:54
-[/xisj.com/]127.0.0.1:54
 [/xitaoinfo.com/]127.0.0.1:54
 [/xitek.com/]127.0.0.1:54
 [/xitek.net/]127.0.0.1:54
@@ -58461,7 +58454,6 @@ tls://1.0.0.1
 [/xqnmz.com/]127.0.0.1:54
 [/xqsbw.com/]127.0.0.1:54
 [/xqship.com/]127.0.0.1:54
-[/xqtesting.com/]127.0.0.1:54
 [/xqyk024.com/]127.0.0.1:54
 [/xqymuy.com/]127.0.0.1:54
 [/xqypay.com/]127.0.0.1:54
@@ -58537,7 +58529,6 @@ tls://1.0.0.1
 [/xsstomy.com/]127.0.0.1:54
 [/xssz.net/]127.0.0.1:54
 [/xsteach.com/]127.0.0.1:54
-[/xsthmy.com/]127.0.0.1:54
 [/xsti.net/]127.0.0.1:54
 [/xstqj.com/]127.0.0.1:54
 [/xstx.info/]127.0.0.1:54
@@ -58854,7 +58845,6 @@ tls://1.0.0.1
 [/xwjr.com/]127.0.0.1:54
 [/xwjy.org/]127.0.0.1:54
 [/xwkjcms.com/]127.0.0.1:54
-[/xwko.com/]127.0.0.1:54
 [/xwlunwen.com/]127.0.0.1:54
 [/xwlxw.com/]127.0.0.1:54
 [/xwtex.com/]127.0.0.1:54

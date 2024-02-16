@@ -67993,6 +67993,7 @@ tls://1.0.0.1
 [/crl-lb.apple.com.akadns.net/]127.0.0.1:54
 [/crl.apple.com/]127.0.0.1:54
 [/crl.pki.goog/]127.0.0.1:54
+[/crls.pki.goog/]127.0.0.1:54
 [/csi.gstatic.com/]127.0.0.1:54
 [/cstat.apple.com/]127.0.0.1:54
 [/cstat.cdn-apple.com/]127.0.0.1:54

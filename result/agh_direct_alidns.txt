@@ -15501,8 +15501,11 @@ tls://1.0.0.1
 [/clouddongying.com/]223.5.5.5
 [/clouddream.net/]223.5.5.5
 [/cloudflare-cn.com/]223.5.5.5
+[/cloudflareanycast.net/]223.5.5.5
 [/cloudflarecn.net/]223.5.5.5
+[/cloudflareglobal.net/]223.5.5.5
 [/cloudflareinsights-cn.com/]223.5.5.5
+[/cloudflareperf.com/]223.5.5.5
 [/cloudflareprod.com/]223.5.5.5
 [/cloudflarestaging.com/]223.5.5.5
 [/cloudflarestoragegw.com/]223.5.5.5

@@ -3165,7 +3165,6 @@ tls://1.0.0.1
 [/371house.com/]127.0.0.1:54
 [/371love.com/]127.0.0.1:54
 [/37201.com/]127.0.0.1:54
-[/3721ps.com/]127.0.0.1:54
 [/3722.com/]127.0.0.1:54
 [/37274.com/]127.0.0.1:54
 [/3733.com/]127.0.0.1:54
@@ -3803,6 +3802,7 @@ tls://1.0.0.1
 [/5119.net/]127.0.0.1:54
 [/511mv.com/]127.0.0.1:54
 [/511wan.com/]127.0.0.1:54
+[/511wh.com/]127.0.0.1:54
 [/511wx.com/]127.0.0.1:54
 [/511yj.com/]127.0.0.1:54
 [/5120.com/]127.0.0.1:54
@@ -4058,6 +4058,7 @@ tls://1.0.0.1
 [/51huanhuan.com/]127.0.0.1:54
 [/51huaya.com/]127.0.0.1:54
 [/51hunningtu.com/]127.0.0.1:54
+[/51huoyou.com/]127.0.0.1:54
 [/51hvac.com/]127.0.0.1:54
 [/51hwe.com/]127.0.0.1:54
 [/51hwzy.com/]127.0.0.1:54
@@ -5188,7 +5189,6 @@ tls://1.0.0.1
 [/5jli.com/]127.0.0.1:54
 [/5joys.com/]127.0.0.1:54
 [/5jwl.com/]127.0.0.1:54
-[/5k5m.com/]127.0.0.1:54
 [/5kbox.com/]127.0.0.1:54
 [/5kcrm.com/]127.0.0.1:54
 [/5kcrm.net/]127.0.0.1:54
@@ -6003,7 +6003,6 @@ tls://1.0.0.1
 [/7down.net/]127.0.0.1:54
 [/7dtest.com/]127.0.0.1:54
 [/7dugo.com/]127.0.0.1:54
-[/7e.hk/]127.0.0.1:54
 [/7east.com/]127.0.0.1:54
 [/7ed.net/]127.0.0.1:54
 [/7edown.com/]127.0.0.1:54
@@ -10121,7 +10120,6 @@ tls://1.0.0.1
 [/aymhsy.com/]127.0.0.1:54
 [/ayqy.net/]127.0.0.1:54
 [/ayrbs.com/]127.0.0.1:54
-[/aysdlm.com/]127.0.0.1:54
 [/ayshq.com/]127.0.0.1:54
 [/aysz01.com/]127.0.0.1:54
 [/ayuren.com/]127.0.0.1:54
@@ -18590,7 +18588,6 @@ tls://1.0.0.1
 [/cuimm.com/]127.0.0.1:54
 [/cuiniaoedu.com/]127.0.0.1:54
 [/cuiniuhui.com/]127.0.0.1:54
-[/cuipengfei.me/]127.0.0.1:54
 [/cuipixiong.com/]127.0.0.1:54
 [/cuiqingcai.com/]127.0.0.1:54
 [/cuirushi.com/]127.0.0.1:54
@@ -18629,7 +18626,6 @@ tls://1.0.0.1
 [/cuplayer.com/]127.0.0.1:54
 [/cureedit.com/]127.0.0.1:54
 [/curlc.com/]127.0.0.1:54
-[/curryhuang.com/]127.0.0.1:54
 [/cusdvs.net/]127.0.0.1:54
 [/cuspromo.com/]127.0.0.1:54
 [/custeel.com/]127.0.0.1:54
@@ -18752,7 +18748,6 @@ tls://1.0.0.1
 [/cyagen.com/]127.0.0.1:54
 [/cyanhillcapital.com/]127.0.0.1:54
 [/cyb-bot.com/]127.0.0.1:54
-[/cyb-cie.com/]127.0.0.1:54
 [/cyb800.com/]127.0.0.1:54
 [/cybermedicine2000.com/]127.0.0.1:54
 [/cyberway-china.net/]127.0.0.1:54
@@ -22250,7 +22245,6 @@ tls://1.0.0.1
 [/ecouser.net/]127.0.0.1:54
 [/ecovacs.com/]127.0.0.1:54
 [/ecp888.com/]127.0.0.1:54
-[/ecparty.net/]127.0.0.1:54
 [/ecphk.com/]127.0.0.1:54
 [/ecplf.com/]127.0.0.1:54
 [/ecppn.com/]127.0.0.1:54
@@ -22276,6 +22270,7 @@ tls://1.0.0.1
 [/ecyj.net/]127.0.0.1:54
 [/ecyti.com/]127.0.0.1:54
 [/ecyzm.com/]127.0.0.1:54
+[/ed2k.vip/]127.0.0.1:54
 [/ed2kers.com/]127.0.0.1:54
 [/ed2kk.com/]127.0.0.1:54
 [/eda-china.com/]127.0.0.1:54
@@ -24158,7 +24153,6 @@ tls://1.0.0.1
 [/fenlei168.com/]127.0.0.1:54
 [/fenlei265.com/]127.0.0.1:54
 [/fenleidao.com/]127.0.0.1:54
-[/fenleitong.com/]127.0.0.1:54
 [/fenliu.net/]127.0.0.1:54
 [/fennessy.hk/]127.0.0.1:54
 [/fenqihome.com/]127.0.0.1:54
@@ -24261,6 +24255,7 @@ tls://1.0.0.1
 [/fhyx.hk/]127.0.0.1:54
 [/fi-play.com/]127.0.0.1:54
 [/fi0.cc/]127.0.0.1:54
+[/fi11tv162.com/]127.0.0.1:54
 [/fi1818.com/]127.0.0.1:54
 [/fi94.com/]127.0.0.1:54
 [/fibercrops.com/]127.0.0.1:54
@@ -28107,7 +28102,6 @@ tls://1.0.0.1
 [/hairycrabs.com/]127.0.0.1:54
 [/haisenyouxi8.com/]127.0.0.1:54
 [/haishengfrp.com/]127.0.0.1:54
-[/haisheteam.com/]127.0.0.1:54
 [/haishui.cc/]127.0.0.1:54
 [/haishun.com/]127.0.0.1:54
 [/haishun6688.com/]127.0.0.1:54
@@ -29067,6 +29061,7 @@ tls://1.0.0.1
 [/head-way.com/]127.0.0.1:54
 [/headphoneclub.com/]127.0.0.1:54
 [/healthcareol.net/]127.0.0.1:54
+[/healthcareyun.com/]127.0.0.1:54
 [/healthjd.com/]127.0.0.1:54
 [/healthr.com/]127.0.0.1:54
 [/healthych.com/]127.0.0.1:54
@@ -29707,6 +29702,7 @@ tls://1.0.0.1
 [/hillyton.com/]127.0.0.1:54
 [/hiloong.com/]127.0.0.1:54
 [/hilunwen.com/]127.0.0.1:54
+[/himadotest.com/]127.0.0.1:54
 [/himaker.com/]127.0.0.1:54
 [/himanufacture.com/]127.0.0.1:54
 [/himarking.com/]127.0.0.1:54
@@ -30154,7 +30150,6 @@ tls://1.0.0.1
 [/hnsite.cc/]127.0.0.1:54
 [/hnsiwei.com/]127.0.0.1:54
 [/hnsktc.com/]127.0.0.1:54
-[/hnsmj.org/]127.0.0.1:54
 [/hnsoftedu.com/]127.0.0.1:54
 [/hnsqtg.com/]127.0.0.1:54
 [/hnsss.com/]127.0.0.1:54
@@ -30314,6 +30309,7 @@ tls://1.0.0.1
 [/hongdoufm.com/]127.0.0.1:54
 [/hongdoulive.com/]127.0.0.1:54
 [/hongen.com/]127.0.0.1:54
+[/hongfa.com/]127.0.0.1:54
 [/hongfen.org/]127.0.0.1:54
 [/hongfengyandu.com/]127.0.0.1:54
 [/hongfengye.com/]127.0.0.1:54
@@ -30337,7 +30333,6 @@ tls://1.0.0.1
 [/honglimingbiao.com/]127.0.0.1:54
 [/honglipai.net/]127.0.0.1:54
 [/honglulan.com/]127.0.0.1:54
-[/honglvlvye.com/]127.0.0.1:54
 [/hongmen.cc/]127.0.0.1:54
 [/hongmen.com/]127.0.0.1:54
 [/hongmoka.com/]127.0.0.1:54
@@ -30813,6 +30808,7 @@ tls://1.0.0.1
 [/htguosheng.com/]127.0.0.1:54
 [/htgwf.com/]127.0.0.1:54
 [/htidc.com/]127.0.0.1:54
+[/htimgs.com/]127.0.0.1:54
 [/htinfor.com/]127.0.0.1:54
 [/htinns.com/]127.0.0.1:54
 [/htinnsjm.com/]127.0.0.1:54
@@ -33114,7 +33110,6 @@ tls://1.0.0.1
 [/iluezhi.com/]127.0.0.1:54
 [/ilufan.com/]127.0.0.1:54
 [/iluoyang.com/]127.0.0.1:54
-[/iluqi.com/]127.0.0.1:54
 [/ilustrepro.com/]127.0.0.1:54
 [/iluvatar.ai/]127.0.0.1:54
 [/ilux.ai/]127.0.0.1:54
@@ -33586,7 +33581,6 @@ tls://1.0.0.1
 [/iosask.com/]127.0.0.1:54
 [/iosfengwo.com/]127.0.0.1:54
 [/iosi.vip/]127.0.0.1:54
-[/iosinit.com/]127.0.0.1:54
 [/iosmu.com/]127.0.0.1:54
 [/iosre.com/]127.0.0.1:54
 [/iosrxwy.com/]127.0.0.1:54
@@ -37545,7 +37539,6 @@ tls://1.0.0.1
 [/kazakcnr.com/]127.0.0.1:54
 [/kazhifu.com/]127.0.0.1:54
 [/kazithai.com/]127.0.0.1:54
-[/kb.cc/]127.0.0.1:54
 [/kb9.com/]127.0.0.1:54
 [/kbcdn.com/]127.0.0.1:54
 [/kbcmw.com/]127.0.0.1:54
@@ -38188,7 +38181,6 @@ tls://1.0.0.1
 [/kongrong.com/]127.0.0.1:54
 [/kongsun-hldgs.com/]127.0.0.1:54
 [/kongtiao365.com/]127.0.0.1:54
-[/kongyixueyuan.com/]127.0.0.1:54
 [/kongzhi.net/]127.0.0.1:54
 [/kongzhiji.com/]127.0.0.1:54
 [/kongzhong.com/]127.0.0.1:54
@@ -38353,6 +38345,7 @@ tls://1.0.0.1
 [/ksrmtzx.com/]127.0.0.1:54
 [/ksstcb.com/]127.0.0.1:54
 [/kstao.com/]127.0.0.1:54
+[/kstnjscl.com/]127.0.0.1:54
 [/kstz1.com/]127.0.0.1:54
 [/ksudi.com/]127.0.0.1:54
 [/ksupdate.com/]127.0.0.1:54
@@ -38505,7 +38498,6 @@ tls://1.0.0.1
 [/kuaisushu-cnd.com/]127.0.0.1:54
 [/kuaitijian.com/]127.0.0.1:54
 [/kuaitu666.com/]127.0.0.1:54
-[/kuaitui123.com/]127.0.0.1:54
 [/kuaiwan.com/]127.0.0.1:54
 [/kuaiwenyun.com/]127.0.0.1:54
 [/kuaixiazai.com/]127.0.0.1:54
@@ -38727,7 +38719,6 @@ tls://1.0.0.1
 [/kwaixiaodian.com/]127.0.0.1:54
 [/kwaiying.com/]127.0.0.1:54
 [/kwaizt.com/]127.0.0.1:54
-[/kwenku.com/]127.0.0.1:54
 [/kwimgs.com/]127.0.0.1:54
 [/kwkf.com/]127.0.0.1:54
 [/kws123.com/]127.0.0.1:54
@@ -38776,11 +38767,9 @@ tls://1.0.0.1
 [/ky-express.com/]127.0.0.1:54
 [/ky.live/]127.0.0.1:54
 [/ky01002.com/]127.0.0.1:54
-[/ky01005.com/]127.0.0.1:54
 [/ky01010.com/]127.0.0.1:54
 [/ky01013.com/]127.0.0.1:54
 [/ky01020.com/]127.0.0.1:54
-[/ky01022.com/]127.0.0.1:54
 [/ky107.co/]127.0.0.1:54
 [/ky151.co/]127.0.0.1:54
 [/ky5yx.com/]127.0.0.1:54
@@ -38851,7 +38840,6 @@ tls://1.0.0.1
 [/la-bbs.net/]127.0.0.1:54
 [/la-mo.com/]127.0.0.1:54
 [/la-technology.com/]127.0.0.1:54
-[/laakan.com/]127.0.0.1:54
 [/lab-z.com/]127.0.0.1:54
 [/labagd.com/]127.0.0.1:54
 [/labbang.com/]127.0.0.1:54
@@ -42113,6 +42101,8 @@ tls://1.0.0.1
 [/manben.com/]127.0.0.1:54
 [/manboker.com/]127.0.0.1:54
 [/mandao-tech.com/]127.0.0.1:54
+[/mandaom.com/]127.0.0.1:54
+[/mandaow.com/]127.0.0.1:54
 [/mandarinedu.org/]127.0.0.1:54
 [/mandarinhouse.com/]127.0.0.1:54
 [/mande-car.com/]127.0.0.1:54
@@ -43165,7 +43155,6 @@ tls://1.0.0.1
 [/mifengzhibo.com/]127.0.0.1:54
 [/mifispark.com/]127.0.0.1:54
 [/mifwl.com/]127.0.0.1:54
-[/migame.vip/]127.0.0.1:54
 [/mige.tv/]127.0.0.1:54
 [/migelab.com/]127.0.0.1:54
 [/miglioriorologi.com/]127.0.0.1:54
@@ -45212,7 +45201,6 @@ tls://1.0.0.1
 [/newoasis.cc/]127.0.0.1:54
 [/newoer.com/]127.0.0.1:54
 [/newoo.com/]127.0.0.1:54
-[/neworiental.org/]127.0.0.1:54
 [/nework360.com/]127.0.0.1:54
 [/neworldedu.org/]127.0.0.1:54
 [/newposture.vip/]127.0.0.1:54
@@ -45675,6 +45663,7 @@ tls://1.0.0.1
 [/nntskq.com/]127.0.0.1:54
 [/nntxw.com/]127.0.0.1:54
 [/nnwb.com/]127.0.0.1:54
+[/nnykzy120.com/]127.0.0.1:54
 [/nnynrc.com/]127.0.0.1:54
 [/nnzgh.org/]127.0.0.1:54
 [/nnzsxblaw.com/]127.0.0.1:54
@@ -48631,7 +48620,6 @@ tls://1.0.0.1
 [/qbangmang.com/]127.0.0.1:54
 [/qbb6.com/]127.0.0.1:54
 [/qbboss.com/]127.0.0.1:54
-[/qbd4.site/]127.0.0.1:54
 [/qbdgame.com/]127.0.0.1:54
 [/qbeenslee.com/]127.0.0.1:54
 [/qbewux.xyz/]127.0.0.1:54
@@ -49054,7 +49042,6 @@ tls://1.0.0.1
 [/qiao88.com/]127.0.0.1:54
 [/qiaobo.net/]127.0.0.1:54
 [/qiaobutang.com/]127.0.0.1:54
-[/qiaochucn.com/]127.0.0.1:54
 [/qiaodan.com/]127.0.0.1:54
 [/qiaofangyun.com/]127.0.0.1:54
 [/qiaofanxin.com/]127.0.0.1:54
@@ -49767,7 +49754,6 @@ tls://1.0.0.1
 [/qqmtc.com/]127.0.0.1:54
 [/qqmusic.com/]127.0.0.1:54
 [/qqnn.net/]127.0.0.1:54
-[/qqodjn.com/]127.0.0.1:54
 [/qqokk.com/]127.0.0.1:54
 [/qqopenapp.com/]127.0.0.1:54
 [/qqpao.com/]127.0.0.1:54
@@ -50943,7 +50929,6 @@ tls://1.0.0.1
 [/ritering.com/]127.0.0.1:54
 [/rivergame.net/]127.0.0.1:54
 [/riveryun.com/]127.0.0.1:54
-[/rixin.info/]127.0.0.1:54
 [/riya.cc/]127.0.0.1:54
 [/riyuexing.org/]127.0.0.1:54
 [/riyuezhuan.com/]127.0.0.1:54
@@ -52353,7 +52338,6 @@ tls://1.0.0.1
 [/seeyonoversea.com/]127.0.0.1:54
 [/seeyouhealth.com/]127.0.0.1:54
 [/seeyouyima.com/]127.0.0.1:54
-[/seezy.com/]127.0.0.1:54
 [/sefonsoft.com/]127.0.0.1:54
 [/segapi.com/]127.0.0.1:54
 [/segmentfault.com/]127.0.0.1:54
@@ -53309,7 +53293,6 @@ tls://1.0.0.1
 [/shimonote.net/]127.0.0.1:54
 [/shimowendang.com/]127.0.0.1:54
 [/shine-ic.com/]127.0.0.1:54
-[/shineenergy.com/]127.0.0.1:54
 [/shinelink.vip/]127.0.0.1:54
 [/shinelon.com/]127.0.0.1:54
 [/shinerayad.com/]127.0.0.1:54
@@ -54148,6 +54131,7 @@ tls://1.0.0.1
 [/sinochem.com/]127.0.0.1:54
 [/sinochemb2c.com/]127.0.0.1:54
 [/sinochemitc.com/]127.0.0.1:54
+[/sinochip.net/]127.0.0.1:54
 [/sinoclick.com/]127.0.0.1:54
 [/sinocul.com/]127.0.0.1:54
 [/sinodrive.com/]127.0.0.1:54
@@ -56003,7 +55987,6 @@ tls://1.0.0.1
 [/svip51.com/]127.0.0.1:54
 [/svipduihuan.com/]127.0.0.1:54
 [/svipwatches.com/]127.0.0.1:54
-[/svlhkj.com/]127.0.0.1:54
 [/svlik.com/]127.0.0.1:54
 [/svn999.com/]127.0.0.1:54
 [/svnbucket.com/]127.0.0.1:54
@@ -57357,7 +57340,6 @@ tls://1.0.0.1
 [/telecomhb.com/]127.0.0.1:54
 [/telecomjs.com/]127.0.0.1:54
 [/telefen.com/]127.0.0.1:54
-[/telegtv.com/]127.0.0.1:54
 [/telehr.com/]127.0.0.1:54
 [/teleinfoo.com/]127.0.0.1:54
 [/teleland.net/]127.0.0.1:54
@@ -57371,7 +57353,6 @@ tls://1.0.0.1
 [/telllove520.com/]127.0.0.1:54
 [/tellmachgd.com/]127.0.0.1:54
 [/telnet404.com/]127.0.0.1:54
-[/telojob.com/]127.0.0.1:54
 [/telu.net/]127.0.0.1:54
 [/telunsu.net/]127.0.0.1:54
 [/tem.pw/]127.0.0.1:54
@@ -59539,6 +59520,7 @@ tls://1.0.0.1
 [/tzlongwu.com/]127.0.0.1:54
 [/tzm66.com/]127.0.0.1:54
 [/tzqingzhifeng.com/]127.0.0.1:54
+[/tzqytv.com/]127.0.0.1:54
 [/tzres.com/]127.0.0.1:54
 [/tzrl.com/]127.0.0.1:54
 [/tzsnw.com/]127.0.0.1:54
@@ -61037,7 +61019,6 @@ tls://1.0.0.1
 [/voyooo.com/]127.0.0.1:54
 [/vp3u.com/]127.0.0.1:54
 [/vpadn.com/]127.0.0.1:54
-[/vpaizu.com/]127.0.0.1:54
 [/vpal.com/]127.0.0.1:54
 [/vpalstatic.com/]127.0.0.1:54
 [/vpansou.com/]127.0.0.1:54
@@ -61180,6 +61161,7 @@ tls://1.0.0.1
 [/vvhunter.com/]127.0.0.1:54
 [/vvic.com/]127.0.0.1:54
 [/vvipcdn.com/]127.0.0.1:54
+[/vviptuangou.com/]127.0.0.1:54
 [/vvjob.com/]127.0.0.1:54
 [/vvkaoyan.com/]127.0.0.1:54
 [/vvkw.com/]127.0.0.1:54
@@ -61633,6 +61615,7 @@ tls://1.0.0.1
 [/wanweixin.com/]127.0.0.1:54
 [/wanwudezhi.com/]127.0.0.1:54
 [/wanwuelian.com/]127.0.0.1:54
+[/wanwumall.com/]127.0.0.1:54
 [/wanwupai.com/]127.0.0.1:54
 [/wanwusc.com/]127.0.0.1:54
 [/wanwushuo.com/]127.0.0.1:54
@@ -62555,7 +62538,6 @@ tls://1.0.0.1
 [/wgpsec.org/]127.0.0.1:54
 [/wgsptc.com/]127.0.0.1:54
 [/wguancha.com/]127.0.0.1:54
-[/wgxcn.com/]127.0.0.1:54
 [/wgxdxx.com/]127.0.0.1:54
 [/wgxy.com/]127.0.0.1:54
 [/wgxy.net/]127.0.0.1:54
@@ -66305,7 +66287,6 @@ tls://1.0.0.1
 [/xn--q20av2y36ac54a.com/]127.0.0.1:54
 [/xn--qrq171dxpq.com/]127.0.0.1:54
 [/xn--rhqv96g/]127.0.0.1:54
-[/xn--ruqx2ez8em6ez9pv4l.com/]127.0.0.1:54
 [/xn--s4t325g.com/]127.0.0.1:54
 [/xn--ses554g/]127.0.0.1:54
 [/xn--swt207gl1hzc.net/]127.0.0.1:54
@@ -67497,7 +67478,6 @@ tls://1.0.0.1
 [/yclh6.com/]127.0.0.1:54
 [/ycloud.online/]127.0.0.1:54
 [/ycloudvip.com/]127.0.0.1:54
-[/yclunwen.com/]127.0.0.1:54
 [/ycoa0898.com/]127.0.0.1:54
 [/ycool.com/]127.0.0.1:54
 [/ycpack.net/]127.0.0.1:54
@@ -70055,7 +70035,6 @@ tls://1.0.0.1
 [/yushunews.com/]127.0.0.1:54
 [/yusi.com/]127.0.0.1:54
 [/yusi.tv/]127.0.0.1:54
-[/yusi123.com/]127.0.0.1:54
 [/yusii.com/]127.0.0.1:54
 [/yusii.net/]127.0.0.1:54
 [/yutai365.com/]127.0.0.1:54
@@ -70465,11 +70444,13 @@ tls://1.0.0.1
 [/za-doctor.com/]127.0.0.1:54
 [/zabaow.com/]127.0.0.1:54
 [/zabeiy.com/]127.0.0.1:54
+[/zaberw.com/]127.0.0.1:54
 [/zabiuq.com/]127.0.0.1:54
 [/zabiur.com/]127.0.0.1:54
 [/zablog.me/]127.0.0.1:54
 [/zabunn.com/]127.0.0.1:54
 [/zabveq.com/]127.0.0.1:54
+[/zabvnd.com/]127.0.0.1:54
 [/zabxib.com/]127.0.0.1:54
 [/zac1993.com/]127.0.0.1:54
 [/zacaog.com/]127.0.0.1:54
@@ -71067,7 +71048,6 @@ tls://1.0.0.1
 [/zgzsrc.com/]127.0.0.1:54
 [/zgzwl.com/]127.0.0.1:54
 [/zgzy.net/]127.0.0.1:54
-[/zgzylt.com/]127.0.0.1:54
 [/zgzzs.com/]127.0.0.1:54
 [/zh-cjh.com/]127.0.0.1:54
 [/zh-itone.com/]127.0.0.1:54
@@ -71139,7 +71119,6 @@ tls://1.0.0.1
 [/zhangsh08.com/]127.0.0.1:54
 [/zhangshengrong.com/]127.0.0.1:54
 [/zhangsifan.com/]127.0.0.1:54
-[/zhangtielei.com/]127.0.0.1:54
 [/zhangtu.com/]127.0.0.1:54
 [/zhangu365.com/]127.0.0.1:54
 [/zhangweifan.com/]127.0.0.1:54
@@ -71597,7 +71576,6 @@ tls://1.0.0.1
 [/zhishi.com/]127.0.0.1:54
 [/zhishi.tech/]127.0.0.1:54
 [/zhishifenzi.com/]127.0.0.1:54
-[/zhishilin.com/]127.0.0.1:54
 [/zhishisoft.com/]127.0.0.1:54
 [/zhishiwu.com/]127.0.0.1:54
 [/zhishuedu.com/]127.0.0.1:54
@@ -72339,7 +72317,6 @@ tls://1.0.0.1
 [/zjabank.com/]127.0.0.1:54
 [/zjaf.net/]127.0.0.1:54
 [/zjags.com/]127.0.0.1:54
-[/zjapk.com/]127.0.0.1:54
 [/zjaqxy.com/]127.0.0.1:54
 [/zjautoparts.com/]127.0.0.1:54
 [/zjbinya.com/]127.0.0.1:54
@@ -73256,6 +73233,7 @@ tls://1.0.0.1
 [/zx10000.com/]127.0.0.1:54
 [/zx110.org/]127.0.0.1:54
 [/zx181.com/]127.0.0.1:54
+[/zx18x.com/]127.0.0.1:54
 [/zx350zx.com/]127.0.0.1:54
 [/zx7b.com/]127.0.0.1:54
 [/zx98.com/]127.0.0.1:54

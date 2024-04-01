@@ -74051,7 +74051,6 @@ tls://1.0.0.1
 [/tesla-cdn.thron.cn/]127.0.0.1:54
 [/test.bugs-qa.chromium.org/]127.0.0.1:54
 [/test.gbugs-qa.chromium.org/]127.0.0.1:54
-[/testflight.apple.com/]127.0.0.1:54
 [/tools.google.com/]127.0.0.1:54
 [/tools.l.google.com/]127.0.0.1:54
 [/up.corp.goog/]127.0.0.1:54

@@ -14227,7 +14227,6 @@ tls://1.0.0.1
 [/cdn-v.com/]223.5.5.5
 [/cdn.fun/]223.5.5.5
 [/cdn.jetbrains.com/]223.5.5.5
-[/cdn.razersynapse.com/]223.5.5.5
 [/cdn.samsung.com/]223.5.5.5
 [/cdn.shanghai.nyu.edu/]223.5.5.5
 [/cdn08.com/]223.5.5.5
@@ -50863,6 +50862,9 @@ tls://1.0.0.1
 [/raytoon.net/]223.5.5.5
 [/rayuu.com/]223.5.5.5
 [/rayyzx.com/]223.5.5.5
+[/razerapi.com/]223.5.5.5
+[/razersynapse.com/]223.5.5.5
+[/razerzone.com/]223.5.5.5
 [/razrlele.com/]223.5.5.5
 [/raztb.com/]223.5.5.5
 [/rb139.com/]223.5.5.5

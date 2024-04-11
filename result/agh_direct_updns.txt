@@ -14227,7 +14227,6 @@ tls://1.0.0.1
 [/cdn-v.com/]127.0.0.1:54
 [/cdn.fun/]127.0.0.1:54
 [/cdn.jetbrains.com/]127.0.0.1:54
-[/cdn.razersynapse.com/]127.0.0.1:54
 [/cdn.samsung.com/]127.0.0.1:54
 [/cdn.shanghai.nyu.edu/]127.0.0.1:54
 [/cdn08.com/]127.0.0.1:54
@@ -50863,6 +50862,9 @@ tls://1.0.0.1
 [/raytoon.net/]127.0.0.1:54
 [/rayuu.com/]127.0.0.1:54
 [/rayyzx.com/]127.0.0.1:54
+[/razerapi.com/]127.0.0.1:54
+[/razersynapse.com/]127.0.0.1:54
+[/razerzone.com/]127.0.0.1:54
 [/razrlele.com/]127.0.0.1:54
 [/raztb.com/]127.0.0.1:54
 [/rb139.com/]127.0.0.1:54

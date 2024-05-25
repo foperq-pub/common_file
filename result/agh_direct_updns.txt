@@ -3212,7 +3212,6 @@ tls://1.0.0.1
 [/389j.com/]127.0.0.1:54
 [/38blog.com/]127.0.0.1:54
 [/38ejed.com/]127.0.0.1:54
-[/38fan.com/]127.0.0.1:54
 [/38hack.com/]127.0.0.1:54
 [/38hot.net/]127.0.0.1:54
 [/38hp.com/]127.0.0.1:54
@@ -23446,6 +23445,8 @@ tls://1.0.0.1
 [/evzhidao.com/]127.0.0.1:54
 [/ew-wirestripping.com/]127.0.0.1:54
 [/ew52.com/]127.0.0.1:54
+[/ew80.com/]127.0.0.1:54
+[/ew80yun.com/]127.0.0.1:54
 [/ew9z.com/]127.0.0.1:54
 [/ewaga.com/]127.0.0.1:54
 [/ewang.com/]127.0.0.1:54
@@ -39769,7 +39770,6 @@ tls://1.0.0.1
 [/lanzouy.com/]127.0.0.1:54
 [/lanzov.com/]127.0.0.1:54
 [/lanzun.net/]127.0.0.1:54
-[/lanzv.com/]127.0.0.1:54
 [/laobaigan-hs.com/]127.0.0.1:54
 [/laobandq.com/]127.0.0.1:54
 [/laobanfa.com/]127.0.0.1:54
@@ -45271,6 +45271,7 @@ tls://1.0.0.1
 [/myhayo.com/]127.0.0.1:54
 [/myhexin.com/]127.0.0.1:54
 [/myhithink.com/]127.0.0.1:54
+[/myhl-china315.com/]127.0.0.1:54
 [/myhomeok.com/]127.0.0.1:54
 [/myhongzuan.com/]127.0.0.1:54
 [/myhostadmin.net/]127.0.0.1:54
@@ -51915,6 +51916,7 @@ tls://1.0.0.1
 [/rn-hswh.com/]127.0.0.1:54
 [/rneok.com/]127.0.0.1:54
 [/rnfengwo.com/]127.0.0.1:54
+[/rngmoe.com/]127.0.0.1:54
 [/rngtest.com/]127.0.0.1:54
 [/rnhqxh.com/]127.0.0.1:54
 [/rnhy.net/]127.0.0.1:54
@@ -57514,6 +57516,7 @@ tls://1.0.0.1
 [/szldzb.com/]127.0.0.1:54
 [/szledia.org/]127.0.0.1:54
 [/szleezen.com/]127.0.0.1:54
+[/szlgzxyy.com/]127.0.0.1:54
 [/szlhtram.com/]127.0.0.1:54
 [/szlianya.net/]127.0.0.1:54
 [/szlightlink.com/]127.0.0.1:54
@@ -60144,7 +60147,6 @@ tls://1.0.0.1
 [/tugou.com/]127.0.0.1:54
 [/tugoucx.com/]127.0.0.1:54
 [/tuguaishou.com/]127.0.0.1:54
-[/tuhaihe.com/]127.0.0.1:54
 [/tuhaokuai.com/]127.0.0.1:54
 [/tuhu.com/]127.0.0.1:54
 [/tuhu.org/]127.0.0.1:54
@@ -65863,6 +65865,7 @@ tls://1.0.0.1
 [/xhscdn.net/]127.0.0.1:54
 [/xhsd.com/]127.0.0.1:54
 [/xhslink.com/]127.0.0.1:54
+[/xhslw.com/]127.0.0.1:54
 [/xhsyqx.com/]127.0.0.1:54
 [/xhsyww.com/]127.0.0.1:54
 [/xht.com.hk/]127.0.0.1:54
@@ -73685,7 +73688,6 @@ tls://1.0.0.1
 [/zjptcc.com/]127.0.0.1:54
 [/zjpubservice.com/]127.0.0.1:54
 [/zjqbj.com/]127.0.0.1:54
-[/zjqcwx.com/]127.0.0.1:54
 [/zjqichuang.com/]127.0.0.1:54
 [/zjrc.com/]127.0.0.1:54
 [/zjrc.net/]127.0.0.1:54

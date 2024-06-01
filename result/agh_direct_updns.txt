@@ -95,7 +95,6 @@ tls://1.0.0.1
 [/01401.com/]127.0.0.1:54
 [/016sf.com/]127.0.0.1:54
 [/01amlink.site/]127.0.0.1:54
-[/01bzw.cc/]127.0.0.1:54
 [/01bzw.us/]127.0.0.1:54
 [/01bzw.xyz/]127.0.0.1:54
 [/01caijing.com/]127.0.0.1:54
@@ -7004,7 +7003,6 @@ tls://1.0.0.1
 [/9560.cc/]127.0.0.1:54
 [/9564.com/]127.0.0.1:54
 [/9565.com/]127.0.0.1:54
-[/9570.me/]127.0.0.1:54
 [/9588.com/]127.0.0.1:54
 [/95890.com/]127.0.0.1:54
 [/95bd.com/]127.0.0.1:54
@@ -7890,6 +7888,7 @@ tls://1.0.0.1
 [/ae1234.com/]127.0.0.1:54
 [/ae256.com/]127.0.0.1:54
 [/ae60.com/]127.0.0.1:54
+[/ae8569.xyz/]127.0.0.1:54
 [/aebiz.net/]127.0.0.1:54
 [/aec188.com/]127.0.0.1:54
 [/aecichina.com/]127.0.0.1:54
@@ -16278,6 +16277,7 @@ tls://1.0.0.1
 [/chuguo78.com/]127.0.0.1:54
 [/chuguofeng.com/]127.0.0.1:54
 [/chuguohao.com/]127.0.0.1:54
+[/chuhai-club.com/]127.0.0.1:54
 [/chuimg.com/]127.0.0.1:54
 [/chuinet.com/]127.0.0.1:54
 [/chuisax.com/]127.0.0.1:54
@@ -16625,7 +16625,6 @@ tls://1.0.0.1
 [/ckzhijiaedu.com/]127.0.0.1:54
 [/cl-acg.com/]127.0.0.1:54
 [/cl-clw.com/]127.0.0.1:54
-[/cl-hs.com/]127.0.0.1:54
 [/cl-kongtiao.com/]127.0.0.1:54
 [/cl0438.com/]127.0.0.1:54
 [/cl2009.com/]127.0.0.1:54
@@ -16639,6 +16638,7 @@ tls://1.0.0.1
 [/classinpaas.com/]127.0.0.1:54
 [/classmateer.com/]127.0.0.1:54
 [/classpassincn.com/]127.0.0.1:54
+[/classpodcdn.com/]127.0.0.1:54
 [/clayidols.com/]127.0.0.1:54
 [/clb6.net/]127.0.0.1:54
 [/clboss.com/]127.0.0.1:54
@@ -20648,6 +20648,7 @@ tls://1.0.0.1
 [/diyifanwen.net/]127.0.0.1:54
 [/diyigaokao.com/]127.0.0.1:54
 [/diyihuifu.com/]127.0.0.1:54
+[/diyiliuxue.com/]127.0.0.1:54
 [/diyinews.com/]127.0.0.1:54
 [/diyipaihang.com/]127.0.0.1:54
 [/diyishijian.com/]127.0.0.1:54
@@ -26673,6 +26674,7 @@ tls://1.0.0.1
 [/global-harbor.com/]127.0.0.1:54
 [/global-idc.net/]127.0.0.1:54
 [/global-jf.com/]127.0.0.1:54
+[/global-leader.com/]127.0.0.1:54
 [/global-scsl.com/]127.0.0.1:54
 [/global-trade-center.com/]127.0.0.1:54
 [/global56.com/]127.0.0.1:54
@@ -27472,7 +27474,6 @@ tls://1.0.0.1
 [/guangli88.com/]127.0.0.1:54
 [/guanglikou.com/]127.0.0.1:54
 [/guanglilvyuan.com/]127.0.0.1:54
-[/guangminggame.com/]127.0.0.1:54
 [/guangshantang.vip/]127.0.0.1:54
 [/guangsuss.com/]127.0.0.1:54
 [/guangtuikeji.com/]127.0.0.1:54
@@ -31283,6 +31284,7 @@ tls://1.0.0.1
 [/htgjjl.com/]127.0.0.1:54
 [/htguosheng.com/]127.0.0.1:54
 [/htgwf.com/]127.0.0.1:54
+[/hti-instrument.com/]127.0.0.1:54
 [/htidc.com/]127.0.0.1:54
 [/htimgs.com/]127.0.0.1:54
 [/htinfor.com/]127.0.0.1:54
@@ -40881,6 +40883,7 @@ tls://1.0.0.1
 [/lingmovie.com/]127.0.0.1:54
 [/lingnanpass.com/]127.0.0.1:54
 [/lingosail.com/]127.0.0.1:54
+[/lingostarcdn.com/]127.0.0.1:54
 [/lingphone.net/]127.0.0.1:54
 [/lingquanb.com/]127.0.0.1:54
 [/lingrengame.com/]127.0.0.1:54
@@ -44352,6 +44355,7 @@ tls://1.0.0.1
 [/mmsk.com/]127.0.0.1:54
 [/mmstat.com/]127.0.0.1:54
 [/mmsz.net/]127.0.0.1:54
+[/mmt3000.com/]127.0.0.1:54
 [/mmtrix.com/]127.0.0.1:54
 [/mmtx.net/]127.0.0.1:54
 [/mmuaa.com/]127.0.0.1:54
@@ -57194,6 +57198,7 @@ tls://1.0.0.1
 [/sydw8.com/]127.0.0.1:54
 [/syeg-ev.com/]127.0.0.1:54
 [/syf.ink/]127.0.0.1:54
+[/syfabiao.com/]127.0.0.1:54
 [/syfb2021.com/]127.0.0.1:54
 [/syfly007.com/]127.0.0.1:54
 [/syfw.com/]127.0.0.1:54
@@ -58761,6 +58766,7 @@ tls://1.0.0.1
 [/tiangou.xyz/]127.0.0.1:54
 [/tianhaohz.com/]127.0.0.1:54
 [/tianhejiayi.com/]127.0.0.1:54
+[/tianhengs.com/]127.0.0.1:54
 [/tianhongdiaosu.com/]127.0.0.1:54
 [/tianhongsunshine.com/]127.0.0.1:54
 [/tianhujy.com/]127.0.0.1:54
@@ -69938,6 +69944,7 @@ tls://1.0.0.1
 [/yofond.com/]127.0.0.1:54
 [/yofond.net/]127.0.0.1:54
 [/yofus.com/]127.0.0.1:54
+[/yoga-8.com/]127.0.0.1:54
 [/yogeev.com/]127.0.0.1:54
 [/yogorobot.com/]127.0.0.1:54
 [/yoher.com/]127.0.0.1:54
@@ -74545,6 +74552,7 @@ tls://1.0.0.1
 [/zyccc.com/]127.0.0.1:54
 [/zyccst.com/]127.0.0.1:54
 [/zycits.com/]127.0.0.1:54
+[/zycitscn.com/]127.0.0.1:54
 [/zycjcrz.org/]127.0.0.1:54
 [/zycmfw.com/]127.0.0.1:54
 [/zyctd.com/]127.0.0.1:54

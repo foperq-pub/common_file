@@ -75344,6 +75344,7 @@ tls://1.0.0.1
 [/build.microsoft.com/]127.0.0.1:54
 [/c.admob.com/]127.0.0.1:54
 [/c.android.clients.google.com/]127.0.0.1:54
+[/c.pki.goog/]127.0.0.1:54
 [/cache-management-prod.google.com/]127.0.0.1:54
 [/cache.pack.google.com/]127.0.0.1:54
 [/cdn-cn1.apple-mapkit.com/]127.0.0.1:54
@@ -75506,6 +75507,7 @@ tls://1.0.0.1
 [/hellofontpreview.oss-cn-beijing.aliyuncs.com/]127.0.0.1:54
 [/hellowebfonts.oss-cn-beijing.aliyuncs.com/]127.0.0.1:54
 [/hospital.pku.edu.cn/]127.0.0.1:54
+[/i.pki.goog/]127.0.0.1:54
 [/iadsdk.apple.com/]127.0.0.1:54
 [/icloud-cdn.icloud.com.akadns.net/]127.0.0.1:54
 [/icloud.cdn-apple.com/]127.0.0.1:54
@@ -75570,6 +75572,7 @@ tls://1.0.0.1
 [/msgruser.dlservice.microsoft.com/]127.0.0.1:54
 [/music.apple.com/]127.0.0.1:54
 [/myvs.download.prss.microsoft.com/]127.0.0.1:54
+[/o.pki.goog/]127.0.0.1:54
 [/ocsp-lb.apple.com.akadns.net/]127.0.0.1:54
 [/ocsp.apple.com/]127.0.0.1:54
 [/ocsp.pki.goog/]127.0.0.1:54

@@ -9129,13 +9129,7 @@ tls://1.0.0.1
 [/alibabacapital.com/]223.5.5.5
 [/alibabachengdun.com/]223.5.5.5
 [/alibabachengdun.net/]223.5.5.5
-[/alibabacloud.co.in/]223.5.5.5
 [/alibabacloud.com/]223.5.5.5
-[/alibabacloud.com.au/]223.5.5.5
-[/alibabacloud.com.hk/]223.5.5.5
-[/alibabacloud.com.my/]223.5.5.5
-[/alibabacloud.com.sg/]223.5.5.5
-[/alibabacloud.com.tw/]223.5.5.5
 [/alibabacorp.com/]223.5.5.5
 [/alibabadesign.com/]223.5.5.5
 [/alibabadns.com/]223.5.5.5
@@ -9185,7 +9179,6 @@ tls://1.0.0.1
 [/aligfwaf.com/]223.5.5.5
 [/alighting.com/]223.5.5.5
 [/alihd.net/]223.5.5.5
-[/alihealth.hk/]223.5.5.5
 [/alihuahua.com/]223.5.5.5
 [/aliimg.com/]223.5.5.5
 [/alijijinhui.org/]223.5.5.5
@@ -10983,6 +10976,7 @@ tls://1.0.0.1
 [/baidu123.com/]223.5.5.5
 [/baidu521.com/]223.5.5.5
 [/baiduads.com/]223.5.5.5
+[/baiduapp.com/]223.5.5.5
 [/baidubaidubaidu.com/]223.5.5.5
 [/baidubaidubaidu.net/]223.5.5.5
 [/baidubce.com/]223.5.5.5
@@ -14829,12 +14823,10 @@ tls://1.0.0.1
 [/ccbfund.com/]223.5.5.5
 [/ccbfutures.com/]223.5.5.5
 [/ccbike.cc/]223.5.5.5
-[/ccbintl.com.hk/]223.5.5.5
 [/ccbleasing.com/]223.5.5.5
 [/ccbookfair.com/]223.5.5.5
 [/ccbpension.com/]223.5.5.5
 [/ccbride.com/]223.5.5.5
-[/ccbseoul.com/]223.5.5.5
 [/ccbxt.com/]223.5.5.5
 [/cccbs.net/]223.5.5.5
 [/cccc-capital.com/]223.5.5.5
@@ -16925,8 +16917,6 @@ tls://1.0.0.1
 [/chinaun.net/]223.5.5.5
 [/chinaunicom-a.com/]223.5.5.5
 [/chinaunicom.com/]223.5.5.5
-[/chinaunicom.com.hk/]223.5.5.5
-[/chinaunicomglobal.com/]223.5.5.5
 [/chinaunionpay.com/]223.5.5.5
 [/chinaunionpay.net/]223.5.5.5
 [/chinauniversalasset.com/]223.5.5.5
@@ -17971,7 +17961,6 @@ tls://1.0.0.1
 [/cmbchina.com/]223.5.5.5
 [/cmbchina.net/]223.5.5.5
 [/cmbchinawm.com/]223.5.5.5
-[/cmbi.com.hk/]223.5.5.5
 [/cmbimg.com/]223.5.5.5
 [/cmbuat.com/]223.5.5.5
 [/cmbwinglungbank.com/]223.5.5.5
@@ -19755,11 +19744,7 @@ tls://1.0.0.1
 [/cteaw.com/]223.5.5.5
 [/ctecdcs.com/]223.5.5.5
 [/ctex.org/]223.5.5.5
-[/ctexcel.ca/]223.5.5.5
-[/ctexcel.com/]223.5.5.5
 [/ctexcel.com.hk/]223.5.5.5
-[/ctexcel.fr/]223.5.5.5
-[/ctexcel.us/]223.5.5.5
 [/ctfhub.com/]223.5.5.5
 [/ctfile.com/]223.5.5.5
 [/ctfile.net/]223.5.5.5
@@ -19804,9 +19789,7 @@ tls://1.0.0.1
 [/ctrip-ttd.hk/]223.5.5.5
 [/ctrip.co.id/]223.5.5.5
 [/ctrip.co.kr/]223.5.5.5
-[/ctrip.co.th/]223.5.5.5
 [/ctrip.com/]223.5.5.5
-[/ctrip.com.hk/]223.5.5.5
 [/ctrip.my/]223.5.5.5
 [/ctrip.sg/]223.5.5.5
 [/ctripbiz.com/]223.5.5.5
@@ -21721,10 +21704,8 @@ tls://1.0.0.1
 [/didatravel.com/]223.5.5.5
 [/didctf.com/]223.5.5.5
 [/diddgame.com/]223.5.5.5
-[/didi-food.com/]223.5.5.5
 [/didialift.com/]223.5.5.5
 [/didiapp.com/]223.5.5.5
-[/didiaustralia.blog/]223.5.5.5
 [/didibear.com/]223.5.5.5
 [/didichuxing.com/]223.5.5.5
 [/didichuxing.net/]223.5.5.5
@@ -21732,8 +21713,6 @@ tls://1.0.0.1
 [/dididapiao.com/]223.5.5.5
 [/dididawo.com/]223.5.5.5
 [/dididi88.com/]223.5.5.5
-[/didiglobal.com/]223.5.5.5
-[/didimobility.co.jp/]223.5.5.5
 [/didipay.com/]223.5.5.5
 [/didiqiche.com/]223.5.5.5
 [/didishijie.com/]223.5.5.5
@@ -23192,8 +23171,10 @@ tls://1.0.0.1
 [/duwenxue.com/]223.5.5.5
 [/duwenz.com/]223.5.5.5
 [/duwenzhang.com/]223.5.5.5
+[/duxiaoman-int.com/]223.5.5.5
 [/duxiaoman.com/]223.5.5.5
 [/duxiaomanfintech.com/]223.5.5.5
+[/duxiaomantech.com/]223.5.5.5
 [/duxiaoshuo.com/]223.5.5.5
 [/duxiu.com/]223.5.5.5
 [/duyandb.com/]223.5.5.5
@@ -23274,10 +23255,15 @@ tls://1.0.0.1
 [/dxjh.net/]223.5.5.5
 [/dxjs.com/]223.5.5.5
 [/dxlfile.com/]223.5.5.5
+[/dxm-cdn.com/]223.5.5.5
+[/dxm-int.com/]223.5.5.5
 [/dxm-yibai.com/]223.5.5.5
 [/dxmjinr.com/]223.5.5.5
+[/dxmlcf.com/]223.5.5.5
+[/dxmlcfintech.com/]223.5.5.5
 [/dxmpay.com/]223.5.5.5
 [/dxmstatic.com/]223.5.5.5
+[/dxmyqh.com/]223.5.5.5
 [/dxnky.com/]223.5.5.5
 [/dxpmedia.com/]223.5.5.5
 [/dxqyy.com/]223.5.5.5
@@ -24413,7 +24399,6 @@ tls://1.0.0.1
 [/emr-volces.com/]223.5.5.5
 [/ems-audio.com/]223.5.5.5
 [/ems517.com/]223.5.5.5
-[/emsec.hk/]223.5.5.5
 [/emshost.com/]223.5.5.5
 [/emshua.com/]223.5.5.5
 [/emsym.com/]223.5.5.5
@@ -32131,7 +32116,6 @@ tls://1.0.0.1
 [/hhrcard.com/]223.5.5.5
 [/hhrdc.com/]223.5.5.5
 [/hhtravel.com/]223.5.5.5
-[/hhtravel.com.tw/]223.5.5.5
 [/hhup.com/]223.5.5.5
 [/hhuus.com/]223.5.5.5
 [/hhvv.com/]223.5.5.5
@@ -37575,11 +37559,8 @@ tls://1.0.0.1
 [/jd-fm.com/]223.5.5.5
 [/jd-zd.com/]223.5.5.5
 [/jd.co/]223.5.5.5
-[/jd.co.th/]223.5.5.5
 [/jd.com/]223.5.5.5
 [/jd.hk/]223.5.5.5
-[/jd.id/]223.5.5.5
-[/jd.ru/]223.5.5.5
 [/jd.shop/]223.5.5.5
 [/jd100.com/]223.5.5.5
 [/jd120.com/]223.5.5.5
@@ -39840,6 +39821,7 @@ tls://1.0.0.1
 [/juejinqifu.com/]223.5.5.5
 [/juemei.com/]223.5.5.5
 [/juemuren4449.com/]223.5.5.5
+[/juequling.com/]223.5.5.5
 [/juesheng.com/]223.5.5.5
 [/juewei.com/]223.5.5.5
 [/juexiang.com/]223.5.5.5
@@ -55651,7 +55633,6 @@ tls://1.0.0.1
 [/rfaexpo.com/]223.5.5.5
 [/rfc2cn.com/]223.5.5.5
 [/rfchina.com/]223.5.5.5
-[/rfchost.com/]223.5.5.5
 [/rfcreader.com/]223.5.5.5
 [/rfdl88.com/]223.5.5.5
 [/rfdy.hk/]223.5.5.5
@@ -64380,7 +64361,6 @@ tls://1.0.0.1
 [/triggerdelivery.com/]223.5.5.5
 [/trinitigame.com/]223.5.5.5
 [/trioisobardev.com/]223.5.5.5
-[/trip.com/]223.5.5.5
 [/trip8080.com/]223.5.5.5
 [/tripbaba.com/]223.5.5.5
 [/tripbe.com/]223.5.5.5
@@ -80747,6 +80727,8 @@ tls://1.0.0.1
 [/tesla-cdn.thron.cn/]223.5.5.5
 [/test.bugs-qa.chromium.org/]223.5.5.5
 [/test.gbugs-qa.chromium.org/]223.5.5.5
+[/time.izatcloud.net/]223.5.5.5
+[/time.xtracloud.net/]223.5.5.5
 [/tj-pod1-smp-device.apple.com/]223.5.5.5
 [/tools.google.com/]223.5.5.5
 [/tools.l.google.com/]223.5.5.5
@@ -80765,7 +80747,6 @@ tls://1.0.0.1
 [/updates-http.cdn-apple.com.akadns.net/]223.5.5.5
 [/updates.cdn-apple.com/]223.5.5.5
 [/uplaypc-s-ubisoft.cdn.ubi.com/]223.5.5.5
-[/upos-hz-mirrorakam.akamaized.net/]223.5.5.5
 [/upp.itunes.apple.com/]223.5.5.5
 [/valid.apple.com/]223.5.5.5
 [/valid.origin-apple.com.akadns.net/]223.5.5.5

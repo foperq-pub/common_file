@@ -9129,13 +9129,7 @@ tls://1.0.0.1
 [/alibabacapital.com/]127.0.0.1:54
 [/alibabachengdun.com/]127.0.0.1:54
 [/alibabachengdun.net/]127.0.0.1:54
-[/alibabacloud.co.in/]127.0.0.1:54
 [/alibabacloud.com/]127.0.0.1:54
-[/alibabacloud.com.au/]127.0.0.1:54
-[/alibabacloud.com.hk/]127.0.0.1:54
-[/alibabacloud.com.my/]127.0.0.1:54
-[/alibabacloud.com.sg/]127.0.0.1:54
-[/alibabacloud.com.tw/]127.0.0.1:54
 [/alibabacorp.com/]127.0.0.1:54
 [/alibabadesign.com/]127.0.0.1:54
 [/alibabadns.com/]127.0.0.1:54
@@ -9185,7 +9179,6 @@ tls://1.0.0.1
 [/aligfwaf.com/]127.0.0.1:54
 [/alighting.com/]127.0.0.1:54
 [/alihd.net/]127.0.0.1:54
-[/alihealth.hk/]127.0.0.1:54
 [/alihuahua.com/]127.0.0.1:54
 [/aliimg.com/]127.0.0.1:54
 [/alijijinhui.org/]127.0.0.1:54
@@ -10983,6 +10976,7 @@ tls://1.0.0.1
 [/baidu123.com/]127.0.0.1:54
 [/baidu521.com/]127.0.0.1:54
 [/baiduads.com/]127.0.0.1:54
+[/baiduapp.com/]127.0.0.1:54
 [/baidubaidubaidu.com/]127.0.0.1:54
 [/baidubaidubaidu.net/]127.0.0.1:54
 [/baidubce.com/]127.0.0.1:54
@@ -14829,12 +14823,10 @@ tls://1.0.0.1
 [/ccbfund.com/]127.0.0.1:54
 [/ccbfutures.com/]127.0.0.1:54
 [/ccbike.cc/]127.0.0.1:54
-[/ccbintl.com.hk/]127.0.0.1:54
 [/ccbleasing.com/]127.0.0.1:54
 [/ccbookfair.com/]127.0.0.1:54
 [/ccbpension.com/]127.0.0.1:54
 [/ccbride.com/]127.0.0.1:54
-[/ccbseoul.com/]127.0.0.1:54
 [/ccbxt.com/]127.0.0.1:54
 [/cccbs.net/]127.0.0.1:54
 [/cccc-capital.com/]127.0.0.1:54
@@ -16925,8 +16917,6 @@ tls://1.0.0.1
 [/chinaun.net/]127.0.0.1:54
 [/chinaunicom-a.com/]127.0.0.1:54
 [/chinaunicom.com/]127.0.0.1:54
-[/chinaunicom.com.hk/]127.0.0.1:54
-[/chinaunicomglobal.com/]127.0.0.1:54
 [/chinaunionpay.com/]127.0.0.1:54
 [/chinaunionpay.net/]127.0.0.1:54
 [/chinauniversalasset.com/]127.0.0.1:54
@@ -17971,7 +17961,6 @@ tls://1.0.0.1
 [/cmbchina.com/]127.0.0.1:54
 [/cmbchina.net/]127.0.0.1:54
 [/cmbchinawm.com/]127.0.0.1:54
-[/cmbi.com.hk/]127.0.0.1:54
 [/cmbimg.com/]127.0.0.1:54
 [/cmbuat.com/]127.0.0.1:54
 [/cmbwinglungbank.com/]127.0.0.1:54
@@ -19755,11 +19744,7 @@ tls://1.0.0.1
 [/cteaw.com/]127.0.0.1:54
 [/ctecdcs.com/]127.0.0.1:54
 [/ctex.org/]127.0.0.1:54
-[/ctexcel.ca/]127.0.0.1:54
-[/ctexcel.com/]127.0.0.1:54
 [/ctexcel.com.hk/]127.0.0.1:54
-[/ctexcel.fr/]127.0.0.1:54
-[/ctexcel.us/]127.0.0.1:54
 [/ctfhub.com/]127.0.0.1:54
 [/ctfile.com/]127.0.0.1:54
 [/ctfile.net/]127.0.0.1:54
@@ -19804,9 +19789,7 @@ tls://1.0.0.1
 [/ctrip-ttd.hk/]127.0.0.1:54
 [/ctrip.co.id/]127.0.0.1:54
 [/ctrip.co.kr/]127.0.0.1:54
-[/ctrip.co.th/]127.0.0.1:54
 [/ctrip.com/]127.0.0.1:54
-[/ctrip.com.hk/]127.0.0.1:54
 [/ctrip.my/]127.0.0.1:54
 [/ctrip.sg/]127.0.0.1:54
 [/ctripbiz.com/]127.0.0.1:54
@@ -21721,10 +21704,8 @@ tls://1.0.0.1
 [/didatravel.com/]127.0.0.1:54
 [/didctf.com/]127.0.0.1:54
 [/diddgame.com/]127.0.0.1:54
-[/didi-food.com/]127.0.0.1:54
 [/didialift.com/]127.0.0.1:54
 [/didiapp.com/]127.0.0.1:54
-[/didiaustralia.blog/]127.0.0.1:54
 [/didibear.com/]127.0.0.1:54
 [/didichuxing.com/]127.0.0.1:54
 [/didichuxing.net/]127.0.0.1:54
@@ -21732,8 +21713,6 @@ tls://1.0.0.1
 [/dididapiao.com/]127.0.0.1:54
 [/dididawo.com/]127.0.0.1:54
 [/dididi88.com/]127.0.0.1:54
-[/didiglobal.com/]127.0.0.1:54
-[/didimobility.co.jp/]127.0.0.1:54
 [/didipay.com/]127.0.0.1:54
 [/didiqiche.com/]127.0.0.1:54
 [/didishijie.com/]127.0.0.1:54
@@ -23192,8 +23171,10 @@ tls://1.0.0.1
 [/duwenxue.com/]127.0.0.1:54
 [/duwenz.com/]127.0.0.1:54
 [/duwenzhang.com/]127.0.0.1:54
+[/duxiaoman-int.com/]127.0.0.1:54
 [/duxiaoman.com/]127.0.0.1:54
 [/duxiaomanfintech.com/]127.0.0.1:54
+[/duxiaomantech.com/]127.0.0.1:54
 [/duxiaoshuo.com/]127.0.0.1:54
 [/duxiu.com/]127.0.0.1:54
 [/duyandb.com/]127.0.0.1:54
@@ -23274,10 +23255,15 @@ tls://1.0.0.1
 [/dxjh.net/]127.0.0.1:54
 [/dxjs.com/]127.0.0.1:54
 [/dxlfile.com/]127.0.0.1:54
+[/dxm-cdn.com/]127.0.0.1:54
+[/dxm-int.com/]127.0.0.1:54
 [/dxm-yibai.com/]127.0.0.1:54
 [/dxmjinr.com/]127.0.0.1:54
+[/dxmlcf.com/]127.0.0.1:54
+[/dxmlcfintech.com/]127.0.0.1:54
 [/dxmpay.com/]127.0.0.1:54
 [/dxmstatic.com/]127.0.0.1:54
+[/dxmyqh.com/]127.0.0.1:54
 [/dxnky.com/]127.0.0.1:54
 [/dxpmedia.com/]127.0.0.1:54
 [/dxqyy.com/]127.0.0.1:54
@@ -24413,7 +24399,6 @@ tls://1.0.0.1
 [/emr-volces.com/]127.0.0.1:54
 [/ems-audio.com/]127.0.0.1:54
 [/ems517.com/]127.0.0.1:54
-[/emsec.hk/]127.0.0.1:54
 [/emshost.com/]127.0.0.1:54
 [/emshua.com/]127.0.0.1:54
 [/emsym.com/]127.0.0.1:54
@@ -32131,7 +32116,6 @@ tls://1.0.0.1
 [/hhrcard.com/]127.0.0.1:54
 [/hhrdc.com/]127.0.0.1:54
 [/hhtravel.com/]127.0.0.1:54
-[/hhtravel.com.tw/]127.0.0.1:54
 [/hhup.com/]127.0.0.1:54
 [/hhuus.com/]127.0.0.1:54
 [/hhvv.com/]127.0.0.1:54
@@ -37575,11 +37559,8 @@ tls://1.0.0.1
 [/jd-fm.com/]127.0.0.1:54
 [/jd-zd.com/]127.0.0.1:54
 [/jd.co/]127.0.0.1:54
-[/jd.co.th/]127.0.0.1:54
 [/jd.com/]127.0.0.1:54
 [/jd.hk/]127.0.0.1:54
-[/jd.id/]127.0.0.1:54
-[/jd.ru/]127.0.0.1:54
 [/jd.shop/]127.0.0.1:54
 [/jd100.com/]127.0.0.1:54
 [/jd120.com/]127.0.0.1:54
@@ -39840,6 +39821,7 @@ tls://1.0.0.1
 [/juejinqifu.com/]127.0.0.1:54
 [/juemei.com/]127.0.0.1:54
 [/juemuren4449.com/]127.0.0.1:54
+[/juequling.com/]127.0.0.1:54
 [/juesheng.com/]127.0.0.1:54
 [/juewei.com/]127.0.0.1:54
 [/juexiang.com/]127.0.0.1:54
@@ -55651,7 +55633,6 @@ tls://1.0.0.1
 [/rfaexpo.com/]127.0.0.1:54
 [/rfc2cn.com/]127.0.0.1:54
 [/rfchina.com/]127.0.0.1:54
-[/rfchost.com/]127.0.0.1:54
 [/rfcreader.com/]127.0.0.1:54
 [/rfdl88.com/]127.0.0.1:54
 [/rfdy.hk/]127.0.0.1:54
@@ -64380,7 +64361,6 @@ tls://1.0.0.1
 [/triggerdelivery.com/]127.0.0.1:54
 [/trinitigame.com/]127.0.0.1:54
 [/trioisobardev.com/]127.0.0.1:54
-[/trip.com/]127.0.0.1:54
 [/trip8080.com/]127.0.0.1:54
 [/tripbaba.com/]127.0.0.1:54
 [/tripbe.com/]127.0.0.1:54
@@ -80747,6 +80727,8 @@ tls://1.0.0.1
 [/tesla-cdn.thron.cn/]127.0.0.1:54
 [/test.bugs-qa.chromium.org/]127.0.0.1:54
 [/test.gbugs-qa.chromium.org/]127.0.0.1:54
+[/time.izatcloud.net/]127.0.0.1:54
+[/time.xtracloud.net/]127.0.0.1:54
 [/tj-pod1-smp-device.apple.com/]127.0.0.1:54
 [/tools.google.com/]127.0.0.1:54
 [/tools.l.google.com/]127.0.0.1:54
@@ -80765,7 +80747,6 @@ tls://1.0.0.1
 [/updates-http.cdn-apple.com.akadns.net/]127.0.0.1:54
 [/updates.cdn-apple.com/]127.0.0.1:54
 [/uplaypc-s-ubisoft.cdn.ubi.com/]127.0.0.1:54
-[/upos-hz-mirrorakam.akamaized.net/]127.0.0.1:54
 [/upp.itunes.apple.com/]127.0.0.1:54
 [/valid.apple.com/]127.0.0.1:54
 [/valid.origin-apple.com.akadns.net/]127.0.0.1:54

@@ -31604,6 +31604,8 @@ tls://1.0.0.1
 [/gvi-tech.com/]127.0.0.1:54
 [/gvlocalization.com/]127.0.0.1:54
 [/gvoiceplat.com/]127.0.0.1:54
+[/gvt1-cn.com/]127.0.0.1:54
+[/gvt2-cn.com/]127.0.0.1:54
 [/gvzen.com/]127.0.0.1:54
 [/gw-ec.com/]127.0.0.1:54
 [/gw.craft.moe/]127.0.0.1:54
@@ -46883,6 +46885,7 @@ tls://1.0.0.1
 [/lao.si/]127.0.0.1:54
 [/laobaicai.net/]127.0.0.1:54
 [/laobaigan-hs.com/]127.0.0.1:54
+[/laoban100.com/]127.0.0.1:54
 [/laobandq.com/]127.0.0.1:54
 [/laobanfa.com/]127.0.0.1:54
 [/laobangban.com/]127.0.0.1:54
@@ -63859,8 +63862,10 @@ tls://1.0.0.1
 [/shengyan985.com/]127.0.0.1:54
 [/shengyasd.com/]127.0.0.1:54
 [/shengyeji.com/]127.0.0.1:54
+[/shengyi.ai/]127.0.0.1:54
 [/shengyi.biz/]127.0.0.1:54
 [/shengyidi.com/]127.0.0.1:54
+[/shengyizhuanjia.com/]127.0.0.1:54
 [/shengyuancc.com/]127.0.0.1:54
 [/shengzehr.com/]127.0.0.1:54
 [/shengzhaoli.com/]127.0.0.1:54
@@ -83077,6 +83082,7 @@ tls://1.0.0.1
 [/yuanbaohui.com/]127.0.0.1:54
 [/yuanbaokc.com/]127.0.0.1:54
 [/yuanbaotaoche.com/]127.0.0.1:54
+[/yuanbei.biz/]127.0.0.1:54
 [/yuanbin.me/]127.0.0.1:54
 [/yuancangipr.com/]127.0.0.1:54
 [/yuancdn.com/]127.0.0.1:54
@@ -88031,8 +88037,6 @@ tls://1.0.0.1
 [/guzzoni-apple-com.v.aaplimg.com/]127.0.0.1:54
 [/guzzoni.apple.com/]127.0.0.1:54
 [/guzzoni.smoot.apple.com/]127.0.0.1:54
-[/gvt1-cn.com/]127.0.0.1:54
-[/gvt2-cn.com/]127.0.0.1:54
 [/hellofontpreview.oss-cn-beijing.aliyuncs.com/]127.0.0.1:54
 [/hellowebfonts.oss-cn-beijing.aliyuncs.com/]127.0.0.1:54
 [/hospital.pku.edu.cn/]127.0.0.1:54

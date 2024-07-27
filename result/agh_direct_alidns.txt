@@ -31604,6 +31604,8 @@ tls://1.0.0.1
 [/gvi-tech.com/]223.5.5.5
 [/gvlocalization.com/]223.5.5.5
 [/gvoiceplat.com/]223.5.5.5
+[/gvt1-cn.com/]223.5.5.5
+[/gvt2-cn.com/]223.5.5.5
 [/gvzen.com/]223.5.5.5
 [/gw-ec.com/]223.5.5.5
 [/gw.craft.moe/]223.5.5.5
@@ -46883,6 +46885,7 @@ tls://1.0.0.1
 [/lao.si/]223.5.5.5
 [/laobaicai.net/]223.5.5.5
 [/laobaigan-hs.com/]223.5.5.5
+[/laoban100.com/]223.5.5.5
 [/laobandq.com/]223.5.5.5
 [/laobanfa.com/]223.5.5.5
 [/laobangban.com/]223.5.5.5
@@ -63859,8 +63862,10 @@ tls://1.0.0.1
 [/shengyan985.com/]223.5.5.5
 [/shengyasd.com/]223.5.5.5
 [/shengyeji.com/]223.5.5.5
+[/shengyi.ai/]223.5.5.5
 [/shengyi.biz/]223.5.5.5
 [/shengyidi.com/]223.5.5.5
+[/shengyizhuanjia.com/]223.5.5.5
 [/shengyuancc.com/]223.5.5.5
 [/shengzehr.com/]223.5.5.5
 [/shengzhaoli.com/]223.5.5.5
@@ -83077,6 +83082,7 @@ tls://1.0.0.1
 [/yuanbaohui.com/]223.5.5.5
 [/yuanbaokc.com/]223.5.5.5
 [/yuanbaotaoche.com/]223.5.5.5
+[/yuanbei.biz/]223.5.5.5
 [/yuanbin.me/]223.5.5.5
 [/yuancangipr.com/]223.5.5.5
 [/yuancdn.com/]223.5.5.5
@@ -88031,8 +88037,6 @@ tls://1.0.0.1
 [/guzzoni-apple-com.v.aaplimg.com/]223.5.5.5
 [/guzzoni.apple.com/]223.5.5.5
 [/guzzoni.smoot.apple.com/]223.5.5.5
-[/gvt1-cn.com/]223.5.5.5
-[/gvt2-cn.com/]223.5.5.5
 [/hellofontpreview.oss-cn-beijing.aliyuncs.com/]223.5.5.5
 [/hellowebfonts.oss-cn-beijing.aliyuncs.com/]223.5.5.5
 [/hospital.pku.edu.cn/]223.5.5.5

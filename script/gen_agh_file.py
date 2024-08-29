@@ -11,7 +11,7 @@ def process_file(input_file, dns):
     for line in lines:
         stripped_line = line.strip()
 
-        if (stripped_line.startswith('regexp:'):
+        if (stripped_line.startswith('regexp:')):
             continue
 
         if (stripped_line.startswith(('udp://', 'tcp://', 'tls://', 'https://', 'h3://', 'quic://', 'sdns://', '[', '#')) or

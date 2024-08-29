@@ -34,9 +34,9 @@ jobs:
       - name: Generate Common Files
         run: |
           cat ./customization/base_content.txt > ./result/agh_direct_alidns.txt
-          cat ./tmp/raw_direct.txt >> ./result/agh_direct_alidns.txt
+          (echo "" && cat ./tmp/raw_direct.txt) >> ./result/agh_direct_alidns.txt
           cat ./customization/base_content.txt > ./result/agh_direct_updns.txt
-          cat ./tmp/raw_direct.txt >>  ./result/agh_direct_updns.txt
+          (echo "" && cat ./tmp/raw_direct.txt) >>  ./result/agh_direct_updns.txt
           python3 script/gen_agh_file.py ./result/agh_direct_alidns.txt --dns ${{ env.ALI_DNS }}
           python3 script/gen_agh_file.py ./result/agh_direct_updns.txt --dns ${{ env.UPSTREAM_DNS }}
 

@@ -6,14 +6,12 @@ def process_file(input_file, dns):
         lines = file.readlines()
 
     new_lines = []
-    ip_pattern = re.compile(r'^(\d{1,3}\.){3}\d{1,3}(:\d+)?$')  # 匹配合法的IP地址及可选端口
+    ip_pattern = re.compile(r'^(\d{1,3}\.){3}\d{1,3}(:\d+)?$')
 
     for line in lines:
         stripped_line = line.strip()
 
-        # 如果行以指定的前缀之一开头，直接添加到新行列表
-        if (stripped_line.startswith(('udp://', 'tcp://', 'tls://', 'https://', 'h3://', 'quic://', 'sdns://', '[//', '#')) or
-            (stripped_line.startswith('[//') and stripped_line.endswith(']')) or
+        if (stripped_line.startswith(('udp://', 'tcp://', 'tls://', 'https://', 'h3://', 'quic://', 'sdns://', '[', '#')) or
             ip_pattern.match(stripped_line)):
             new_lines.append(line)
             continue

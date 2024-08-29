@@ -6,22 +6,19 @@ def process_file(input_file, dns):
         lines = file.readlines()
 
     new_lines = []
-    # 定义需要跳过处理的行首前缀
-    prefixes_to_skip = [
-        "udp://", "tcp://", "tls://", "https://", "h3://", 
-        "quic://", "sdns://", "[//]", "#"
-    ]
+    ip_pattern = re.compile(r'^(\d{1,3}\.){3}\d{1,3}(:\d+)?$')  # 匹配合法的IP地址及可选端口
 
     for line in lines:
-        if line.startswith('regexp:'):
-            continue
-        
-        # 如果行首包含需要跳过处理的前缀，直接添加原始行
-        if any(line.startswith(prefix) for prefix in prefixes_to_skip):
+        stripped_line = line.strip()
+
+        # 如果行以指定的前缀之一开头，直接添加到新行列表
+        if (stripped_line.startswith(('udp://', 'tcp://', 'tls://', 'https://', 'h3://', 'quic://', 'sdns://', '[//', '#')) or
+            (stripped_line.startswith('[') and stripped_line.endswith(']')) or
+            ip_pattern.match(stripped_line)):
             new_lines.append(line)
             continue
 
-        match = re.match(r'(?:full:)?(.+)', line.strip())
+        match = re.match(r'(?:full:)?(.+)', stripped_line)
         if match:
             domain = match.group(1)
             new_line = f'[/{domain}/]{dns}\n'

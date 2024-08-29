@@ -27,28 +27,22 @@ jobs:
 
       - name: Download Lists And Copy Lists
         run: |
-          wget ${{ env.DIRECT_LIST }} -O ./result/agh_direct_alidns.txt
-          python3 script/customize_list.py ./result/agh_direct_alidns.txt ./customization/domain_local_dns.txt
-          cp -f ./result/agh_direct_alidns.txt ./result/agh_direct_updns.txt
+          mkdir ./tmp
+          wget ${{ env.DIRECT_LIST }} -O ./tmp/raw_direct.txt
+          python3 script/customize_list.py ./tmp/raw_direct.txt ./customization/domain_local_dns.txt
 
       - name: Generate Common Files
         run: |
+          cat ./customization/base_content.txt > ./result/agh_direct_alidns.txt
+          cat ./tmp/raw_direct.txt >> ./result/agh_direct_alidns.txt
+          cat ./customization/base_content.txt > ./result/agh_direct_updns.txt
+          cat ./tmp/raw_direct.txt >>  ./result/agh_direct_updns.txt
           python3 script/gen_agh_file.py ./result/agh_direct_alidns.txt --dns ${{ env.ALI_DNS }}
           python3 script/gen_agh_file.py ./result/agh_direct_updns.txt --dns ${{ env.UPSTREAM_DNS }}
-          sed -i '1s/^/tls:\/\/8.8.4.4\ntls:\/\/1.0.0.1\n\[\/lan\/\]127\.0\.0\.1:54\n\[\/\/\]127\.0\.0\.1:54\n/' ./result/agh_direct_alidns.txt
-          sed -i '1s/^/tls:\/\/8.8.4.4\ntls:\/\/1.0.0.1\n\[\/lan\/\]127\.0\.0\.1:54\n\[\/\/\]127\.0\.0\.1:54\n/' ./result/agh_direct_updns.txt
 
-      # - name: Release and upload assets
-      #   uses: softprops/action-gh-release@v1
-      #   with:
-      #     name: ${{ env.RELEASE_NAME }}
-      #     tag_name: ${{ env.TAG_NAME }}
-      #     draft: false
-      #     prerelease: false
-      #     files: |
-      #       ./configuration/release/sr_ark.conf
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Remove Temporary Files
+        run: |
+          rm -rf ./tmp
 
       - name: Commit files
         run: |

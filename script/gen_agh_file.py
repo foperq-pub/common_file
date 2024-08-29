@@ -11,7 +11,7 @@ def process_file(input_file, dns):
     for line in lines:
         stripped_line = line.strip()
 
-        if (stripped_line.startswith(('udp://', 'tcp://', 'tls://', 'https://', 'h3://', 'quic://', 'sdns://', '[', '#')) or
+        if (stripped_line.startswith(('regexp:', 'udp://', 'tcp://', 'tls://', 'https://', 'h3://', 'quic://', 'sdns://', '[', '#')) or
             ip_pattern.match(stripped_line)):
             new_lines.append(line)
             continue

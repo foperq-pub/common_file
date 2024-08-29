@@ -13,7 +13,7 @@ def process_file(input_file, dns):
 
         # 如果行以指定的前缀之一开头，直接添加到新行列表
         if (stripped_line.startswith(('udp://', 'tcp://', 'tls://', 'https://', 'h3://', 'quic://', 'sdns://', '[//', '#')) or
-            (stripped_line.startswith('[') and stripped_line.endswith(']')) or
+            (stripped_line.startswith('[//') and stripped_line.endswith(']')) or
             ip_pattern.match(stripped_line)):
             new_lines.append(line)
             continue

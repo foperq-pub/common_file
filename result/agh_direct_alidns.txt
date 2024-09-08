@@ -3491,9 +3491,11 @@ tls://94.140.14.14
 [/381pk.com/]223.5.5.5
 [/38238r.com/]223.5.5.5
 [/3839.com/]223.5.5.5
+[/3839apk.com/]223.5.5.5
 [/3839app.com/]223.5.5.5
 [/3839app.net/]223.5.5.5
 [/3839img.com/]223.5.5.5
+[/3839pay.com/]223.5.5.5
 [/3839pic.com/]223.5.5.5
 [/3839vc.com/]223.5.5.5
 [/3839video.com/]223.5.5.5
@@ -3899,13 +3901,17 @@ tls://94.140.14.14
 [/4399er.com/]223.5.5.5
 [/4399hhh.com/]223.5.5.5
 [/4399i.net/]223.5.5.5
+[/4399inc.com/]223.5.5.5
 [/4399j.com/]223.5.5.5
+[/4399mail.com/]223.5.5.5
 [/4399pk.com/]223.5.5.5
 [/4399sj.com/]223.5.5.5
 [/4399swf.com/]223.5.5.5
 [/4399sy.com/]223.5.5.5
 [/4399wanju.com/]223.5.5.5
 [/4399youpai.com/]223.5.5.5
+[/4399youxi.com/]223.5.5.5
+[/4399yyy.com/]223.5.5.5
 [/43ns.com/]223.5.5.5
 [/43zhubao.com/]223.5.5.5
 [/4417.com/]223.5.5.5
@@ -6265,6 +6271,7 @@ tls://94.140.14.14
 [/70soft.com/]223.5.5.5
 [/70ym.com/]223.5.5.5
 [/70yx.com/]223.5.5.5
+[/71.am/]223.5.5.5
 [/71.com/]223.5.5.5
 [/71.net/]223.5.5.5
 [/711199.com/]223.5.5.5
@@ -6298,6 +6305,7 @@ tls://94.140.14.14
 [/71big.net/]223.5.5.5
 [/71dm.com/]223.5.5.5
 [/71e.com/]223.5.5.5
+[/71edge.com/]223.5.5.5
 [/71edge.work/]223.5.5.5
 [/71go.com/]223.5.5.5
 [/71k.com/]223.5.5.5
@@ -8480,6 +8488,7 @@ tls://94.140.14.14
 [/aconf.org/]223.5.5.5
 [/acoolread.com/]223.5.5.5
 [/acpf-cn.org/]223.5.5.5
+[/acplay.net/]223.5.5.5
 [/acq42.com/]223.5.5.5
 [/acqiche.com/]223.5.5.5
 [/acqyjg.com/]223.5.5.5
@@ -10046,6 +10055,7 @@ tls://94.140.14.14
 [/anijue.com/]223.5.5.5
 [/animalchina.com/]223.5.5.5
 [/animationcritics.com/]223.5.5.5
+[/animetamashi.com/]223.5.5.5
 [/animetaste.net/]223.5.5.5
 [/animetoy.com/]223.5.5.5
 [/anitama.net/]223.5.5.5
@@ -10490,6 +10500,7 @@ tls://94.140.14.14
 [/appdp.com/]223.5.5.5
 [/appduu.com/]223.5.5.5
 [/appeasou.com/]223.5.5.5
+[/appeeres.com/]223.5.5.5
 [/appganhuo.com/]223.5.5.5
 [/appgenuine.com/]223.5.5.5
 [/apphaiwangxing.com/]223.5.5.5
@@ -13110,6 +13121,7 @@ tls://94.140.14.14
 [/bihuoji.com/]223.5.5.5
 [/biikan.com/]223.5.5.5
 [/biioii.com/]223.5.5.5
+[/biji.com/]223.5.5.5
 [/biji13.com/]223.5.5.5
 [/bijiago.com/]223.5.5.5
 [/bijiagou.com/]223.5.5.5
@@ -13135,24 +13147,31 @@ tls://94.140.14.14
 [/bilibili.cc/]223.5.5.5
 [/bilibili.co/]223.5.5.5
 [/bilibili.com/]223.5.5.5
+[/bilibili.net/]223.5.5.5
 [/bilibili996.com/]223.5.5.5
 [/bilibiligame.co/]223.5.5.5
 [/bilibiligame.net/]223.5.5.5
 [/bilibilihelper.com/]223.5.5.5
 [/bilibilijj.com/]223.5.5.5
+[/bilibilipay.com/]223.5.5.5
 [/bilicdn1.com/]223.5.5.5
 [/bilicdn2.com/]223.5.5.5
+[/bilicdn3.com/]223.5.5.5
+[/bilicdn4.com/]223.5.5.5
+[/bilicdn5.com/]223.5.5.5
 [/bilicomic.com/]223.5.5.5
 [/bilicomics.com/]223.5.5.5
 [/biligame.co/]223.5.5.5
 [/biligame.com/]223.5.5.5
 [/biligame.net/]223.5.5.5
+[/biligo.com/]223.5.5.5
 [/biligx.com/]223.5.5.5
 [/bilihot.com/]223.5.5.5
 [/biliimg.com/]223.5.5.5
 [/bilinovel.com/]223.5.5.5
 [/bilive.com/]223.5.5.5
 [/bilivideo.com/]223.5.5.5
+[/bilivideo.net/]223.5.5.5
 [/biliyu.com/]223.5.5.5
 [/bill-jc.com/]223.5.5.5
 [/billchn.com/]223.5.5.5
@@ -21915,6 +21934,7 @@ tls://94.140.14.14
 [/dandang.org/]223.5.5.5
 [/dandanjiang.tv/]223.5.5.5
 [/dandanman.com/]223.5.5.5
+[/dandanplay.com/]223.5.5.5
 [/dandantang.com/]223.5.5.5
 [/dandanvoice.com/]223.5.5.5
 [/dandanz.com/]223.5.5.5
@@ -22438,6 +22458,7 @@ tls://94.140.14.14
 [/ddlequ.com/]223.5.5.5
 [/ddmap.com/]223.5.5.5
 [/ddmer.com/]223.5.5.5
+[/ddmogo.com/]223.5.5.5
 [/ddnddn.com/]223.5.5.5
 [/ddnspod.com/]223.5.5.5
 [/ddnsto.com/]223.5.5.5
@@ -25617,6 +25638,7 @@ tls://94.140.14.14
 [/edu201.com/]223.5.5.5
 [/edu24o1.com/]223.5.5.5
 [/edu24ol.com/]223.5.5.5
+[/edu4399.com/]223.5.5.5
 [/edu510.com/]223.5.5.5
 [/edu5a.com/]223.5.5.5
 [/edu63.com/]223.5.5.5
@@ -36082,6 +36104,7 @@ tls://94.140.14.14
 [/hdsdyyy.com/]223.5.5.5
 [/hdslb.com/]223.5.5.5
 [/hdslb.net/]223.5.5.5
+[/hdslb.org/]223.5.5.5
 [/hdsmgw.com/]223.5.5.5
 [/hdsq.cc/]223.5.5.5
 [/hdsx36hb.com/]223.5.5.5
@@ -39932,6 +39955,7 @@ tls://94.140.14.14
 [/i2eas.com/]223.5.5.5
 [/i2ya.com/]223.5.5.5
 [/i360mall.com/]223.5.5.5
+[/i3839.com/]223.5.5.5
 [/i3abox.com/]223.5.5.5
 [/i3cilx.com/]223.5.5.5
 [/i3done.com/]223.5.5.5
@@ -41029,6 +41053,7 @@ tls://94.140.14.14
 [/im520.com/]223.5.5.5
 [/im577.com/]223.5.5.5
 [/im5i.com/]223.5.5.5
+[/im9.com/]223.5.5.5
 [/imaccn.com/]223.5.5.5
 [/imachina.com/]223.5.5.5
 [/imaegoo.com/]223.5.5.5
@@ -47575,6 +47600,7 @@ tls://94.140.14.14
 [/kumanju.com/]223.5.5.5
 [/kumaoyun.com/]223.5.5.5
 [/kumeiwp.com/]223.5.5.5
+[/kumiao.com/]223.5.5.5
 [/kumiao.vip/]223.5.5.5
 [/kumifeng.com/]223.5.5.5
 [/kun-pharm.com/]223.5.5.5
@@ -51813,6 +51839,7 @@ tls://94.140.14.14
 [/maijiemedia.com/]223.5.5.5
 [/maikami.vip/]223.5.5.5
 [/mail163.com/]223.5.5.5
+[/mail4399.com/]223.5.5.5
 [/maila88.com/]223.5.5.5
 [/mailbusinfo.com/]223.5.5.5
 [/mailehudong.com/]223.5.5.5
@@ -53932,6 +53959,7 @@ tls://94.140.14.14
 [/mogoedit.com/]223.5.5.5
 [/mogohd.com/]223.5.5.5
 [/mogojob.com/]223.5.5.5
+[/mogoo.com/]223.5.5.5
 [/mogoroom.com/]223.5.5.5
 [/mogu.com/]223.5.5.5
 [/mogu.io/]223.5.5.5
@@ -54903,6 +54931,7 @@ tls://94.140.14.14
 [/myshxz.com/]223.5.5.5
 [/mysinamail.com/]223.5.5.5
 [/mysipo.com/]223.5.5.5
+[/mysiteres.com/]223.5.5.5
 [/myslowdesign.com/]223.5.5.5
 [/mysm888.com/]223.5.5.5
 [/mysmth.net/]223.5.5.5
@@ -61247,6 +61276,7 @@ tls://94.140.14.14
 [/qq1398.com/]223.5.5.5
 [/qq163.cc/]223.5.5.5
 [/qq163.com/]223.5.5.5
+[/qq163.net/]223.5.5.5
 [/qq190.com/]223.5.5.5
 [/qq190.net/]223.5.5.5
 [/qq499.com/]223.5.5.5
@@ -63018,6 +63048,7 @@ tls://94.140.14.14
 [/rnhy.net/]223.5.5.5
 [/rnmtb.com/]223.5.5.5
 [/rnpagoc.site/]223.5.5.5
+[/ro.com/]223.5.5.5
 [/ro50.com/]223.5.5.5
 [/road-group.com/]223.5.5.5
 [/roadjava.com/]223.5.5.5
@@ -63956,6 +63987,7 @@ tls://94.140.14.14
 [/saogai.com/]223.5.5.5
 [/saohua.com/]223.5.5.5
 [/saoic.com/]223.5.5.5
+[/saolife.com/]223.5.5.5
 [/saomadang.com/]223.5.5.5
 [/saoniuhuo.com/]223.5.5.5
 [/saop.cc/]223.5.5.5
@@ -70258,12 +70290,14 @@ tls://94.140.14.14
 [/tapdb.net/]223.5.5.5
 [/tapenjoy.com/]223.5.5.5
 [/tapimg.com/]223.5.5.5
+[/tapimg.net/]223.5.5.5
 [/tapotiexie.com/]223.5.5.5
 [/tappile.com/]223.5.5.5
 [/tapque.com/]223.5.5.5
 [/tapsvc.com/]223.5.5.5
 [/taptap-api.com/]223.5.5.5
 [/taptap.com/]223.5.5.5
+[/taptap.io/]223.5.5.5
 [/taptapcode.com/]223.5.5.5
 [/taptapdada.com/]223.5.5.5
 [/taraniss.com/]223.5.5.5
@@ -75527,6 +75561,7 @@ tls://94.140.14.14
 [/wantuju.com/]223.5.5.5
 [/wantumusic.com/]223.5.5.5
 [/wantwords.net/]223.5.5.5
+[/wanwan4399.com/]223.5.5.5
 [/wanwang.space/]223.5.5.5
 [/wanweixin.com/]223.5.5.5
 [/wanwudezhi.com/]223.5.5.5
@@ -75843,6 +75878,7 @@ tls://94.140.14.14
 [/webfreecounter.com/]223.5.5.5
 [/webfuwu.com/]223.5.5.5
 [/webgame138.com/]223.5.5.5
+[/webgame163.com/]223.5.5.5
 [/webgzs.com/]223.5.5.5
 [/webhek.com/]223.5.5.5
 [/webhivers.com/]223.5.5.5
@@ -77389,6 +77425,7 @@ tls://94.140.14.14
 [/wo116114.com/]223.5.5.5
 [/wo186.tv/]223.5.5.5
 [/wo1990.com/]223.5.5.5
+[/wo1wan.com/]223.5.5.5
 [/wo685.com/]223.5.5.5
 [/wo87.com/]223.5.5.5
 [/woa.com/]223.5.5.5
@@ -84189,6 +84226,7 @@ tls://94.140.14.14
 [/ynzy-tobacco.com/]223.5.5.5
 [/ynzzwl.com/]223.5.5.5
 [/yo4399.com/]223.5.5.5
+[/yo9.com/]223.5.5.5
 [/yoagoa.com/]223.5.5.5
 [/yobangbang.com/]223.5.5.5
 [/yobbom.com/]223.5.5.5
@@ -90200,6 +90238,7 @@ tls://94.140.14.14
 [/logger-dev.corp.google.com/]223.5.5.5
 [/logger.corp.google.com/]223.5.5.5
 [/login.corp.google.com/]223.5.5.5
+[/manga.bilibili.com/]223.5.5.5
 [/maps.apple.com/]223.5.5.5
 [/menu-static.gog-statics.com/]223.5.5.5
 [/mesu-cdn.apple.com.akadns.net/]223.5.5.5

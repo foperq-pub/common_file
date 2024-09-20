@@ -1905,6 +1905,7 @@ tls://94.140.14.14
 [/189sec.com/]127.0.0.1:54
 [/189smarthome.com/]127.0.0.1:54
 [/189store.com/]127.0.0.1:54
+[/189wh.com/]127.0.0.1:54
 [/189works.com/]127.0.0.1:54
 [/189young.com/]127.0.0.1:54
 [/18art.art/]127.0.0.1:54
@@ -3893,7 +3894,6 @@ tls://94.140.14.14
 [/44552121.com/]127.0.0.1:54
 [/4480.cc/]127.0.0.1:54
 [/4484.win/]127.0.0.1:54
-[/4493.com/]127.0.0.1:54
 [/44971.com/]127.0.0.1:54
 [/44983.com/]127.0.0.1:54
 [/44dt.com/]127.0.0.1:54
@@ -4200,7 +4200,6 @@ tls://94.140.14.14
 [/5199.cc/]127.0.0.1:54
 [/5199.com/]127.0.0.1:54
 [/5199yx.com/]127.0.0.1:54
-[/519rv.com/]127.0.0.1:54
 [/51a.co/]127.0.0.1:54
 [/51ads.com/]127.0.0.1:54
 [/51aimei.com/]127.0.0.1:54
@@ -5066,7 +5065,6 @@ tls://94.140.14.14
 [/52zhaopin.com/]127.0.0.1:54
 [/52zixue.com/]127.0.0.1:54
 [/52zjkj.com/]127.0.0.1:54
-[/52zuji.net/]127.0.0.1:54
 [/52zx.cc/]127.0.0.1:54
 [/52zx.net/]127.0.0.1:54
 [/52zxw.com/]127.0.0.1:54
@@ -10487,7 +10485,6 @@ tls://94.140.14.14
 [/applysquare.com/]127.0.0.1:54
 [/applysquare.net/]127.0.0.1:54
 [/appmifile.com/]127.0.0.1:54
-[/appmiu.com/]127.0.0.1:54
 [/appnode.com/]127.0.0.1:54
 [/appointen.lol/]127.0.0.1:54
 [/appol.com/]127.0.0.1:54
@@ -11472,7 +11469,6 @@ tls://94.140.14.14
 [/baidupan.com/]127.0.0.1:54
 [/baidupcs.com/]127.0.0.1:54
 [/baidupeixun.com/]127.0.0.1:54
-[/baidupro.com/]127.0.0.1:54
 [/baidusmartapps.com/]127.0.0.1:54
 [/baidusobing.com/]127.0.0.1:54
 [/baidustatic.com/]127.0.0.1:54
@@ -11499,7 +11495,6 @@ tls://94.140.14.14
 [/baifeiyue.com/]127.0.0.1:54
 [/baifendian.com/]127.0.0.1:54
 [/baifubao.com/]127.0.0.1:54
-[/baifum.com/]127.0.0.1:54
 [/baigebao.com/]127.0.0.1:54
 [/baigepo.com/]127.0.0.1:54
 [/baigeseo.com/]127.0.0.1:54
@@ -16702,6 +16697,7 @@ tls://94.140.14.14
 [/chaishiguan.com/]127.0.0.1:54
 [/chaitin.com/]127.0.0.1:54
 [/chaizz.com/]127.0.0.1:54
+[/chajiage.com/]127.0.0.1:54
 [/chajian5.com/]127.0.0.1:54
 [/chajiandaquan.com/]127.0.0.1:54
 [/chajianxw.com/]127.0.0.1:54
@@ -21991,7 +21987,6 @@ tls://94.140.14.14
 [/daqizhong.com/]127.0.0.1:54
 [/daqsoft.com/]127.0.0.1:54
 [/daquan.com/]127.0.0.1:54
-[/daquan2020.com/]127.0.0.1:54
 [/darczpw.com/]127.0.0.1:54
 [/darehui.com/]127.0.0.1:54
 [/darensky.com/]127.0.0.1:54
@@ -25068,6 +25063,7 @@ tls://94.140.14.14
 [/e5n.com/]127.0.0.1:54
 [/e5tech.com/]127.0.0.1:54
 [/e5wq.cc/]127.0.0.1:54
+[/e64.fun/]127.0.0.1:54
 [/e65u.com/]127.0.0.1:54
 [/e68cname.com/]127.0.0.1:54
 [/e763.com/]127.0.0.1:54
@@ -28578,7 +28574,6 @@ tls://94.140.14.14
 [/fsrlsn.com/]127.0.0.1:54
 [/fsruibin.com/]127.0.0.1:54
 [/fsshenneng.com/]127.0.0.1:54
-[/fsshly.com/]127.0.0.1:54
 [/fsspc.com/]127.0.0.1:54
 [/fssptjj.com/]127.0.0.1:54
 [/fsswcd.com/]127.0.0.1:54
@@ -29829,6 +29824,7 @@ tls://94.140.14.14
 [/gemuedu.com/]127.0.0.1:54
 [/genbaike.com/]127.0.0.1:54
 [/genban.org/]127.0.0.1:54
+[/gendan5.com/]127.0.0.1:54
 [/gendantong.com/]127.0.0.1:54
 [/generalwatertech.com/]127.0.0.1:54
 [/generosbio.com/]127.0.0.1:54
@@ -34113,7 +34109,6 @@ tls://94.140.14.14
 [/gxzhkj.com/]127.0.0.1:54
 [/gxzhlw.com/]127.0.0.1:54
 [/gxzhnm.com/]127.0.0.1:54
-[/gxzhongli.com/]127.0.0.1:54
 [/gxzhongshui.com/]127.0.0.1:54
 [/gxzhongta.com/]127.0.0.1:54
 [/gxzhongzhai.com/]127.0.0.1:54
@@ -37268,7 +37263,6 @@ tls://94.140.14.14
 [/hnhyrc.com/]127.0.0.1:54
 [/hnhyt.com/]127.0.0.1:54
 [/hniec.org/]127.0.0.1:54
-[/hnied.xyz/]127.0.0.1:54
 [/hniic.com/]127.0.0.1:54
 [/hnijunhai.com/]127.0.0.1:54
 [/hnisca.org/]127.0.0.1:54
@@ -39476,6 +39470,7 @@ tls://94.140.14.14
 [/hymlbj.com/]127.0.0.1:54
 [/hynetek.com/]127.0.0.1:54
 [/hynews.net/]127.0.0.1:54
+[/hyngj.com/]127.0.0.1:54
 [/hynixic.com/]127.0.0.1:54
 [/hynpay.com/]127.0.0.1:54
 [/hynuantong.com/]127.0.0.1:54
@@ -39848,7 +39843,6 @@ tls://94.140.14.14
 [/iambocai.com/]127.0.0.1:54
 [/iameduwork.com/]127.0.0.1:54
 [/iamfisher.net/]127.0.0.1:54
-[/iamhippo.com/]127.0.0.1:54
 [/iamjzs.com/]127.0.0.1:54
 [/iamle.com/]127.0.0.1:54
 [/iamlintao.com/]127.0.0.1:54
@@ -44995,7 +44989,6 @@ tls://94.140.14.14
 [/jsyunmy.com/]127.0.0.1:54
 [/jsyxrcb.com/]127.0.0.1:54
 [/jszbtb.com/]127.0.0.1:54
-[/jszbw.com/]127.0.0.1:54
 [/jszc0773.com/]127.0.0.1:54
 [/jszdlssws.com/]127.0.0.1:54
 [/jszg.org/]127.0.0.1:54
@@ -45495,7 +45488,6 @@ tls://94.140.14.14
 [/jxmlkd.com/]127.0.0.1:54
 [/jxmrfire.com/]127.0.0.1:54
 [/jxmy18.com/]127.0.0.1:54
-[/jxncard.com/]127.0.0.1:54
 [/jxndxuebao.com/]127.0.0.1:54
 [/jxnjlxh.com/]127.0.0.1:54
 [/jxnxs.com/]127.0.0.1:54
@@ -48464,7 +48456,6 @@ tls://94.140.14.14
 [/learndiary.com/]127.0.0.1:54
 [/learnfuture.com/]127.0.0.1:54
 [/learning-archive.org/]127.0.0.1:54
-[/learnku.com/]127.0.0.1:54
 [/learsun.com/]127.0.0.1:54
 [/leatherhr.com/]127.0.0.1:54
 [/leb-china.com/]127.0.0.1:54
@@ -49747,7 +49738,6 @@ tls://94.140.14.14
 [/liuliuxing.com/]127.0.0.1:54
 [/liulj.com/]127.0.0.1:54
 [/liulv.net/]127.0.0.1:54
-[/liumanhua.com/]127.0.0.1:54
 [/liumapp.com/]127.0.0.1:54
 [/liumeinet.com/]127.0.0.1:54
 [/liumh.com/]127.0.0.1:54
@@ -51507,7 +51497,6 @@ tls://94.140.14.14
 [/machine-information.com/]127.0.0.1:54
 [/machine-visions.com/]127.0.0.1:54
 [/machine35.com/]127.0.0.1:54
-[/machineryinfo.net/]127.0.0.1:54
 [/machloop.cc/]127.0.0.1:54
 [/machloop.com/]127.0.0.1:54
 [/machmall.com/]127.0.0.1:54
@@ -53491,6 +53480,7 @@ tls://94.140.14.14
 [/mlsbmw.com/]127.0.0.1:54
 [/mlsub.net/]127.0.0.1:54
 [/mlwanwan.com/]127.0.0.1:54
+[/mlwdpx.com/]127.0.0.1:54
 [/mlwed.com/]127.0.0.1:54
 [/mlwplus.com/]127.0.0.1:54
 [/mlwu.net/]127.0.0.1:54
@@ -54314,6 +54304,7 @@ tls://94.140.14.14
 [/muomou.com/]127.0.0.1:54
 [/mupao.com/]127.0.0.1:54
 [/mupceet.com/]127.0.0.1:54
+[/muqianyun.com/]127.0.0.1:54
 [/muqn4uxys.sbs/]127.0.0.1:54
 [/muquan.com/]127.0.0.1:54
 [/murdermysterypa.com/]127.0.0.1:54
@@ -56603,7 +56594,6 @@ tls://94.140.14.14
 [/nszxsyxx.com/]127.0.0.1:54
 [/nt.app/]127.0.0.1:54
 [/nt.cc/]127.0.0.1:54
-[/nt1001.com/]127.0.0.1:54
 [/nt56.net/]127.0.0.1:54
 [/nt6y.com/]127.0.0.1:54
 [/ntalker.com/]127.0.0.1:54
@@ -64292,7 +64282,6 @@ tls://94.140.14.14
 [/sdxzt.com/]127.0.0.1:54
 [/sdyeya.com/]127.0.0.1:54
 [/sdyftr.com/]127.0.0.1:54
-[/sdyhjszp.com/]127.0.0.1:54
 [/sdyinshuachang.com/]127.0.0.1:54
 [/sdyizhibi.com/]127.0.0.1:54
 [/sdyndcjx.com/]127.0.0.1:54
@@ -68439,7 +68428,6 @@ tls://94.140.14.14
 [/sumoon.com/]127.0.0.1:54
 [/sumrday.net/]127.0.0.1:54
 [/sumscope.com/]127.0.0.1:54
-[/sumsz.com/]127.0.0.1:54
 [/sumzc.com/]127.0.0.1:54
 [/sumzi.com/]127.0.0.1:54
 [/sun-ada.net/]127.0.0.1:54
@@ -69494,6 +69482,7 @@ tls://94.140.14.14
 [/sztanzo.com/]127.0.0.1:54
 [/sztara.com/]127.0.0.1:54
 [/sztd123.com/]127.0.0.1:54
+[/szte.com/]127.0.0.1:54
 [/sztgxx.com/]127.0.0.1:54
 [/szthekey.com/]127.0.0.1:54
 [/szthxf.com/]127.0.0.1:54
@@ -71896,6 +71885,7 @@ tls://94.140.14.14
 [/toycloud.com/]127.0.0.1:54
 [/toyean.com/]127.0.0.1:54
 [/toyota-nanning.com/]127.0.0.1:54
+[/toyoures.com/]127.0.0.1:54
 [/toyoutesting.com/]127.0.0.1:54
 [/toysir.com/]127.0.0.1:54
 [/toysol.com/]127.0.0.1:54
@@ -72787,7 +72777,6 @@ tls://94.140.14.14
 [/txyapp.com/]127.0.0.1:54
 [/txybk.com/]127.0.0.1:54
 [/txyes.com/]127.0.0.1:54
-[/txylab.com/]127.0.0.1:54
 [/txyscdn.com/]127.0.0.1:54
 [/txyscdn.net/]127.0.0.1:54
 [/txzad.com/]127.0.0.1:54
@@ -72861,7 +72850,6 @@ tls://94.140.14.14
 [/tyzhjx.com/]127.0.0.1:54
 [/tyzhyun.com/]127.0.0.1:54
 [/tz-dsp.com/]127.0.0.1:54
-[/tz-mining.com/]127.0.0.1:54
 [/tz.app/]127.0.0.1:54
 [/tz100.com/]127.0.0.1:54
 [/tz121.com/]127.0.0.1:54
@@ -73605,6 +73593,7 @@ tls://94.140.14.14
 [/usbzh.com/]127.0.0.1:54
 [/uschinagreenfund.com/]127.0.0.1:54
 [/uscnk.com/]127.0.0.1:54
+[/usdcny.net/]127.0.0.1:54
 [/usdxz1.com/]127.0.0.1:54
 [/usdxz1.net/]127.0.0.1:54
 [/use-trust.com/]127.0.0.1:54
@@ -73663,7 +73652,6 @@ tls://94.140.14.14
 [/utermux.dev/]127.0.0.1:54
 [/utfinancing.com/]127.0.0.1:54
 [/utgd.net/]127.0.0.1:54
-[/uthinks.com/]127.0.0.1:54
 [/utofairy.com/]127.0.0.1:54
 [/utogame.com/]127.0.0.1:54
 [/utom.design/]127.0.0.1:54
@@ -74072,6 +74060,7 @@ tls://94.140.14.14
 [/venuscn.com/]127.0.0.1:54
 [/venustrain.com/]127.0.0.1:54
 [/vephp.com/]127.0.0.1:54
+[/veqxiu.net/]127.0.0.1:54
 [/verdareto.com/]127.0.0.1:54
 [/vergilisme.com/]127.0.0.1:54
 [/verify5.com/]127.0.0.1:54
@@ -77177,6 +77166,7 @@ tls://94.140.14.14
 [/wochaw.com/]127.0.0.1:54
 [/woda.com/]127.0.0.1:54
 [/wodale.com/]127.0.0.1:54
+[/wodasi.com/]127.0.0.1:54
 [/wodavip.com/]127.0.0.1:54
 [/wodcloud.com/]127.0.0.1:54
 [/wode.im/]127.0.0.1:54
@@ -77586,6 +77576,7 @@ tls://94.140.14.14
 [/wsssec.com/]127.0.0.1:54
 [/wstong.com/]127.0.0.1:54
 [/wstx.com/]127.0.0.1:54
+[/wsukwai.com/]127.0.0.1:54
 [/wsurl.cc/]127.0.0.1:54
 [/wswebcdn.com/]127.0.0.1:54
 [/wswebcdn.info/]127.0.0.1:54
@@ -78621,6 +78612,7 @@ tls://94.140.14.14
 [/xdfckjz.com/]127.0.0.1:54
 [/xdfkt.com/]127.0.0.1:54
 [/xdfpr.com/]127.0.0.1:54
+[/xdfsjj.com/]127.0.0.1:54
 [/xdgalaxy.com/]127.0.0.1:54
 [/xdggd.com/]127.0.0.1:54
 [/xdhcn.com/]127.0.0.1:54
@@ -80928,7 +80920,6 @@ tls://94.140.14.14
 [/xqb24.com/]127.0.0.1:54
 [/xqbase.com/]127.0.0.1:54
 [/xqblog.com/]127.0.0.1:54
-[/xqbxz.com/]127.0.0.1:54
 [/xqce.com/]127.0.0.1:54
 [/xqckg.com/]127.0.0.1:54
 [/xqcwm123.com/]127.0.0.1:54
@@ -82317,7 +82308,6 @@ tls://94.140.14.14
 [/yccdl.net/]127.0.0.1:54
 [/yccdn.com/]127.0.0.1:54
 [/yccn.cc/]127.0.0.1:54
-[/yccr.net/]127.0.0.1:54
 [/ycczkf.com/]127.0.0.1:54
 [/ycdmyjf.site/]127.0.0.1:54
 [/ycdongxu.com/]127.0.0.1:54
@@ -85018,6 +85008,7 @@ tls://94.140.14.14
 [/yuhaids.com/]127.0.0.1:54
 [/yuhaiyiya.com/]127.0.0.1:54
 [/yuhaotime.com/]127.0.0.1:54
+[/yuhaozhixing.com/]127.0.0.1:54
 [/yuheii.com/]127.0.0.1:54
 [/yuhelaw.com/]127.0.0.1:54
 [/yuheng.tech/]127.0.0.1:54
@@ -85702,7 +85693,6 @@ tls://94.140.14.14
 [/yxzb.tv/]127.0.0.1:54
 [/yxzd.info/]127.0.0.1:54
 [/yxzhi.com/]127.0.0.1:54
-[/yxztyy.com/]127.0.0.1:54
 [/yxzu.com/]127.0.0.1:54
 [/yxzxgy.com/]127.0.0.1:54
 [/yxzzd.com/]127.0.0.1:54
@@ -85762,7 +85752,6 @@ tls://94.140.14.14
 [/yyi100.com/]127.0.0.1:54
 [/yyiren.com/]127.0.0.1:54
 [/yyjingyan.com/]127.0.0.1:54
-[/yyjr.cc/]127.0.0.1:54
 [/yyjzt.com/]127.0.0.1:54
 [/yyk100.com/]127.0.0.1:54
 [/yykj.site/]127.0.0.1:54
@@ -86164,6 +86153,7 @@ tls://94.140.14.14
 [/zc6sigma.com/]127.0.0.1:54
 [/zcaijing.com/]127.0.0.1:54
 [/zcbearing.com/]127.0.0.1:54
+[/zcbm580.com/]127.0.0.1:54
 [/zcccc.com/]127.0.0.1:54
 [/zccrzx.com/]127.0.0.1:54
 [/zcdiesel.com/]127.0.0.1:54

@@ -8254,6 +8254,7 @@ tls://94.140.14.14
 [/aabooo.com/]127.0.0.1:54
 [/aabux.com/]127.0.0.1:54
 [/aad5.com/]127.0.0.1:54
+[/aadcloud.com/]127.0.0.1:54
 [/aadongman.com/]127.0.0.1:54
 [/aads-cng.net/]127.0.0.1:54
 [/aafxw.com/]127.0.0.1:54
@@ -23476,10 +23477,8 @@ tls://94.140.14.14
 [/dkybpc.com/]127.0.0.1:54
 [/dkzt.com/]127.0.0.1:54
 [/dl-huahong.com/]127.0.0.1:54
-[/dl-origin.ubnt.com/]127.0.0.1:54
 [/dl-rc.com/]127.0.0.1:54
 [/dl.delivery.mp.microsoft.com/]127.0.0.1:54
-[/dl.ubnt.com/]127.0.0.1:54
 [/dl0728.com/]127.0.0.1:54
 [/dl158.net/]127.0.0.1:54
 [/dl2link.com/]127.0.0.1:54
@@ -38615,6 +38614,7 @@ tls://94.140.14.14
 [/huaweicloud-dns.com/]127.0.0.1:54
 [/huaweicloud-dns.net/]127.0.0.1:54
 [/huaweicloud-dns.org/]127.0.0.1:54
+[/huaweicloud-idme.com/]127.0.0.1:54
 [/huaweicloud-smn.com/]127.0.0.1:54
 [/huaweicloud-smn.net/]127.0.0.1:54
 [/huaweicloud.com/]127.0.0.1:54
@@ -39300,6 +39300,7 @@ tls://94.140.14.14
 [/hwcrazy.com/]127.0.0.1:54
 [/hwehs.com/]127.0.0.1:54
 [/hweimall.com/]127.0.0.1:54
+[/hweventgrid.com/]127.0.0.1:54
 [/hwfcw.com/]127.0.0.1:54
 [/hwhidc.com/]127.0.0.1:54
 [/hwht.com/]127.0.0.1:54
@@ -40372,6 +40373,7 @@ tls://94.140.14.14
 [/idongdong.com/]127.0.0.1:54
 [/idongmai.com/]127.0.0.1:54
 [/idongniu.com/]127.0.0.1:54
+[/idonguapi.com/]127.0.0.1:54
 [/idooshu.com/]127.0.0.1:54
 [/idosend.com/]127.0.0.1:54
 [/idotools.com/]127.0.0.1:54
@@ -41154,6 +41156,7 @@ tls://94.140.14.14
 [/in9ni.com/]127.0.0.1:54
 [/inabr.com/]127.0.0.1:54
 [/inad.com/]127.0.0.1:54
+[/inanguapi.com/]127.0.0.1:54
 [/inanrenbang.com/]127.0.0.1:54
 [/inbeing.net/]127.0.0.1:54
 [/inbilin.com/]127.0.0.1:54
@@ -42207,6 +42210,7 @@ tls://94.140.14.14
 [/ixiatxt.com/]127.0.0.1:54
 [/ixigua.com/]127.0.0.1:54
 [/ixiguan.com/]127.0.0.1:54
+[/ixiguapi.com/]127.0.0.1:54
 [/ixiguavideo.com/]127.0.0.1:54
 [/iximo.com/]127.0.0.1:54
 [/ixingfei.com/]127.0.0.1:54
@@ -53745,6 +53749,7 @@ tls://94.140.14.14
 [/modashi.net/]127.0.0.1:54
 [/modb.cc/]127.0.0.1:54
 [/modb.pro/]127.0.0.1:54
+[/modelarts-infer.com/]127.0.0.1:54
 [/modelevel.com/]127.0.0.1:54
 [/modelwhale.com/]127.0.0.1:54
 [/modeng178.com/]127.0.0.1:54
@@ -54685,6 +54690,9 @@ tls://94.140.14.14
 [/myhongzuan.com/]127.0.0.1:54
 [/myhostadmin.net/]127.0.0.1:54
 [/myhscodes.com/]127.0.0.1:54
+[/myhuaweicloud-custom.com/]127.0.0.1:54
+[/myhuaweicloud-koodrive.com/]127.0.0.1:54
+[/myhuaweicloud-obs.com/]127.0.0.1:54
 [/myhuaweicloud.com/]127.0.0.1:54
 [/myhuilv.com/]127.0.0.1:54
 [/myhwcdn.com/]127.0.0.1:54
@@ -58802,7 +58810,6 @@ tls://94.140.14.14
 [/pinfangw.com/]127.0.0.1:54
 [/ping-jia.net/]127.0.0.1:54
 [/ping-qu.com/]127.0.0.1:54
-[/ping.ubnt.com/]127.0.0.1:54
 [/ping99.com/]127.0.0.1:54
 [/pingan.com/]127.0.0.1:54
 [/pingan.com.hk/]127.0.0.1:54
@@ -73121,6 +73128,7 @@ tls://94.140.14.14
 [/ubja.vip/]127.0.0.1:54
 [/ublese.com/]127.0.0.1:54
 [/ubmconlinereg.com/]127.0.0.1:54
+[/ubnt.com/]127.0.0.1:54
 [/uboat100.com/]127.0.0.1:54
 [/uboxol.com/]127.0.0.1:54
 [/ubs001.com/]127.0.0.1:54
@@ -73891,6 +73899,7 @@ tls://94.140.14.14
 [/uwan.com/]127.0.0.1:54
 [/uweitui.com/]127.0.0.1:54
 [/uwenku.com/]127.0.0.1:54
+[/uwn.com/]127.0.0.1:54
 [/uworter.com/]127.0.0.1:54
 [/ux18.com/]127.0.0.1:54
 [/ux6.com/]127.0.0.1:54

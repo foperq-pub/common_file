@@ -8254,6 +8254,7 @@ tls://94.140.14.14
 [/aabooo.com/]223.5.5.5
 [/aabux.com/]223.5.5.5
 [/aad5.com/]223.5.5.5
+[/aadcloud.com/]223.5.5.5
 [/aadongman.com/]223.5.5.5
 [/aads-cng.net/]223.5.5.5
 [/aafxw.com/]223.5.5.5
@@ -23476,10 +23477,8 @@ tls://94.140.14.14
 [/dkybpc.com/]223.5.5.5
 [/dkzt.com/]223.5.5.5
 [/dl-huahong.com/]223.5.5.5
-[/dl-origin.ubnt.com/]223.5.5.5
 [/dl-rc.com/]223.5.5.5
 [/dl.delivery.mp.microsoft.com/]223.5.5.5
-[/dl.ubnt.com/]223.5.5.5
 [/dl0728.com/]223.5.5.5
 [/dl158.net/]223.5.5.5
 [/dl2link.com/]223.5.5.5
@@ -38615,6 +38614,7 @@ tls://94.140.14.14
 [/huaweicloud-dns.com/]223.5.5.5
 [/huaweicloud-dns.net/]223.5.5.5
 [/huaweicloud-dns.org/]223.5.5.5
+[/huaweicloud-idme.com/]223.5.5.5
 [/huaweicloud-smn.com/]223.5.5.5
 [/huaweicloud-smn.net/]223.5.5.5
 [/huaweicloud.com/]223.5.5.5
@@ -39300,6 +39300,7 @@ tls://94.140.14.14
 [/hwcrazy.com/]223.5.5.5
 [/hwehs.com/]223.5.5.5
 [/hweimall.com/]223.5.5.5
+[/hweventgrid.com/]223.5.5.5
 [/hwfcw.com/]223.5.5.5
 [/hwhidc.com/]223.5.5.5
 [/hwht.com/]223.5.5.5
@@ -40372,6 +40373,7 @@ tls://94.140.14.14
 [/idongdong.com/]223.5.5.5
 [/idongmai.com/]223.5.5.5
 [/idongniu.com/]223.5.5.5
+[/idonguapi.com/]223.5.5.5
 [/idooshu.com/]223.5.5.5
 [/idosend.com/]223.5.5.5
 [/idotools.com/]223.5.5.5
@@ -41154,6 +41156,7 @@ tls://94.140.14.14
 [/in9ni.com/]223.5.5.5
 [/inabr.com/]223.5.5.5
 [/inad.com/]223.5.5.5
+[/inanguapi.com/]223.5.5.5
 [/inanrenbang.com/]223.5.5.5
 [/inbeing.net/]223.5.5.5
 [/inbilin.com/]223.5.5.5
@@ -42207,6 +42210,7 @@ tls://94.140.14.14
 [/ixiatxt.com/]223.5.5.5
 [/ixigua.com/]223.5.5.5
 [/ixiguan.com/]223.5.5.5
+[/ixiguapi.com/]223.5.5.5
 [/ixiguavideo.com/]223.5.5.5
 [/iximo.com/]223.5.5.5
 [/ixingfei.com/]223.5.5.5
@@ -53745,6 +53749,7 @@ tls://94.140.14.14
 [/modashi.net/]223.5.5.5
 [/modb.cc/]223.5.5.5
 [/modb.pro/]223.5.5.5
+[/modelarts-infer.com/]223.5.5.5
 [/modelevel.com/]223.5.5.5
 [/modelwhale.com/]223.5.5.5
 [/modeng178.com/]223.5.5.5
@@ -54685,6 +54690,9 @@ tls://94.140.14.14
 [/myhongzuan.com/]223.5.5.5
 [/myhostadmin.net/]223.5.5.5
 [/myhscodes.com/]223.5.5.5
+[/myhuaweicloud-custom.com/]223.5.5.5
+[/myhuaweicloud-koodrive.com/]223.5.5.5
+[/myhuaweicloud-obs.com/]223.5.5.5
 [/myhuaweicloud.com/]223.5.5.5
 [/myhuilv.com/]223.5.5.5
 [/myhwcdn.com/]223.5.5.5
@@ -58802,7 +58810,6 @@ tls://94.140.14.14
 [/pinfangw.com/]223.5.5.5
 [/ping-jia.net/]223.5.5.5
 [/ping-qu.com/]223.5.5.5
-[/ping.ubnt.com/]223.5.5.5
 [/ping99.com/]223.5.5.5
 [/pingan.com/]223.5.5.5
 [/pingan.com.hk/]223.5.5.5
@@ -73121,6 +73128,7 @@ tls://94.140.14.14
 [/ubja.vip/]223.5.5.5
 [/ublese.com/]223.5.5.5
 [/ubmconlinereg.com/]223.5.5.5
+[/ubnt.com/]223.5.5.5
 [/uboat100.com/]223.5.5.5
 [/uboxol.com/]223.5.5.5
 [/ubs001.com/]223.5.5.5
@@ -73891,6 +73899,7 @@ tls://94.140.14.14
 [/uwan.com/]223.5.5.5
 [/uweitui.com/]223.5.5.5
 [/uwenku.com/]223.5.5.5
+[/uwn.com/]223.5.5.5
 [/uworter.com/]223.5.5.5
 [/ux18.com/]223.5.5.5
 [/ux6.com/]223.5.5.5

@@ -25,18 +25,23 @@ jobs:
           echo "RELEASE_NAME=Generated on $(date +%Y%m%d%H%M)" >> $GITHUB_ENV
           echo "TAG_NAME=$(date +%Y%m%d%H%M)" >> $GITHUB_ENV
 
-      - name: Download Lists And Copy Lists
+      - name: Download Contents
         run: |
           mkdir ./tmp
           wget ${{ env.DIRECT_LIST }} -O ./tmp/raw_direct.txt
-          python3 script/customize_list.py ./tmp/raw_direct.txt ./customization/domain_local_dns.txt
+
+
+      - name: Process Contents
+        run: |
+          sed -i '/^full:/s/^full://; /^regexp:/d; /^#/d; /^$/d' ./tmp/raw_direct.txt > ./tmp/list_direct.txt
+          python3 script/remove_domains.py ./tmp/list_direct.txt
 
       - name: Generate Common Files
         run: |
           cat ./customization/base_content.txt > ./result/agh_direct_alidns.txt
-          (echo "" && cat ./tmp/raw_direct.txt) >> ./result/agh_direct_alidns.txt
+          (echo "" && cat ./tmp/list_direct.txt) >> ./result/agh_direct_alidns.txt
           cat ./customization/base_content.txt > ./result/agh_direct_updns.txt
-          (echo "" && cat ./tmp/raw_direct.txt) >>  ./result/agh_direct_updns.txt
+          (echo "" && cat ./tmp/list_direct.txt) >>  ./result/agh_direct_updns.txt
           python3 script/gen_agh_file.py ./result/agh_direct_alidns.txt --dns ${{ env.ALI_DNS }}
           python3 script/gen_agh_file.py ./result/agh_direct_updns.txt --dns ${{ env.UPSTREAM_DNS }}
 
@@ -49,6 +54,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git commit -m "Generated on $(date +%Y%m%d%H%M)" -a
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:

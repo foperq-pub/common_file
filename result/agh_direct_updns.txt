@@ -25,6 +25,7 @@ tls://1.0.0.1
 [/akamaiedge.net/]tls://223.5.5.5
 [/aaplimg.com/]tls://223.5.5.5
 [/apple-mapkit.com/]tls://223.5.5.5
+[/apple-dns.net/]tls://223.5.5.5
 [/0.zone/]127.0.0.1:54
 [/00.net/]127.0.0.1:54
 [/000.link/]127.0.0.1:54

@@ -3,7 +3,9 @@ name: Generate Common File
 on:
   schedule:
     - cron: '0 4 * * *'
-
+  push:
+    branches:
+      - master
   workflow_dispatch:
 
 jobs:

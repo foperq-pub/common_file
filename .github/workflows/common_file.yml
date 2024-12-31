@@ -34,7 +34,7 @@ jobs:
       - name: Process Contents
         run: |
           sed -i '/^full:/s/^full://; /^regexp:/d; /^#/d; /^$/d' ./tmp/raw_direct.txt > ./tmp/list_direct.txt
-          python3 script/remove_domains.py ./tmp/list_direct.txt
+          python3 script/remove_domains.py ./tmp/list_direct.txt ./customization/removed_domains.txt
 
       - name: Generate Common Files
         run: |

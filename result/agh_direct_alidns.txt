@@ -8817,8 +8817,6 @@ tls://1.0.0.1
 [/adbxb.com/]223.5.5.5
 [/adc-expo.com/]223.5.5.5
 [/adcdn.com/]223.5.5.5
-[/adcdownload.apple.com/]223.5.5.5
-[/adcdownload.apple.com.akadns.net/]223.5.5.5
 [/adcomeon.com/]223.5.5.5
 [/addaad.com/]223.5.5.5
 [/addgog.com/]223.5.5.5
@@ -10290,13 +10288,6 @@ tls://1.0.0.1
 [/amonxu.com/]223.5.5.5
 [/amoxicillin875.site/]223.5.5.5
 [/amoydxmed.com/]223.5.5.5
-[/amp-api-edge-lb-cn.itunes-apple.com.akadns.net/]223.5.5.5
-[/amp-api-edge-lb.itunes-apple.com.akadns.net/]223.5.5.5
-[/amp-api-edge.apps.apple.com/]223.5.5.5
-[/amp-api-search-edge.apps.apple.com/]223.5.5.5
-[/amp-api.apps.apple.com/]223.5.5.5
-[/amp-api.media.apple.com/]223.5.5.5
-[/amp-api.music.apple.com/]223.5.5.5
 [/ampcn.com/]223.5.5.5
 [/amperobots.com/]223.5.5.5
 [/amplesky.com/]223.5.5.5
@@ -10671,7 +10662,6 @@ tls://1.0.0.1
 [/aoch.com/]223.5.5.5
 [/aochengcdn.com/]223.5.5.5
 [/aocslb.com/]223.5.5.5
-[/aod.itunes.apple.com/]223.5.5.5
 [/aodabo.tech/]223.5.5.5
 [/aodaliyaqianzheng.com/]223.5.5.5
 [/aodbw.com/]223.5.5.5
@@ -10813,12 +10803,8 @@ tls://1.0.0.1
 [/apgblogs.com/]223.5.5.5
 [/apgoview.com/]223.5.5.5
 [/aphidic.com/]223.5.5.5
-[/api-edge.apps.apple.com/]223.5.5.5
 [/api-forwards.com/]223.5.5.5
 [/api-m.com/]223.5.5.5
-[/api-p-ap-c.smoot.apple.com/]223.5.5.5
-[/api-p-ap-d.smoot.apple.com/]223.5.5.5
-[/api-p-ap-e.smoot.apple.com/]223.5.5.5
 [/api.anythinktech.com/]223.5.5.5
 [/apiadmin.org/]223.5.5.5
 [/apiairasia.com/]223.5.5.5
@@ -10929,8 +10915,6 @@ tls://1.0.0.1
 [/appkefu.com/]223.5.5.5
 [/appkg.com/]223.5.5.5
 [/applausefz.com/]223.5.5.5
-[/appldnld.apple.com/]223.5.5.5
-[/appldnld.g.aaplimg.com/]223.5.5.5
 [/apple-x2.xyz/]223.5.5.5
 [/apple110.com/]223.5.5.5
 [/apple114.com/]223.5.5.5
@@ -10972,7 +10956,6 @@ tls://1.0.0.1
 [/appsina.com/]223.5.5.5
 [/appso.com/]223.5.5.5
 [/apptao.com/]223.5.5.5
-[/apptrailers.itunes.apple.com/]223.5.5.5
 [/appubang.com/]223.5.5.5
 [/appublisher.com/]223.5.5.5
 [/appurl.cc/]223.5.5.5
@@ -11476,7 +11459,6 @@ tls://1.0.0.1
 [/austinlostpets.com/]223.5.5.5
 [/australiaxy.com/]223.5.5.5
 [/ausuu.com/]223.5.5.5
-[/auth.music.apple.com/]223.5.5.5
 [/authing-inc.co/]223.5.5.5
 [/authing.co/]223.5.5.5
 [/authing.com/]223.5.5.5
@@ -11934,7 +11916,6 @@ tls://1.0.0.1
 [/baertt.com/]223.5.5.5
 [/bafangjuhe.com/]223.5.5.5
 [/bafangwy.com/]223.5.5.5
-[/bag.itunes.apple.com/]223.5.5.5
 [/bag198.com/]223.5.5.5
 [/bagb2b.com/]223.5.5.5
 [/bagesoft.net/]223.5.5.5
@@ -14882,7 +14863,6 @@ tls://1.0.0.1
 [/booking001.com/]223.5.5.5
 [/bookingtee.com/]223.5.5.5
 [/bookinlife.net/]223.5.5.5
-[/bookkeeper.itunes.apple.com/]223.5.5.5
 [/bookof.com/]223.5.5.5
 [/books51.com/]223.5.5.5
 [/bookschina.com/]223.5.5.5
@@ -16862,10 +16842,6 @@ tls://1.0.0.1
 [/cdmmlxs.com/]223.5.5.5
 [/cdn-cba.com/]223.5.5.5
 [/cdn-cdn.net/]223.5.5.5
-[/cdn-cn1.apple-mapkit.com/]223.5.5.5
-[/cdn-cn2.apple-mapkit.com/]223.5.5.5
-[/cdn-cn3.apple-mapkit.com/]223.5.5.5
-[/cdn-cn4.apple-mapkit.com/]223.5.5.5
 [/cdn-dodo.com/]223.5.5.5
 [/cdn-files.net/]223.5.5.5
 [/cdn-gw-dv.net/]223.5.5.5
@@ -16876,7 +16852,6 @@ tls://1.0.0.1
 [/cdn-uc.cc/]223.5.5.5
 [/cdn-v.com/]223.5.5.5
 [/cdn.ampproject.org/]223.5.5.5
-[/cdn.apple-mapkit.com/]223.5.5.5
 [/cdn.fun/]223.5.5.5
 [/cdn.globalsigncdn.com.cdn.cloudflare.net/]223.5.5.5
 [/cdn.jetbrains.com/]223.5.5.5
@@ -16885,24 +16860,20 @@ tls://1.0.0.1
 [/cdn.shanghai.nyu.edu/]223.5.5.5
 [/cdn.vin/]223.5.5.5
 [/cdn08.com/]223.5.5.5
-[/cdn1.apple-mapkit.com/]223.5.5.5
 [/cdn1008.com/]223.5.5.5
 [/cdn1218.com/]223.5.5.5
 [/cdn16.com/]223.5.5.5
-[/cdn2.apple-mapkit.com/]223.5.5.5
 [/cdn20.com/]223.5.5.5
 [/cdn20.info/]223.5.5.5
 [/cdn20.org/]223.5.5.5
 [/cdn2000.com/]223.5.5.5
 [/cdn2020.com/]223.5.5.5
-[/cdn3.apple-mapkit.com/]223.5.5.5
 [/cdn30.com/]223.5.5.5
 [/cdn30.org/]223.5.5.5
 [/cdn3344.com/]223.5.5.5
 [/cdn35.com/]223.5.5.5
 [/cdn365gnlc.vip/]223.5.5.5
 [/cdn365lc.vip/]223.5.5.5
-[/cdn4.apple-mapkit.com/]223.5.5.5
 [/cdn56.com/]223.5.5.5
 [/cdn59.com/]223.5.5.5
 [/cdn86.net/]223.5.5.5
@@ -17050,11 +17021,7 @@ tls://1.0.0.1
 [/cdrsigc.com/]223.5.5.5
 [/cdrtvu.com/]223.5.5.5
 [/cdruzhu.com/]223.5.5.5
-[/cds-cdn.v.aaplimg.com/]223.5.5.5
 [/cds-seal.com/]223.5.5.5
-[/cds.apple.com/]223.5.5.5
-[/cds.apple.com.akadns.net/]223.5.5.5
-[/cdsassets.apple.com/]223.5.5.5
 [/cdsb.com/]223.5.5.5
 [/cdsb.mobi/]223.5.5.5
 [/cdscdscdn.com/]223.5.5.5
@@ -17266,8 +17233,6 @@ tls://1.0.0.1
 [/cernet2.net/]223.5.5.5
 [/cersign.com/]223.5.5.5
 [/cersp.com/]223.5.5.5
-[/certs-lb.apple.com.akadns.net/]223.5.5.5
-[/certs.apple.com/]223.5.5.5
 [/cervicalsurgeon.com/]223.5.5.5
 [/ces-transaction.com/]223.5.5.5
 [/cesfn.com/]223.5.5.5
@@ -19643,19 +19608,7 @@ tls://1.0.0.1
 [/cl-kongtiao.com/]223.5.5.5
 [/cl.app/]223.5.5.5
 [/cl0438.com/]223.5.5.5
-[/cl1-cdn.origin-apple.com.akadns.net/]223.5.5.5
-[/cl1.apple.com/]223.5.5.5
-[/cl2-cn.apple.com/]223.5.5.5
-[/cl2.apple.com/]223.5.5.5
-[/cl2.apple.com.edgekey.net.globalredir.akadns.net/]223.5.5.5
 [/cl2009.com/]223.5.5.5
-[/cl3-cdn.origin-apple.com.akadns.net/]223.5.5.5
-[/cl3.apple.com/]223.5.5.5
-[/cl4-cdn.origin-apple.com.akadns.net/]223.5.5.5
-[/cl4-cn.apple.com/]223.5.5.5
-[/cl4.apple.com/]223.5.5.5
-[/cl5-cdn.origin-apple.com.akadns.net/]223.5.5.5
-[/cl5.apple.com/]223.5.5.5
 [/cl8239.com/]223.5.5.5
 [/cl868.com/]223.5.5.5
 [/clady.cc/]223.5.5.5
@@ -19721,10 +19674,7 @@ tls://1.0.0.1
 [/clicksun.net/]223.5.5.5
 [/clickwifi.net/]223.5.5.5
 [/clidone.com/]223.5.5.5
-[/client-api.itunes.apple.com/]223.5.5.5
 [/client51.com/]223.5.5.5
-[/clientflow.apple.com/]223.5.5.5
-[/clientflow.apple.com.akadns.net/]223.5.5.5
 [/clientservices.googleapis.com/]223.5.5.5
 [/cliffordtrading.com/]223.5.5.5
 [/cliim.com/]223.5.5.5
@@ -19987,7 +19937,6 @@ tls://1.0.0.1
 [/cm233.com/]223.5.5.5
 [/cm3721.com/]223.5.5.5
 [/cm442.com/]223.5.5.5
-[/cma.itunes.apple.com/]223.5.5.5
 [/cmacredit.org/]223.5.5.5
 [/cmaif.com/]223.5.5.5
 [/cmaifz.com/]223.5.5.5
@@ -20136,7 +20085,6 @@ tls://1.0.0.1
 [/cn-rcqc.com/]223.5.5.5
 [/cn-roofexpert.com/]223.5.5.5
 [/cn-sdf.com/]223.5.5.5
-[/cn-smp-paymentservices.apple.com/]223.5.5.5
 [/cn-soft.com/]223.5.5.5
 [/cn-truck.com/]223.5.5.5
 [/cn-visa.com/]223.5.5.5
@@ -21074,7 +21022,6 @@ tls://1.0.0.1
 [/commchina.net/]223.5.5.5
 [/commedcell.com/]223.5.5.5
 [/communicatte.com/]223.5.5.5
-[/communities.apple.com/]223.5.5.5
 [/comocloud.net/]223.5.5.5
 [/companydns.com/]223.5.5.5
 [/compass-fit.jp/]223.5.5.5
@@ -21103,8 +21050,6 @@ tls://1.0.0.1
 [/concox.net/]223.5.5.5
 [/conele.com/]223.5.5.5
 [/conextweb.com/]223.5.5.5
-[/configuration.apple.com/]223.5.5.5
-[/configuration.apple.com.akadns.net/]223.5.5.5
 [/confluxrpc.com/]223.5.5.5
 [/confuciusinstitute.net/]223.5.5.5
 [/conghua.com/]223.5.5.5
@@ -21695,8 +21640,6 @@ tls://1.0.0.1
 [/crisprdx.com/]223.5.5.5
 [/crispstata.com/]223.5.5.5
 [/crjfw.com/]223.5.5.5
-[/crl-lb.apple.com.akadns.net/]223.5.5.5
-[/crl.apple.com/]223.5.5.5
 [/crl.globalsign.net/]223.5.5.5
 [/crl.kaspersky.com/]223.5.5.5
 [/crl.pki.goog/]223.5.5.5
@@ -21898,7 +21841,6 @@ tls://1.0.0.1
 [/cssyzxx.com/]223.5.5.5
 [/csszone.net/]223.5.5.5
 [/cst6.com/]223.5.5.5
-[/cstat.apple.com/]223.5.5.5
 [/cstat.cdn-apple.com/]223.5.5.5
 [/cstccloud.org/]223.5.5.5
 [/cstcloud.net/]223.5.5.5
@@ -23375,7 +23317,6 @@ tls://1.0.0.1
 [/dczkj.com/]223.5.5.5
 [/dczy168.com/]223.5.5.5
 [/dd-advisor.com/]223.5.5.5
-[/dd-cdn.origin-apple.com.akadns.net/]223.5.5.5
 [/dd-gz.com/]223.5.5.5
 [/dd-img.com/]223.5.5.5
 [/dd.ci/]223.5.5.5
@@ -23605,7 +23546,6 @@ tls://1.0.0.1
 [/deifgs.com/]223.5.5.5
 [/deikuo.com/]223.5.5.5
 [/deinformacion.com/]223.5.5.5
-[/dejavu.apple.com/]223.5.5.5
 [/dejinfu365.com/]223.5.5.5
 [/dejiplaza.com/]223.5.5.5
 [/deju8.com/]223.5.5.5
@@ -24452,7 +24392,6 @@ tls://1.0.0.1
 [/discourse-studies.com/]223.5.5.5
 [/discoversources.com/]223.5.5.5
 [/discoveryriflescope.com/]223.5.5.5
-[/discussionschinese.apple.com/]223.5.5.5
 [/discuz.chat/]223.5.5.5
 [/discuz.com/]223.5.5.5
 [/discuz.net/]223.5.5.5
@@ -25375,7 +25314,6 @@ tls://1.0.0.1
 [/downke.com/]223.5.5.5
 [/downkr.com/]223.5.5.5
 [/downkuai.com/]223.5.5.5
-[/download.developer.apple.com/]223.5.5.5
 [/download.microsoft.com/]223.5.5.5
 [/download.mlcc.google.com/]223.5.5.5
 [/download.qatp1.net/]223.5.5.5
@@ -25384,7 +25322,6 @@ tls://1.0.0.1
 [/download.tensorflow.google.com/]223.5.5.5
 [/download.visualstudio.microsoft.com/]223.5.5.5
 [/download.windowsupdate.com/]223.5.5.5
-[/downloaddispatch.itunes.apple.com/]223.5.5.5
 [/downloads.ltd/]223.5.5.5
 [/downok.com/]223.5.5.5
 [/downos.com/]223.5.5.5
@@ -27965,7 +27902,6 @@ tls://1.0.0.1
 [/exp99.com/]223.5.5.5
 [/expba.com/]223.5.5.5
 [/expdns.net/]223.5.5.5
-[/experiments.apple.com/]223.5.5.5
 [/expin.site/]223.5.5.5
 [/expingworld.com/]223.5.5.5
 [/expiredns.net/]223.5.5.5
@@ -29198,7 +29134,6 @@ tls://1.0.0.1
 [/fibrlink.net/]223.5.5.5
 [/ficochina.net/]223.5.5.5
 [/ficowshen.com/]223.5.5.5
-[/fides-pol.apple.com/]223.5.5.5
 [/fiehff.com/]223.5.5.5
 [/fieldcommunicator.net/]223.5.5.5
 [/fieldschina.com/]223.5.5.5
@@ -32920,8 +32855,6 @@ tls://1.0.0.1
 [/grzq.com/]223.5.5.5
 [/grzyfey.com/]223.5.5.5
 [/gs-eps.com/]223.5.5.5
-[/gs-loc-cn.apple.com/]223.5.5.5
-[/gs-loc.apple.com/]223.5.5.5
 [/gs090.com/]223.5.5.5
 [/gs12122.com/]223.5.5.5
 [/gs14.com/]223.5.5.5
@@ -32979,27 +32912,8 @@ tls://1.0.0.1
 [/gsmgw.com/]223.5.5.5
 [/gsmpers.com/]223.5.5.5
 [/gsmuban.com/]223.5.5.5
-[/gsp10-ssl-cn.ls.apple.com/]223.5.5.5
-[/gsp11-cn.ls.apple.com/]223.5.5.5
-[/gsp12-cn.ls.apple.com/]223.5.5.5
-[/gsp13-cn.ls.apple.com/]223.5.5.5
-[/gsp4-cn.ls.apple.com/]223.5.5.5
 [/gsp4-cn.ls.apple.com.edgekey.net/]223.5.5.5
-[/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]223.5.5.5
-[/gsp5-cn.ls.apple.com/]223.5.5.5
-[/gsp85-cn-ssl.ls.apple.com/]223.5.5.5
 [/gspaceteam.com/]223.5.5.5
-[/gspe11-2-cn-ssl.ls.apple.com/]223.5.5.5
-[/gspe12-cn-ssl.ls.apple.com/]223.5.5.5
-[/gspe19-2-cn-ssl.ls.apple.com/]223.5.5.5
-[/gspe19-cn-ssl.ls.apple.com/]223.5.5.5
-[/gspe19-cn.ls-apple.com.akadns.net/]223.5.5.5
-[/gspe19-cn.ls.apple.com/]223.5.5.5
-[/gspe21-ssl.ls.apple.com/]223.5.5.5
-[/gspe21.ls.apple.com/]223.5.5.5
-[/gspe35-ssl.ls.apple.com/]223.5.5.5
-[/gspe79-cn-ssl.ls.apple.com/]223.5.5.5
-[/gspe85-cn-ssl.ls.apple.com/]223.5.5.5
 [/gspst.com/]223.5.5.5
 [/gsqstudio.com/]223.5.5.5
 [/gsrcu.com/]223.5.5.5
@@ -33666,9 +33580,6 @@ tls://1.0.0.1
 [/guzhilin.com/]223.5.5.5
 [/guzhongtrade.com/]223.5.5.5
 [/guziyy.com/]223.5.5.5
-[/guzzoni-apple-com.v.aaplimg.com/]223.5.5.5
-[/guzzoni.apple.com/]223.5.5.5
-[/guzzoni.smoot.apple.com/]223.5.5.5
 [/gvacdn.com/]223.5.5.5
 [/gvi-tech.com/]223.5.5.5
 [/gvlocalization.com/]223.5.5.5
@@ -42150,7 +42061,6 @@ tls://1.0.0.1
 [/iclicash.com/]223.5.5.5
 [/iclickstatic.com/]223.5.5.5
 [/icljt.com/]223.5.5.5
-[/icloud-cdn.icloud.com.akadns.net/]223.5.5.5
 [/icloud-power.com/]223.5.5.5
 [/icloud.cdn-apple.com/]223.5.5.5
 [/icloudcity.com/]223.5.5.5
@@ -42978,9 +42888,6 @@ tls://1.0.0.1
 [/images-cache.com/]223.5.5.5
 [/images-cn-8.ssl-images-amazon.com/]223.5.5.5
 [/images-cn.ssl-images-amazon.com/]223.5.5.5
-[/images.apple.com/]223.5.5.5
-[/images.apple.com.akadns.net/]223.5.5.5
-[/images.apple.com.edgekey.net.globalredir.akadns.net/]223.5.5.5
 [/images.samsung.com/]223.5.5.5
 [/imagestoryai.com/]223.5.5.5
 [/imageter.com/]223.5.5.5
@@ -43210,9 +43117,6 @@ tls://1.0.0.1
 [/inad.com/]223.5.5.5
 [/inanguapi.com/]223.5.5.5
 [/inanrenbang.com/]223.5.5.5
-[/inappcheck-cn.itunes-apple.com.akadns.net/]223.5.5.5
-[/inappcheck-lb.itunes-apple.com.akadns.net/]223.5.5.5
-[/inappcheck.itunes.apple.com/]223.5.5.5
 [/inbeing.net/]223.5.5.5
 [/inbilin.com/]223.5.5.5
 [/inbooker.com/]223.5.5.5
@@ -43317,17 +43221,6 @@ tls://1.0.0.1
 [/inicoapp.com/]223.5.5.5
 [/inidc.net/]223.5.5.5
 [/ininin.com/]223.5.5.5
-[/init-kt.apple.com/]223.5.5.5
-[/init-p01md-lb.push-apple.com.akadns.net/]223.5.5.5
-[/init-p01md.apple.com/]223.5.5.5
-[/init-p01st-lb.push-apple.com.akadns.net/]223.5.5.5
-[/init-p01st.push.apple.com/]223.5.5.5
-[/init-s01st-lb.push-apple.com.akadns.net/]223.5.5.5
-[/init-s01st.push.apple.com/]223.5.5.5
-[/init.ess.apple.com/]223.5.5.5
-[/init.gc-lb.apple.com.akadns.net/]223.5.5.5
-[/init.gc.apple.com/]223.5.5.5
-[/init.itunes.apple.com/]223.5.5.5
 [/initialview.com/]223.5.5.5
 [/initroot.com/]223.5.5.5
 [/initxx.com/]223.5.5.5
@@ -43515,8 +43408,6 @@ tls://1.0.0.1
 [/ios-auto.net/]223.5.5.5
 [/ios222.com/]223.5.5.5
 [/ios98.com/]223.5.5.5
-[/iosapps.itunes.apple.com/]223.5.5.5
-[/iosapps.itunes.g.aaplimg.com/]223.5.5.5
 [/iosask.com/]223.5.5.5
 [/ioser.fun/]223.5.5.5
 [/iosfengwo.com/]223.5.5.5
@@ -43588,7 +43479,6 @@ tls://1.0.0.1
 [/ipason.com/]223.5.5.5
 [/ipay.so/]223.5.5.5
 [/ipaylinks.com/]223.5.5.5
-[/ipcdn.apple.com/]223.5.5.5
 [/ipcelou.com/]223.5.5.5
 [/ipcfun.com/]223.5.5.5
 [/ipchaxun.com/]223.5.5.5
@@ -43623,8 +43513,6 @@ tls://1.0.0.1
 [/ipfen.com/]223.5.5.5
 [/ipfsbit.com/]223.5.5.5
 [/ipgoal.com/]223.5.5.5
-[/iphone-ld.apple.com/]223.5.5.5
-[/iphone-ld.origin-apple.com.akadns.net/]223.5.5.5
 [/iphonediule.com/]223.5.5.5
 [/ipin.com/]223.5.5.5
 [/ipinba.com/]223.5.5.5
@@ -44163,9 +44051,6 @@ tls://1.0.0.1
 [/ituchong.com/]223.5.5.5
 [/itugo.com/]223.5.5.5
 [/ituite.com/]223.5.5.5
-[/itunes-apple.com.akadns.net/]223.5.5.5
-[/itunes.apple.com/]223.5.5.5
-[/itunesconnect.apple.com/]223.5.5.5
 [/ituopeng.com/]223.5.5.5
 [/iturco.com/]223.5.5.5
 [/itutu.tv/]223.5.5.5
@@ -47112,7 +46997,6 @@ tls://1.0.0.1
 [/jrzx17.com/]223.5.5.5
 [/jrzyzs.com/]223.5.5.5
 [/js-aerfa.com/]223.5.5.5
-[/js-cdn.music.apple.com/]223.5.5.5
 [/js-fangyuan.com/]223.5.5.5
 [/js-hyjy.com/]223.5.5.5
 [/js-jinhua.com/]223.5.5.5
@@ -49289,7 +49173,6 @@ tls://1.0.0.1
 [/klxing.com/]223.5.5.5
 [/klxuexi.com/]223.5.5.5
 [/km.com/]223.5.5.5
-[/km.support.apple.com/]223.5.5.5
 [/km169.net/]223.5.5.5
 [/km18.net/]223.5.5.5
 [/km1818.com/]223.5.5.5
@@ -54775,7 +54658,6 @@ tls://1.0.0.1
 [/mapmapping.com/]223.5.5.5
 [/mappn.com/]223.5.5.5
 [/maproelec.com/]223.5.5.5
-[/maps.apple.com/]223.5.5.5
 [/maptalks.com/]223.5.5.5
 [/maqingbo.com/]223.5.5.5
 [/maqingxi.com/]223.5.5.5
@@ -55534,9 +55416,6 @@ tls://1.0.0.1
 [/mesowe.com/]223.5.5.5
 [/mesresearch.com/]223.5.5.5
 [/messecloud.com/]223.5.5.5
-[/mesu-cdn.apple.com.akadns.net/]223.5.5.5
-[/mesu-china.apple.com.akadns.net/]223.5.5.5
-[/mesu.apple.com/]223.5.5.5
 [/mesule.com/]223.5.5.5
 [/met.red/]223.5.5.5
 [/met169.com/]223.5.5.5
@@ -56207,7 +56086,6 @@ tls://1.0.0.1
 [/mirrorcn.com/]223.5.5.5
 [/misaka.center/]223.5.5.5
 [/misall.com/]223.5.5.5
-[/misc-assets.itunes.apple.com/]223.5.5.5
 [/miscd.com/]223.5.5.5
 [/mishangkeji.com/]223.5.5.5
 [/mishuhome.com/]223.5.5.5
@@ -57268,7 +57146,6 @@ tls://1.0.0.1
 [/museradio.net/]223.5.5.5
 [/musetransfer.com/]223.5.5.5
 [/mushafa.net/]223.5.5.5
-[/music.apple.com/]223.5.5.5
 [/music4x.com/]223.5.5.5
 [/musicchina-expo.com/]223.5.5.5
 [/musiccia.com/]223.5.5.5
@@ -57447,7 +57324,6 @@ tls://1.0.0.1
 [/myanmarembassy.com/]223.5.5.5
 [/myantu.com/]223.5.5.5
 [/myapp.com/]223.5.5.5
-[/myapp.itunes.apple.com/]223.5.5.5
 [/myapp.ltd/]223.5.5.5
 [/myaqsh.com/]223.5.5.5
 [/myarena7.com/]223.5.5.5
@@ -59612,7 +59488,6 @@ tls://1.0.0.1
 [/noxue.com/]223.5.5.5
 [/noxxxx.com/]223.5.5.5
 [/noyes88.com/]223.5.5.5
-[/np-edge.itunes.apple.com/]223.5.5.5
 [/npbdp.com/]223.5.5.5
 [/npbeta.com/]223.5.5.5
 [/npc.ink/]223.5.5.5
@@ -60059,11 +59934,7 @@ tls://1.0.0.1
 [/ocn187.com/]223.5.5.5
 [/ocpuritech.com/]223.5.5.5
 [/ocsjs.com/]223.5.5.5
-[/ocsp-lb.apple.com.akadns.net/]223.5.5.5
-[/ocsp.apple.com/]223.5.5.5
 [/ocsp.pki.goog/]223.5.5.5
-[/ocsp2-lb.apple.com.akadns.net/]223.5.5.5
-[/ocsp2.apple.com/]223.5.5.5
 [/oct-asia.com/]223.5.5.5
 [/oct-cts.com/]223.5.5.5
 [/oct-sh.com/]223.5.5.5
@@ -60706,8 +60577,6 @@ tls://1.0.0.1
 [/oscaches.com/]223.5.5.5
 [/oscarma.com/]223.5.5.5
 [/oscarzhoud.com/]223.5.5.5
-[/oscdn.apple.com/]223.5.5.5
-[/oscdn.origin-apple.com.akadns.net/]223.5.5.5
 [/oschina.com/]223.5.5.5
 [/oschina.io/]223.5.5.5
 [/oschina.net/]223.5.5.5
@@ -60753,8 +60622,6 @@ tls://1.0.0.1
 [/oswdj.com/]223.5.5.5
 [/oswhy.com/]223.5.5.5
 [/osx.cx/]223.5.5.5
-[/osxapps.itunes.apple.com/]223.5.5.5
-[/osxapps.itunes.g.aaplimg.com/]223.5.5.5
 [/osxxy.com/]223.5.5.5
 [/osyunwei.com/]223.5.5.5
 [/otbmall.com/]223.5.5.5
@@ -61135,8 +61002,6 @@ tls://1.0.0.1
 [/panasonic-door.com/]223.5.5.5
 [/panasonicmall.com/]223.5.5.5
 [/panbrake.com/]223.5.5.5
-[/pancake.apple.com/]223.5.5.5
-[/pancake.cdn-apple.com.akadns.net/]223.5.5.5
 [/pancake888.com/]223.5.5.5
 [/panchuang.net/]223.5.5.5
 [/panda-home.com/]223.5.5.5
@@ -61350,7 +61215,6 @@ tls://1.0.0.1
 [/payrao.com/]223.5.5.5
 [/payxinyi.com/]223.5.5.5
 [/pb89.com/]223.5.5.5
-[/pba0.apple.com/]223.5.5.5
 [/pbc-dcep.com/]223.5.5.5
 [/pbcan.com/]223.5.5.5
 [/pbdpw.com/]223.5.5.5
@@ -61455,9 +61319,7 @@ tls://1.0.0.1
 [/pcysy.com/]223.5.5.5
 [/pczhi.com/]223.5.5.5
 [/pd-italent.com/]223.5.5.5
-[/pd-nk.itunes.apple.com/]223.5.5.5
 [/pd-sts.com/]223.5.5.5
-[/pd.itunes.apple.com/]223.5.5.5
 [/pd120.com/]223.5.5.5
 [/pd17.com/]223.5.5.5
 [/pdai.tech/]223.5.5.5
@@ -62176,8 +62038,6 @@ tls://1.0.0.1
 [/play-cdn20.com/]223.5.5.5
 [/play.1ucrs.com/]223.5.5.5
 [/play.craft.moe/]223.5.5.5
-[/play.itunes.apple.com/]223.5.5.5
-[/play.music.apple.com/]223.5.5.5
 [/play68.com/]223.5.5.5
 [/play700.com/]223.5.5.5
 [/play910.com/]223.5.5.5
@@ -62642,7 +62502,6 @@ tls://1.0.0.1
 [/pro001.com/]223.5.5.5
 [/proangela.com/]223.5.5.5
 [/proav-china.com/]223.5.5.5
-[/probe.siri.apple.com/]223.5.5.5
 [/procar.cc/]223.5.5.5
 [/processedmetals.com/]223.5.5.5
 [/processon.com/]223.5.5.5
@@ -62651,7 +62510,6 @@ tls://1.0.0.1
 [/prod-controlbe.floonet.goog/]223.5.5.5
 [/prod-databe.floonet.goog/]223.5.5.5
 [/prod-mv.com/]223.5.5.5
-[/prod-support.apple-support.akadns.net/]223.5.5.5
 [/prod.databe.floonet.goog/]223.5.5.5
 [/prodcutmodel.com/]223.5.5.5
 [/productcard.gog-statics.com/]223.5.5.5
@@ -65978,7 +65836,6 @@ tls://1.0.0.1
 [/res-1.cdn.office.net/]223.5.5.5
 [/res.cdn.office.net/]223.5.5.5
 [/reseetech.com/]223.5.5.5
-[/reserve-prime.apple.com/]223.5.5.5
 [/reservehemu.com/]223.5.5.5
 [/resheji.com/]223.5.5.5
 [/residenzavillafiorita.com/]223.5.5.5
@@ -67909,8 +67766,6 @@ tls://1.0.0.1
 [/sdztxxkj.com/]223.5.5.5
 [/sdzxswhjygjlm.com/]223.5.5.5
 [/sdzydfy.com/]223.5.5.5
-[/se-edge.itunes.apple.com/]223.5.5.5
-[/se2.itunes.apple.com/]223.5.5.5
 [/se25.xyz/]223.5.5.5
 [/sea-group.org/]223.5.5.5
 [/sea-gullmall.com/]223.5.5.5
@@ -67938,7 +67793,6 @@ tls://1.0.0.1
 [/seapard.com/]223.5.5.5
 [/seapsoft.com/]223.5.5.5
 [/seaquire.com/]223.5.5.5
-[/search.itunes.apple.com/]223.5.5.5
 [/search616.com/]223.5.5.5
 [/searcheasy.net/]223.5.5.5
 [/searchpstatp.com/]223.5.5.5
@@ -68006,9 +67860,6 @@ tls://1.0.0.1
 [/seebug.org/]223.5.5.5
 [/seecmedia.net/]223.5.5.5
 [/seed-china.com/]223.5.5.5
-[/seed-sequoia.siri.apple.com/]223.5.5.5
-[/seed-swallow.siri.apple.com/]223.5.5.5
-[/seed.siri.apple.com/]223.5.5.5
 [/seedasdan.org/]223.5.5.5
 [/seeddsp.com/]223.5.5.5
 [/seedit.cc/]223.5.5.5
@@ -68182,7 +68033,6 @@ tls://1.0.0.1
 [/septwolves.com/]223.5.5.5
 [/sepu.net/]223.5.5.5
 [/sequ.biz/]223.5.5.5
-[/sequoia.apple.com/]223.5.5.5
 [/sequoiadb.com/]223.5.5.5
 [/sereniblue.com/]223.5.5.5
 [/sereypath.com/]223.5.5.5
@@ -68225,7 +68075,6 @@ tls://1.0.0.1
 [/seyingwumei.com/]223.5.5.5
 [/seyuma-cn.com/]223.5.5.5
 [/sf-airlines.com/]223.5.5.5
-[/sf-api-token-service.itunes.apple.com/]223.5.5.5
 [/sf-bearing.com/]223.5.5.5
 [/sf-card.com/]223.5.5.5
 [/sf-china.com/]223.5.5.5
@@ -68389,7 +68238,6 @@ tls://1.0.0.1
 [/sh-likun.com/]223.5.5.5
 [/sh-livemusic.com/]223.5.5.5
 [/sh-nemoto.com/]223.5.5.5
-[/sh-pod2-smp-device.apple.com/]223.5.5.5
 [/sh-prosperity.com/]223.5.5.5
 [/sh-prosun.com/]223.5.5.5
 [/sh-ryjx.com/]223.5.5.5
@@ -70928,7 +70776,6 @@ tls://1.0.0.1
 [/smoreroll.com/]223.5.5.5
 [/smovie168.com/]223.5.5.5
 [/smowo.com/]223.5.5.5
-[/smp-device-content.apple.com/]223.5.5.5
 [/smpg888.com/]223.5.5.5
 [/smppw.com/]223.5.5.5
 [/smrmyy.com/]223.5.5.5
@@ -71513,7 +71360,6 @@ tls://1.0.0.1
 [/sozyb.com/]223.5.5.5
 [/sozyx.shop/]223.5.5.5
 [/sp.cc/]223.5.5.5
-[/sp.itunes.apple.com/]223.5.5.5
 [/sp168.com/]223.5.5.5
 [/sp588.cc/]223.5.5.5
 [/sp588.net/]223.5.5.5
@@ -71945,7 +71791,6 @@ tls://1.0.0.1
 [/stat18.com/]223.5.5.5
 [/static-login.gog-statics.com/]223.5.5.5
 [/static.eprintsw.com/]223.5.5.5
-[/static.gc.apple.com/]223.5.5.5
 [/staticaa.com/]223.5.5.5
 [/staticdn.net/]223.5.5.5
 [/staticec.com/]223.5.5.5
@@ -72019,8 +71864,6 @@ tls://1.0.0.1
 [/stnts.com/]223.5.5.5
 [/stnye.cc/]223.5.5.5
 [/stockhn.com/]223.5.5.5
-[/stocks-sparkline-lb.apple.com.akadns.net/]223.5.5.5
-[/stocks-sparkline.apple.com/]223.5.5.5
 [/stockstar.com/]223.5.5.5
 [/stockwei.com/]223.5.5.5
 [/stointl.com/]223.5.5.5
@@ -72044,10 +71887,7 @@ tls://1.0.0.1
 [/stonexp.com/]223.5.5.5
 [/stor-age.com/]223.5.5.5
 [/storage-asset.msi.com/]223.5.5.5
-[/store.apple.com/]223.5.5.5
 [/store.apple.com.edgekey.net/]223.5.5.5
-[/store.apple.com.edgekey.net.globalredir.akadns.net/]223.5.5.5
-[/store.storeimages.apple.com.akadns.net/]223.5.5.5
 [/store.storeimages.cdn-apple.com/]223.5.5.5
 [/store12.com/]223.5.5.5
 [/storeapi.net/]223.5.5.5
@@ -72073,7 +71913,6 @@ tls://1.0.0.1
 [/streamcomputing.com/]223.5.5.5
 [/streaming-uberproxy-rotation.corp.google.com/]223.5.5.5
 [/streaming-uberproxy.corp.google.com/]223.5.5.5
-[/streamingaudio.itunes.apple.com/]223.5.5.5
 [/streamlakeapi.com/]223.5.5.5
 [/streffy.com/]223.5.5.5
 [/strong-study.com/]223.5.5.5
@@ -72131,7 +71970,6 @@ tls://1.0.0.1
 [/stz8.com/]223.5.5.5
 [/su-jiao.com/]223.5.5.5
 [/su-long.com/]223.5.5.5
-[/su.itunes.apple.com/]223.5.5.5
 [/suaee.com/]223.5.5.5
 [/suan5.com/]223.5.5.5
 [/suanbanyun.com/]223.5.5.5
@@ -72530,10 +72368,8 @@ tls://1.0.0.1
 [/supool.com/]223.5.5.5
 [/supor.com/]223.5.5.5
 [/supplierlist.com/]223.5.5.5
-[/support-china.apple-support.akadns.net/]223.5.5.5
 [/support-cn.samsung.com/]223.5.5.5
 [/support.1ucrs.com/]223.5.5.5
-[/support.apple.com/]223.5.5.5
 [/supportcenter.corp.google.com/]223.5.5.5
 [/supuvalve.com/]223.5.5.5
 [/supwk.com/]223.5.5.5
@@ -72623,8 +72459,6 @@ tls://1.0.0.1
 [/sw996.com/]223.5.5.5
 [/swaeab.com/]223.5.5.5
 [/swakopuranium.com/]223.5.5.5
-[/swallow-apple-com.v.aaplimg.com/]223.5.5.5
-[/swallow.apple.com/]223.5.5.5
 [/swanchemical.com/]223.5.5.5
 [/swang8.com/]223.5.5.5
 [/swangwx.com/]223.5.5.5
@@ -72635,13 +72469,7 @@ tls://1.0.0.1
 [/swarma.org/]223.5.5.5
 [/swatou.com/]223.5.5.5
 [/swbbsc.com/]223.5.5.5
-[/swcatalog-cdn.apple.com.akadns.net/]223.5.5.5
-[/swcatalog.apple.com/]223.5.5.5
-[/swcdn.apple.com/]223.5.5.5
-[/swcdn.g.aaplimg.com/]223.5.5.5
 [/swchina.org/]223.5.5.5
-[/swdist.apple.com/]223.5.5.5
-[/swdist.apple.com.akadns.net/]223.5.5.5
 [/sweet-data.com/]223.5.5.5
 [/sweetalkos.com/]223.5.5.5
 [/sweetdan.com/]223.5.5.5
@@ -72698,8 +72526,6 @@ tls://1.0.0.1
 [/swordtt.com/]223.5.5.5
 [/swotbbs.com/]223.5.5.5
 [/swsbw.com/]223.5.5.5
-[/swscan-cdn.apple.com.akadns.net/]223.5.5.5
-[/swscan.apple.com/]223.5.5.5
 [/swsm.net/]223.5.5.5
 [/swsmu.com/]223.5.5.5
 [/swstsg.com/]223.5.5.5
@@ -72956,7 +72782,6 @@ tls://1.0.0.1
 [/sylnst.com/]223.5.5.5
 [/sylnyx.com/]223.5.5.5
 [/syltgl.com/]223.5.5.5
-[/sylvan.apple.com/]223.5.5.5
 [/symama.com/]223.5.5.5
 [/symboltek.com/]223.5.5.5
 [/symf-crm.com/]223.5.5.5
@@ -72964,7 +72789,6 @@ tls://1.0.0.1
 [/syn029.com/]223.5.5.5
 [/synacast.com/]223.5.5.5
 [/synball.com/]223.5.5.5
-[/sync.itunes.apple.com/]223.5.5.5
 [/sync.sh/]223.5.5.5
 [/syncedoffplanet.com/]223.5.5.5
 [/synjones.com/]223.5.5.5
@@ -74631,7 +74455,6 @@ tls://1.0.0.1
 [/tezhongzhuangbei.com/]223.5.5.5
 [/tezign.com/]223.5.5.5
 [/tf-bm.com/]223.5.5.5
-[/tf-feedback.itunes.apple.com/]223.5.5.5
 [/tf.wiki/]223.5.5.5
 [/tf86.com/]223.5.5.5
 [/tfaqg.com/]223.5.5.5
@@ -75346,7 +75169,6 @@ tls://1.0.0.1
 [/tj-htjh.com/]223.5.5.5
 [/tj-kingdee.com/]223.5.5.5
 [/tj-model.com/]223.5.5.5
-[/tj-pod1-smp-device.apple.com/]223.5.5.5
 [/tj-un.com/]223.5.5.5
 [/tj-zt.com/]223.5.5.5
 [/tj0573.com/]223.5.5.5
@@ -77741,7 +77563,6 @@ tls://1.0.0.1
 [/update.crashlytics.com/]223.5.5.5
 [/update.googleapis.com/]223.5.5.5
 [/updates-http.cdn-apple.com/]223.5.5.5
-[/updates-http.cdn-apple.com.akadns.net/]223.5.5.5
 [/updates.cdn-apple.com/]223.5.5.5
 [/updeals.com/]223.5.5.5
 [/updf.com/]223.5.5.5
@@ -77763,7 +77584,6 @@ tls://1.0.0.1
 [/uplooking.com/]223.5.5.5
 [/upluck.cc/]223.5.5.5
 [/upowerchain.com/]223.5.5.5
-[/upp.itunes.apple.com/]223.5.5.5
 [/uppershop.hk/]223.5.5.5
 [/uppsd.com/]223.5.5.5
 [/upqzfile.com/]223.5.5.5
@@ -78151,8 +77971,6 @@ tls://1.0.0.1
 [/vaillant99.com/]223.5.5.5
 [/vainpz.com/]223.5.5.5
 [/vakku.com/]223.5.5.5
-[/valid.apple.com/]223.5.5.5
-[/valid.origin-apple.com.akadns.net/]223.5.5.5
 [/valinbl.com/]223.5.5.5
 [/valinresources.com/]223.5.5.5
 [/valuablexmail.com/]223.5.5.5
@@ -79888,14 +79706,9 @@ tls://1.0.0.1
 [/wearosbox.com/]223.5.5.5
 [/weartrends.com/]223.5.5.5
 [/weasing.com/]223.5.5.5
-[/weather-data.apple.com/]223.5.5.5
-[/weather-data.apple.com.akadns.net/]223.5.5.5
-[/weather-map.apple.com/]223.5.5.5
-[/weather-map2.apple.com/]223.5.5.5
 [/weatherat.com/]223.5.5.5
 [/weathercn.com/]223.5.5.5
 [/weatherdt.com/]223.5.5.5
-[/weatherkit.apple.com/]223.5.5.5
 [/weatherol.com/]223.5.5.5
 [/weavatar.com/]223.5.5.5
 [/weaverdream.com/]223.5.5.5
@@ -82422,9 +82235,7 @@ tls://1.0.0.1
 [/www.adobe.com/]223.5.5.5
 [/www.amd.com/]223.5.5.5
 [/www.analog.com/]223.5.5.5
-[/www.apple.com/]223.5.5.5
 [/www.apple.com.edgekey.net/]223.5.5.5
-[/www.apple.com.edgekey.net.globalredir.akadns.net/]223.5.5.5
 [/www.cc/]223.5.5.5
 [/www.cg/]223.5.5.5
 [/www.com.my/]223.5.5.5
@@ -82445,7 +82256,6 @@ tls://1.0.0.1
 [/www.redhat.com/]223.5.5.5
 [/www.samsung.com/]223.5.5.5
 [/www.st.com/]223.5.5.5
-[/www.support.apple.com/]223.5.5.5
 [/www.tutorabc.com/]223.5.5.5
 [/www.vive.com/]223.5.5.5
 [/www.viveport.com/]223.5.5.5
@@ -85597,7 +85407,6 @@ tls://1.0.0.1
 [/xoyobox.com/]223.5.5.5
 [/xoyocdn.com/]223.5.5.5
 [/xoyq.net/]223.5.5.5
-[/xp.apple.com/]223.5.5.5
 [/xp6000.com/]223.5.5.5
 [/xp666.com/]223.5.5.5
 [/xp85.com/]223.5.5.5

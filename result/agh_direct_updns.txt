@@ -8817,8 +8817,6 @@ tls://1.0.0.1
 [/adbxb.com/]127.0.0.1:54
 [/adc-expo.com/]127.0.0.1:54
 [/adcdn.com/]127.0.0.1:54
-[/adcdownload.apple.com/]127.0.0.1:54
-[/adcdownload.apple.com.akadns.net/]127.0.0.1:54
 [/adcomeon.com/]127.0.0.1:54
 [/addaad.com/]127.0.0.1:54
 [/addgog.com/]127.0.0.1:54
@@ -10290,13 +10288,6 @@ tls://1.0.0.1
 [/amonxu.com/]127.0.0.1:54
 [/amoxicillin875.site/]127.0.0.1:54
 [/amoydxmed.com/]127.0.0.1:54
-[/amp-api-edge-lb-cn.itunes-apple.com.akadns.net/]127.0.0.1:54
-[/amp-api-edge-lb.itunes-apple.com.akadns.net/]127.0.0.1:54
-[/amp-api-edge.apps.apple.com/]127.0.0.1:54
-[/amp-api-search-edge.apps.apple.com/]127.0.0.1:54
-[/amp-api.apps.apple.com/]127.0.0.1:54
-[/amp-api.media.apple.com/]127.0.0.1:54
-[/amp-api.music.apple.com/]127.0.0.1:54
 [/ampcn.com/]127.0.0.1:54
 [/amperobots.com/]127.0.0.1:54
 [/amplesky.com/]127.0.0.1:54
@@ -10671,7 +10662,6 @@ tls://1.0.0.1
 [/aoch.com/]127.0.0.1:54
 [/aochengcdn.com/]127.0.0.1:54
 [/aocslb.com/]127.0.0.1:54
-[/aod.itunes.apple.com/]127.0.0.1:54
 [/aodabo.tech/]127.0.0.1:54
 [/aodaliyaqianzheng.com/]127.0.0.1:54
 [/aodbw.com/]127.0.0.1:54
@@ -10813,12 +10803,8 @@ tls://1.0.0.1
 [/apgblogs.com/]127.0.0.1:54
 [/apgoview.com/]127.0.0.1:54
 [/aphidic.com/]127.0.0.1:54
-[/api-edge.apps.apple.com/]127.0.0.1:54
 [/api-forwards.com/]127.0.0.1:54
 [/api-m.com/]127.0.0.1:54
-[/api-p-ap-c.smoot.apple.com/]127.0.0.1:54
-[/api-p-ap-d.smoot.apple.com/]127.0.0.1:54
-[/api-p-ap-e.smoot.apple.com/]127.0.0.1:54
 [/api.anythinktech.com/]127.0.0.1:54
 [/apiadmin.org/]127.0.0.1:54
 [/apiairasia.com/]127.0.0.1:54
@@ -10929,8 +10915,6 @@ tls://1.0.0.1
 [/appkefu.com/]127.0.0.1:54
 [/appkg.com/]127.0.0.1:54
 [/applausefz.com/]127.0.0.1:54
-[/appldnld.apple.com/]127.0.0.1:54
-[/appldnld.g.aaplimg.com/]127.0.0.1:54
 [/apple-x2.xyz/]127.0.0.1:54
 [/apple110.com/]127.0.0.1:54
 [/apple114.com/]127.0.0.1:54
@@ -10972,7 +10956,6 @@ tls://1.0.0.1
 [/appsina.com/]127.0.0.1:54
 [/appso.com/]127.0.0.1:54
 [/apptao.com/]127.0.0.1:54
-[/apptrailers.itunes.apple.com/]127.0.0.1:54
 [/appubang.com/]127.0.0.1:54
 [/appublisher.com/]127.0.0.1:54
 [/appurl.cc/]127.0.0.1:54
@@ -11476,7 +11459,6 @@ tls://1.0.0.1
 [/austinlostpets.com/]127.0.0.1:54
 [/australiaxy.com/]127.0.0.1:54
 [/ausuu.com/]127.0.0.1:54
-[/auth.music.apple.com/]127.0.0.1:54
 [/authing-inc.co/]127.0.0.1:54
 [/authing.co/]127.0.0.1:54
 [/authing.com/]127.0.0.1:54
@@ -11934,7 +11916,6 @@ tls://1.0.0.1
 [/baertt.com/]127.0.0.1:54
 [/bafangjuhe.com/]127.0.0.1:54
 [/bafangwy.com/]127.0.0.1:54
-[/bag.itunes.apple.com/]127.0.0.1:54
 [/bag198.com/]127.0.0.1:54
 [/bagb2b.com/]127.0.0.1:54
 [/bagesoft.net/]127.0.0.1:54
@@ -14882,7 +14863,6 @@ tls://1.0.0.1
 [/booking001.com/]127.0.0.1:54
 [/bookingtee.com/]127.0.0.1:54
 [/bookinlife.net/]127.0.0.1:54
-[/bookkeeper.itunes.apple.com/]127.0.0.1:54
 [/bookof.com/]127.0.0.1:54
 [/books51.com/]127.0.0.1:54
 [/bookschina.com/]127.0.0.1:54
@@ -16862,10 +16842,6 @@ tls://1.0.0.1
 [/cdmmlxs.com/]127.0.0.1:54
 [/cdn-cba.com/]127.0.0.1:54
 [/cdn-cdn.net/]127.0.0.1:54
-[/cdn-cn1.apple-mapkit.com/]127.0.0.1:54
-[/cdn-cn2.apple-mapkit.com/]127.0.0.1:54
-[/cdn-cn3.apple-mapkit.com/]127.0.0.1:54
-[/cdn-cn4.apple-mapkit.com/]127.0.0.1:54
 [/cdn-dodo.com/]127.0.0.1:54
 [/cdn-files.net/]127.0.0.1:54
 [/cdn-gw-dv.net/]127.0.0.1:54
@@ -16876,7 +16852,6 @@ tls://1.0.0.1
 [/cdn-uc.cc/]127.0.0.1:54
 [/cdn-v.com/]127.0.0.1:54
 [/cdn.ampproject.org/]127.0.0.1:54
-[/cdn.apple-mapkit.com/]127.0.0.1:54
 [/cdn.fun/]127.0.0.1:54
 [/cdn.globalsigncdn.com.cdn.cloudflare.net/]127.0.0.1:54
 [/cdn.jetbrains.com/]127.0.0.1:54
@@ -16885,24 +16860,20 @@ tls://1.0.0.1
 [/cdn.shanghai.nyu.edu/]127.0.0.1:54
 [/cdn.vin/]127.0.0.1:54
 [/cdn08.com/]127.0.0.1:54
-[/cdn1.apple-mapkit.com/]127.0.0.1:54
 [/cdn1008.com/]127.0.0.1:54
 [/cdn1218.com/]127.0.0.1:54
 [/cdn16.com/]127.0.0.1:54
-[/cdn2.apple-mapkit.com/]127.0.0.1:54
 [/cdn20.com/]127.0.0.1:54
 [/cdn20.info/]127.0.0.1:54
 [/cdn20.org/]127.0.0.1:54
 [/cdn2000.com/]127.0.0.1:54
 [/cdn2020.com/]127.0.0.1:54
-[/cdn3.apple-mapkit.com/]127.0.0.1:54
 [/cdn30.com/]127.0.0.1:54
 [/cdn30.org/]127.0.0.1:54
 [/cdn3344.com/]127.0.0.1:54
 [/cdn35.com/]127.0.0.1:54
 [/cdn365gnlc.vip/]127.0.0.1:54
 [/cdn365lc.vip/]127.0.0.1:54
-[/cdn4.apple-mapkit.com/]127.0.0.1:54
 [/cdn56.com/]127.0.0.1:54
 [/cdn59.com/]127.0.0.1:54
 [/cdn86.net/]127.0.0.1:54
@@ -17050,11 +17021,7 @@ tls://1.0.0.1
 [/cdrsigc.com/]127.0.0.1:54
 [/cdrtvu.com/]127.0.0.1:54
 [/cdruzhu.com/]127.0.0.1:54
-[/cds-cdn.v.aaplimg.com/]127.0.0.1:54
 [/cds-seal.com/]127.0.0.1:54
-[/cds.apple.com/]127.0.0.1:54
-[/cds.apple.com.akadns.net/]127.0.0.1:54
-[/cdsassets.apple.com/]127.0.0.1:54
 [/cdsb.com/]127.0.0.1:54
 [/cdsb.mobi/]127.0.0.1:54
 [/cdscdscdn.com/]127.0.0.1:54
@@ -17266,8 +17233,6 @@ tls://1.0.0.1
 [/cernet2.net/]127.0.0.1:54
 [/cersign.com/]127.0.0.1:54
 [/cersp.com/]127.0.0.1:54
-[/certs-lb.apple.com.akadns.net/]127.0.0.1:54
-[/certs.apple.com/]127.0.0.1:54
 [/cervicalsurgeon.com/]127.0.0.1:54
 [/ces-transaction.com/]127.0.0.1:54
 [/cesfn.com/]127.0.0.1:54
@@ -19643,19 +19608,7 @@ tls://1.0.0.1
 [/cl-kongtiao.com/]127.0.0.1:54
 [/cl.app/]127.0.0.1:54
 [/cl0438.com/]127.0.0.1:54
-[/cl1-cdn.origin-apple.com.akadns.net/]127.0.0.1:54
-[/cl1.apple.com/]127.0.0.1:54
-[/cl2-cn.apple.com/]127.0.0.1:54
-[/cl2.apple.com/]127.0.0.1:54
-[/cl2.apple.com.edgekey.net.globalredir.akadns.net/]127.0.0.1:54
 [/cl2009.com/]127.0.0.1:54
-[/cl3-cdn.origin-apple.com.akadns.net/]127.0.0.1:54
-[/cl3.apple.com/]127.0.0.1:54
-[/cl4-cdn.origin-apple.com.akadns.net/]127.0.0.1:54
-[/cl4-cn.apple.com/]127.0.0.1:54
-[/cl4.apple.com/]127.0.0.1:54
-[/cl5-cdn.origin-apple.com.akadns.net/]127.0.0.1:54
-[/cl5.apple.com/]127.0.0.1:54
 [/cl8239.com/]127.0.0.1:54
 [/cl868.com/]127.0.0.1:54
 [/clady.cc/]127.0.0.1:54
@@ -19721,10 +19674,7 @@ tls://1.0.0.1
 [/clicksun.net/]127.0.0.1:54
 [/clickwifi.net/]127.0.0.1:54
 [/clidone.com/]127.0.0.1:54
-[/client-api.itunes.apple.com/]127.0.0.1:54
 [/client51.com/]127.0.0.1:54
-[/clientflow.apple.com/]127.0.0.1:54
-[/clientflow.apple.com.akadns.net/]127.0.0.1:54
 [/clientservices.googleapis.com/]127.0.0.1:54
 [/cliffordtrading.com/]127.0.0.1:54
 [/cliim.com/]127.0.0.1:54
@@ -19987,7 +19937,6 @@ tls://1.0.0.1
 [/cm233.com/]127.0.0.1:54
 [/cm3721.com/]127.0.0.1:54
 [/cm442.com/]127.0.0.1:54
-[/cma.itunes.apple.com/]127.0.0.1:54
 [/cmacredit.org/]127.0.0.1:54
 [/cmaif.com/]127.0.0.1:54
 [/cmaifz.com/]127.0.0.1:54
@@ -20136,7 +20085,6 @@ tls://1.0.0.1
 [/cn-rcqc.com/]127.0.0.1:54
 [/cn-roofexpert.com/]127.0.0.1:54
 [/cn-sdf.com/]127.0.0.1:54
-[/cn-smp-paymentservices.apple.com/]127.0.0.1:54
 [/cn-soft.com/]127.0.0.1:54
 [/cn-truck.com/]127.0.0.1:54
 [/cn-visa.com/]127.0.0.1:54
@@ -21074,7 +21022,6 @@ tls://1.0.0.1
 [/commchina.net/]127.0.0.1:54
 [/commedcell.com/]127.0.0.1:54
 [/communicatte.com/]127.0.0.1:54
-[/communities.apple.com/]127.0.0.1:54
 [/comocloud.net/]127.0.0.1:54
 [/companydns.com/]127.0.0.1:54
 [/compass-fit.jp/]127.0.0.1:54
@@ -21103,8 +21050,6 @@ tls://1.0.0.1
 [/concox.net/]127.0.0.1:54
 [/conele.com/]127.0.0.1:54
 [/conextweb.com/]127.0.0.1:54
-[/configuration.apple.com/]127.0.0.1:54
-[/configuration.apple.com.akadns.net/]127.0.0.1:54
 [/confluxrpc.com/]127.0.0.1:54
 [/confuciusinstitute.net/]127.0.0.1:54
 [/conghua.com/]127.0.0.1:54
@@ -21695,8 +21640,6 @@ tls://1.0.0.1
 [/crisprdx.com/]127.0.0.1:54
 [/crispstata.com/]127.0.0.1:54
 [/crjfw.com/]127.0.0.1:54
-[/crl-lb.apple.com.akadns.net/]127.0.0.1:54
-[/crl.apple.com/]127.0.0.1:54
 [/crl.globalsign.net/]127.0.0.1:54
 [/crl.kaspersky.com/]127.0.0.1:54
 [/crl.pki.goog/]127.0.0.1:54
@@ -21898,7 +21841,6 @@ tls://1.0.0.1
 [/cssyzxx.com/]127.0.0.1:54
 [/csszone.net/]127.0.0.1:54
 [/cst6.com/]127.0.0.1:54
-[/cstat.apple.com/]127.0.0.1:54
 [/cstat.cdn-apple.com/]127.0.0.1:54
 [/cstccloud.org/]127.0.0.1:54
 [/cstcloud.net/]127.0.0.1:54
@@ -23375,7 +23317,6 @@ tls://1.0.0.1
 [/dczkj.com/]127.0.0.1:54
 [/dczy168.com/]127.0.0.1:54
 [/dd-advisor.com/]127.0.0.1:54
-[/dd-cdn.origin-apple.com.akadns.net/]127.0.0.1:54
 [/dd-gz.com/]127.0.0.1:54
 [/dd-img.com/]127.0.0.1:54
 [/dd.ci/]127.0.0.1:54
@@ -23605,7 +23546,6 @@ tls://1.0.0.1
 [/deifgs.com/]127.0.0.1:54
 [/deikuo.com/]127.0.0.1:54
 [/deinformacion.com/]127.0.0.1:54
-[/dejavu.apple.com/]127.0.0.1:54
 [/dejinfu365.com/]127.0.0.1:54
 [/dejiplaza.com/]127.0.0.1:54
 [/deju8.com/]127.0.0.1:54
@@ -24452,7 +24392,6 @@ tls://1.0.0.1
 [/discourse-studies.com/]127.0.0.1:54
 [/discoversources.com/]127.0.0.1:54
 [/discoveryriflescope.com/]127.0.0.1:54
-[/discussionschinese.apple.com/]127.0.0.1:54
 [/discuz.chat/]127.0.0.1:54
 [/discuz.com/]127.0.0.1:54
 [/discuz.net/]127.0.0.1:54
@@ -25375,7 +25314,6 @@ tls://1.0.0.1
 [/downke.com/]127.0.0.1:54
 [/downkr.com/]127.0.0.1:54
 [/downkuai.com/]127.0.0.1:54
-[/download.developer.apple.com/]127.0.0.1:54
 [/download.microsoft.com/]127.0.0.1:54
 [/download.mlcc.google.com/]127.0.0.1:54
 [/download.qatp1.net/]127.0.0.1:54
@@ -25384,7 +25322,6 @@ tls://1.0.0.1
 [/download.tensorflow.google.com/]127.0.0.1:54
 [/download.visualstudio.microsoft.com/]127.0.0.1:54
 [/download.windowsupdate.com/]127.0.0.1:54
-[/downloaddispatch.itunes.apple.com/]127.0.0.1:54
 [/downloads.ltd/]127.0.0.1:54
 [/downok.com/]127.0.0.1:54
 [/downos.com/]127.0.0.1:54
@@ -27965,7 +27902,6 @@ tls://1.0.0.1
 [/exp99.com/]127.0.0.1:54
 [/expba.com/]127.0.0.1:54
 [/expdns.net/]127.0.0.1:54
-[/experiments.apple.com/]127.0.0.1:54
 [/expin.site/]127.0.0.1:54
 [/expingworld.com/]127.0.0.1:54
 [/expiredns.net/]127.0.0.1:54
@@ -29198,7 +29134,6 @@ tls://1.0.0.1
 [/fibrlink.net/]127.0.0.1:54
 [/ficochina.net/]127.0.0.1:54
 [/ficowshen.com/]127.0.0.1:54
-[/fides-pol.apple.com/]127.0.0.1:54
 [/fiehff.com/]127.0.0.1:54
 [/fieldcommunicator.net/]127.0.0.1:54
 [/fieldschina.com/]127.0.0.1:54
@@ -32920,8 +32855,6 @@ tls://1.0.0.1
 [/grzq.com/]127.0.0.1:54
 [/grzyfey.com/]127.0.0.1:54
 [/gs-eps.com/]127.0.0.1:54
-[/gs-loc-cn.apple.com/]127.0.0.1:54
-[/gs-loc.apple.com/]127.0.0.1:54
 [/gs090.com/]127.0.0.1:54
 [/gs12122.com/]127.0.0.1:54
 [/gs14.com/]127.0.0.1:54
@@ -32979,27 +32912,8 @@ tls://1.0.0.1
 [/gsmgw.com/]127.0.0.1:54
 [/gsmpers.com/]127.0.0.1:54
 [/gsmuban.com/]127.0.0.1:54
-[/gsp10-ssl-cn.ls.apple.com/]127.0.0.1:54
-[/gsp11-cn.ls.apple.com/]127.0.0.1:54
-[/gsp12-cn.ls.apple.com/]127.0.0.1:54
-[/gsp13-cn.ls.apple.com/]127.0.0.1:54
-[/gsp4-cn.ls.apple.com/]127.0.0.1:54
 [/gsp4-cn.ls.apple.com.edgekey.net/]127.0.0.1:54
-[/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]127.0.0.1:54
-[/gsp5-cn.ls.apple.com/]127.0.0.1:54
-[/gsp85-cn-ssl.ls.apple.com/]127.0.0.1:54
 [/gspaceteam.com/]127.0.0.1:54
-[/gspe11-2-cn-ssl.ls.apple.com/]127.0.0.1:54
-[/gspe12-cn-ssl.ls.apple.com/]127.0.0.1:54
-[/gspe19-2-cn-ssl.ls.apple.com/]127.0.0.1:54
-[/gspe19-cn-ssl.ls.apple.com/]127.0.0.1:54
-[/gspe19-cn.ls-apple.com.akadns.net/]127.0.0.1:54
-[/gspe19-cn.ls.apple.com/]127.0.0.1:54
-[/gspe21-ssl.ls.apple.com/]127.0.0.1:54
-[/gspe21.ls.apple.com/]127.0.0.1:54
-[/gspe35-ssl.ls.apple.com/]127.0.0.1:54
-[/gspe79-cn-ssl.ls.apple.com/]127.0.0.1:54
-[/gspe85-cn-ssl.ls.apple.com/]127.0.0.1:54
 [/gspst.com/]127.0.0.1:54
 [/gsqstudio.com/]127.0.0.1:54
 [/gsrcu.com/]127.0.0.1:54
@@ -33666,9 +33580,6 @@ tls://1.0.0.1
 [/guzhilin.com/]127.0.0.1:54
 [/guzhongtrade.com/]127.0.0.1:54
 [/guziyy.com/]127.0.0.1:54
-[/guzzoni-apple-com.v.aaplimg.com/]127.0.0.1:54
-[/guzzoni.apple.com/]127.0.0.1:54
-[/guzzoni.smoot.apple.com/]127.0.0.1:54
 [/gvacdn.com/]127.0.0.1:54
 [/gvi-tech.com/]127.0.0.1:54
 [/gvlocalization.com/]127.0.0.1:54
@@ -42150,7 +42061,6 @@ tls://1.0.0.1
 [/iclicash.com/]127.0.0.1:54
 [/iclickstatic.com/]127.0.0.1:54
 [/icljt.com/]127.0.0.1:54
-[/icloud-cdn.icloud.com.akadns.net/]127.0.0.1:54
 [/icloud-power.com/]127.0.0.1:54
 [/icloud.cdn-apple.com/]127.0.0.1:54
 [/icloudcity.com/]127.0.0.1:54
@@ -42978,9 +42888,6 @@ tls://1.0.0.1
 [/images-cache.com/]127.0.0.1:54
 [/images-cn-8.ssl-images-amazon.com/]127.0.0.1:54
 [/images-cn.ssl-images-amazon.com/]127.0.0.1:54
-[/images.apple.com/]127.0.0.1:54
-[/images.apple.com.akadns.net/]127.0.0.1:54
-[/images.apple.com.edgekey.net.globalredir.akadns.net/]127.0.0.1:54
 [/images.samsung.com/]127.0.0.1:54
 [/imagestoryai.com/]127.0.0.1:54
 [/imageter.com/]127.0.0.1:54
@@ -43210,9 +43117,6 @@ tls://1.0.0.1
 [/inad.com/]127.0.0.1:54
 [/inanguapi.com/]127.0.0.1:54
 [/inanrenbang.com/]127.0.0.1:54
-[/inappcheck-cn.itunes-apple.com.akadns.net/]127.0.0.1:54
-[/inappcheck-lb.itunes-apple.com.akadns.net/]127.0.0.1:54
-[/inappcheck.itunes.apple.com/]127.0.0.1:54
 [/inbeing.net/]127.0.0.1:54
 [/inbilin.com/]127.0.0.1:54
 [/inbooker.com/]127.0.0.1:54
@@ -43317,17 +43221,6 @@ tls://1.0.0.1
 [/inicoapp.com/]127.0.0.1:54
 [/inidc.net/]127.0.0.1:54
 [/ininin.com/]127.0.0.1:54
-[/init-kt.apple.com/]127.0.0.1:54
-[/init-p01md-lb.push-apple.com.akadns.net/]127.0.0.1:54
-[/init-p01md.apple.com/]127.0.0.1:54
-[/init-p01st-lb.push-apple.com.akadns.net/]127.0.0.1:54
-[/init-p01st.push.apple.com/]127.0.0.1:54
-[/init-s01st-lb.push-apple.com.akadns.net/]127.0.0.1:54
-[/init-s01st.push.apple.com/]127.0.0.1:54
-[/init.ess.apple.com/]127.0.0.1:54
-[/init.gc-lb.apple.com.akadns.net/]127.0.0.1:54
-[/init.gc.apple.com/]127.0.0.1:54
-[/init.itunes.apple.com/]127.0.0.1:54
 [/initialview.com/]127.0.0.1:54
 [/initroot.com/]127.0.0.1:54
 [/initxx.com/]127.0.0.1:54
@@ -43515,8 +43408,6 @@ tls://1.0.0.1
 [/ios-auto.net/]127.0.0.1:54
 [/ios222.com/]127.0.0.1:54
 [/ios98.com/]127.0.0.1:54
-[/iosapps.itunes.apple.com/]127.0.0.1:54
-[/iosapps.itunes.g.aaplimg.com/]127.0.0.1:54
 [/iosask.com/]127.0.0.1:54
 [/ioser.fun/]127.0.0.1:54
 [/iosfengwo.com/]127.0.0.1:54
@@ -43588,7 +43479,6 @@ tls://1.0.0.1
 [/ipason.com/]127.0.0.1:54
 [/ipay.so/]127.0.0.1:54
 [/ipaylinks.com/]127.0.0.1:54
-[/ipcdn.apple.com/]127.0.0.1:54
 [/ipcelou.com/]127.0.0.1:54
 [/ipcfun.com/]127.0.0.1:54
 [/ipchaxun.com/]127.0.0.1:54
@@ -43623,8 +43513,6 @@ tls://1.0.0.1
 [/ipfen.com/]127.0.0.1:54
 [/ipfsbit.com/]127.0.0.1:54
 [/ipgoal.com/]127.0.0.1:54
-[/iphone-ld.apple.com/]127.0.0.1:54
-[/iphone-ld.origin-apple.com.akadns.net/]127.0.0.1:54
 [/iphonediule.com/]127.0.0.1:54
 [/ipin.com/]127.0.0.1:54
 [/ipinba.com/]127.0.0.1:54
@@ -44163,9 +44051,6 @@ tls://1.0.0.1
 [/ituchong.com/]127.0.0.1:54
 [/itugo.com/]127.0.0.1:54
 [/ituite.com/]127.0.0.1:54
-[/itunes-apple.com.akadns.net/]127.0.0.1:54
-[/itunes.apple.com/]127.0.0.1:54
-[/itunesconnect.apple.com/]127.0.0.1:54
 [/ituopeng.com/]127.0.0.1:54
 [/iturco.com/]127.0.0.1:54
 [/itutu.tv/]127.0.0.1:54
@@ -47112,7 +46997,6 @@ tls://1.0.0.1
 [/jrzx17.com/]127.0.0.1:54
 [/jrzyzs.com/]127.0.0.1:54
 [/js-aerfa.com/]127.0.0.1:54
-[/js-cdn.music.apple.com/]127.0.0.1:54
 [/js-fangyuan.com/]127.0.0.1:54
 [/js-hyjy.com/]127.0.0.1:54
 [/js-jinhua.com/]127.0.0.1:54
@@ -49289,7 +49173,6 @@ tls://1.0.0.1
 [/klxing.com/]127.0.0.1:54
 [/klxuexi.com/]127.0.0.1:54
 [/km.com/]127.0.0.1:54
-[/km.support.apple.com/]127.0.0.1:54
 [/km169.net/]127.0.0.1:54
 [/km18.net/]127.0.0.1:54
 [/km1818.com/]127.0.0.1:54
@@ -54775,7 +54658,6 @@ tls://1.0.0.1
 [/mapmapping.com/]127.0.0.1:54
 [/mappn.com/]127.0.0.1:54
 [/maproelec.com/]127.0.0.1:54
-[/maps.apple.com/]127.0.0.1:54
 [/maptalks.com/]127.0.0.1:54
 [/maqingbo.com/]127.0.0.1:54
 [/maqingxi.com/]127.0.0.1:54
@@ -55534,9 +55416,6 @@ tls://1.0.0.1
 [/mesowe.com/]127.0.0.1:54
 [/mesresearch.com/]127.0.0.1:54
 [/messecloud.com/]127.0.0.1:54
-[/mesu-cdn.apple.com.akadns.net/]127.0.0.1:54
-[/mesu-china.apple.com.akadns.net/]127.0.0.1:54
-[/mesu.apple.com/]127.0.0.1:54
 [/mesule.com/]127.0.0.1:54
 [/met.red/]127.0.0.1:54
 [/met169.com/]127.0.0.1:54
@@ -56207,7 +56086,6 @@ tls://1.0.0.1
 [/mirrorcn.com/]127.0.0.1:54
 [/misaka.center/]127.0.0.1:54
 [/misall.com/]127.0.0.1:54
-[/misc-assets.itunes.apple.com/]127.0.0.1:54
 [/miscd.com/]127.0.0.1:54
 [/mishangkeji.com/]127.0.0.1:54
 [/mishuhome.com/]127.0.0.1:54
@@ -57268,7 +57146,6 @@ tls://1.0.0.1
 [/museradio.net/]127.0.0.1:54
 [/musetransfer.com/]127.0.0.1:54
 [/mushafa.net/]127.0.0.1:54
-[/music.apple.com/]127.0.0.1:54
 [/music4x.com/]127.0.0.1:54
 [/musicchina-expo.com/]127.0.0.1:54
 [/musiccia.com/]127.0.0.1:54
@@ -57447,7 +57324,6 @@ tls://1.0.0.1
 [/myanmarembassy.com/]127.0.0.1:54
 [/myantu.com/]127.0.0.1:54
 [/myapp.com/]127.0.0.1:54
-[/myapp.itunes.apple.com/]127.0.0.1:54
 [/myapp.ltd/]127.0.0.1:54
 [/myaqsh.com/]127.0.0.1:54
 [/myarena7.com/]127.0.0.1:54
@@ -59612,7 +59488,6 @@ tls://1.0.0.1
 [/noxue.com/]127.0.0.1:54
 [/noxxxx.com/]127.0.0.1:54
 [/noyes88.com/]127.0.0.1:54
-[/np-edge.itunes.apple.com/]127.0.0.1:54
 [/npbdp.com/]127.0.0.1:54
 [/npbeta.com/]127.0.0.1:54
 [/npc.ink/]127.0.0.1:54
@@ -60059,11 +59934,7 @@ tls://1.0.0.1
 [/ocn187.com/]127.0.0.1:54
 [/ocpuritech.com/]127.0.0.1:54
 [/ocsjs.com/]127.0.0.1:54
-[/ocsp-lb.apple.com.akadns.net/]127.0.0.1:54
-[/ocsp.apple.com/]127.0.0.1:54
 [/ocsp.pki.goog/]127.0.0.1:54
-[/ocsp2-lb.apple.com.akadns.net/]127.0.0.1:54
-[/ocsp2.apple.com/]127.0.0.1:54
 [/oct-asia.com/]127.0.0.1:54
 [/oct-cts.com/]127.0.0.1:54
 [/oct-sh.com/]127.0.0.1:54
@@ -60706,8 +60577,6 @@ tls://1.0.0.1
 [/oscaches.com/]127.0.0.1:54
 [/oscarma.com/]127.0.0.1:54
 [/oscarzhoud.com/]127.0.0.1:54
-[/oscdn.apple.com/]127.0.0.1:54
-[/oscdn.origin-apple.com.akadns.net/]127.0.0.1:54
 [/oschina.com/]127.0.0.1:54
 [/oschina.io/]127.0.0.1:54
 [/oschina.net/]127.0.0.1:54
@@ -60753,8 +60622,6 @@ tls://1.0.0.1
 [/oswdj.com/]127.0.0.1:54
 [/oswhy.com/]127.0.0.1:54
 [/osx.cx/]127.0.0.1:54
-[/osxapps.itunes.apple.com/]127.0.0.1:54
-[/osxapps.itunes.g.aaplimg.com/]127.0.0.1:54
 [/osxxy.com/]127.0.0.1:54
 [/osyunwei.com/]127.0.0.1:54
 [/otbmall.com/]127.0.0.1:54
@@ -61135,8 +61002,6 @@ tls://1.0.0.1
 [/panasonic-door.com/]127.0.0.1:54
 [/panasonicmall.com/]127.0.0.1:54
 [/panbrake.com/]127.0.0.1:54
-[/pancake.apple.com/]127.0.0.1:54
-[/pancake.cdn-apple.com.akadns.net/]127.0.0.1:54
 [/pancake888.com/]127.0.0.1:54
 [/panchuang.net/]127.0.0.1:54
 [/panda-home.com/]127.0.0.1:54
@@ -61350,7 +61215,6 @@ tls://1.0.0.1
 [/payrao.com/]127.0.0.1:54
 [/payxinyi.com/]127.0.0.1:54
 [/pb89.com/]127.0.0.1:54
-[/pba0.apple.com/]127.0.0.1:54
 [/pbc-dcep.com/]127.0.0.1:54
 [/pbcan.com/]127.0.0.1:54
 [/pbdpw.com/]127.0.0.1:54
@@ -61455,9 +61319,7 @@ tls://1.0.0.1
 [/pcysy.com/]127.0.0.1:54
 [/pczhi.com/]127.0.0.1:54
 [/pd-italent.com/]127.0.0.1:54
-[/pd-nk.itunes.apple.com/]127.0.0.1:54
 [/pd-sts.com/]127.0.0.1:54
-[/pd.itunes.apple.com/]127.0.0.1:54
 [/pd120.com/]127.0.0.1:54
 [/pd17.com/]127.0.0.1:54
 [/pdai.tech/]127.0.0.1:54
@@ -62176,8 +62038,6 @@ tls://1.0.0.1
 [/play-cdn20.com/]127.0.0.1:54
 [/play.1ucrs.com/]127.0.0.1:54
 [/play.craft.moe/]127.0.0.1:54
-[/play.itunes.apple.com/]127.0.0.1:54
-[/play.music.apple.com/]127.0.0.1:54
 [/play68.com/]127.0.0.1:54
 [/play700.com/]127.0.0.1:54
 [/play910.com/]127.0.0.1:54
@@ -62642,7 +62502,6 @@ tls://1.0.0.1
 [/pro001.com/]127.0.0.1:54
 [/proangela.com/]127.0.0.1:54
 [/proav-china.com/]127.0.0.1:54
-[/probe.siri.apple.com/]127.0.0.1:54
 [/procar.cc/]127.0.0.1:54
 [/processedmetals.com/]127.0.0.1:54
 [/processon.com/]127.0.0.1:54
@@ -62651,7 +62510,6 @@ tls://1.0.0.1
 [/prod-controlbe.floonet.goog/]127.0.0.1:54
 [/prod-databe.floonet.goog/]127.0.0.1:54
 [/prod-mv.com/]127.0.0.1:54
-[/prod-support.apple-support.akadns.net/]127.0.0.1:54
 [/prod.databe.floonet.goog/]127.0.0.1:54
 [/prodcutmodel.com/]127.0.0.1:54
 [/productcard.gog-statics.com/]127.0.0.1:54
@@ -65978,7 +65836,6 @@ tls://1.0.0.1
 [/res-1.cdn.office.net/]127.0.0.1:54
 [/res.cdn.office.net/]127.0.0.1:54
 [/reseetech.com/]127.0.0.1:54
-[/reserve-prime.apple.com/]127.0.0.1:54
 [/reservehemu.com/]127.0.0.1:54
 [/resheji.com/]127.0.0.1:54
 [/residenzavillafiorita.com/]127.0.0.1:54
@@ -67909,8 +67766,6 @@ tls://1.0.0.1
 [/sdztxxkj.com/]127.0.0.1:54
 [/sdzxswhjygjlm.com/]127.0.0.1:54
 [/sdzydfy.com/]127.0.0.1:54
-[/se-edge.itunes.apple.com/]127.0.0.1:54
-[/se2.itunes.apple.com/]127.0.0.1:54
 [/se25.xyz/]127.0.0.1:54
 [/sea-group.org/]127.0.0.1:54
 [/sea-gullmall.com/]127.0.0.1:54
@@ -67938,7 +67793,6 @@ tls://1.0.0.1
 [/seapard.com/]127.0.0.1:54
 [/seapsoft.com/]127.0.0.1:54
 [/seaquire.com/]127.0.0.1:54
-[/search.itunes.apple.com/]127.0.0.1:54
 [/search616.com/]127.0.0.1:54
 [/searcheasy.net/]127.0.0.1:54
 [/searchpstatp.com/]127.0.0.1:54
@@ -68006,9 +67860,6 @@ tls://1.0.0.1
 [/seebug.org/]127.0.0.1:54
 [/seecmedia.net/]127.0.0.1:54
 [/seed-china.com/]127.0.0.1:54
-[/seed-sequoia.siri.apple.com/]127.0.0.1:54
-[/seed-swallow.siri.apple.com/]127.0.0.1:54
-[/seed.siri.apple.com/]127.0.0.1:54
 [/seedasdan.org/]127.0.0.1:54
 [/seeddsp.com/]127.0.0.1:54
 [/seedit.cc/]127.0.0.1:54
@@ -68182,7 +68033,6 @@ tls://1.0.0.1
 [/septwolves.com/]127.0.0.1:54
 [/sepu.net/]127.0.0.1:54
 [/sequ.biz/]127.0.0.1:54
-[/sequoia.apple.com/]127.0.0.1:54
 [/sequoiadb.com/]127.0.0.1:54
 [/sereniblue.com/]127.0.0.1:54
 [/sereypath.com/]127.0.0.1:54
@@ -68225,7 +68075,6 @@ tls://1.0.0.1
 [/seyingwumei.com/]127.0.0.1:54
 [/seyuma-cn.com/]127.0.0.1:54
 [/sf-airlines.com/]127.0.0.1:54
-[/sf-api-token-service.itunes.apple.com/]127.0.0.1:54
 [/sf-bearing.com/]127.0.0.1:54
 [/sf-card.com/]127.0.0.1:54
 [/sf-china.com/]127.0.0.1:54
@@ -68389,7 +68238,6 @@ tls://1.0.0.1
 [/sh-likun.com/]127.0.0.1:54
 [/sh-livemusic.com/]127.0.0.1:54
 [/sh-nemoto.com/]127.0.0.1:54
-[/sh-pod2-smp-device.apple.com/]127.0.0.1:54
 [/sh-prosperity.com/]127.0.0.1:54
 [/sh-prosun.com/]127.0.0.1:54
 [/sh-ryjx.com/]127.0.0.1:54
@@ -70928,7 +70776,6 @@ tls://1.0.0.1
 [/smoreroll.com/]127.0.0.1:54
 [/smovie168.com/]127.0.0.1:54
 [/smowo.com/]127.0.0.1:54
-[/smp-device-content.apple.com/]127.0.0.1:54
 [/smpg888.com/]127.0.0.1:54
 [/smppw.com/]127.0.0.1:54
 [/smrmyy.com/]127.0.0.1:54
@@ -71513,7 +71360,6 @@ tls://1.0.0.1
 [/sozyb.com/]127.0.0.1:54
 [/sozyx.shop/]127.0.0.1:54
 [/sp.cc/]127.0.0.1:54
-[/sp.itunes.apple.com/]127.0.0.1:54
 [/sp168.com/]127.0.0.1:54
 [/sp588.cc/]127.0.0.1:54
 [/sp588.net/]127.0.0.1:54
@@ -71945,7 +71791,6 @@ tls://1.0.0.1
 [/stat18.com/]127.0.0.1:54
 [/static-login.gog-statics.com/]127.0.0.1:54
 [/static.eprintsw.com/]127.0.0.1:54
-[/static.gc.apple.com/]127.0.0.1:54
 [/staticaa.com/]127.0.0.1:54
 [/staticdn.net/]127.0.0.1:54
 [/staticec.com/]127.0.0.1:54
@@ -72019,8 +71864,6 @@ tls://1.0.0.1
 [/stnts.com/]127.0.0.1:54
 [/stnye.cc/]127.0.0.1:54
 [/stockhn.com/]127.0.0.1:54
-[/stocks-sparkline-lb.apple.com.akadns.net/]127.0.0.1:54
-[/stocks-sparkline.apple.com/]127.0.0.1:54
 [/stockstar.com/]127.0.0.1:54
 [/stockwei.com/]127.0.0.1:54
 [/stointl.com/]127.0.0.1:54
@@ -72044,10 +71887,7 @@ tls://1.0.0.1
 [/stonexp.com/]127.0.0.1:54
 [/stor-age.com/]127.0.0.1:54
 [/storage-asset.msi.com/]127.0.0.1:54
-[/store.apple.com/]127.0.0.1:54
 [/store.apple.com.edgekey.net/]127.0.0.1:54
-[/store.apple.com.edgekey.net.globalredir.akadns.net/]127.0.0.1:54
-[/store.storeimages.apple.com.akadns.net/]127.0.0.1:54
 [/store.storeimages.cdn-apple.com/]127.0.0.1:54
 [/store12.com/]127.0.0.1:54
 [/storeapi.net/]127.0.0.1:54
@@ -72073,7 +71913,6 @@ tls://1.0.0.1
 [/streamcomputing.com/]127.0.0.1:54
 [/streaming-uberproxy-rotation.corp.google.com/]127.0.0.1:54
 [/streaming-uberproxy.corp.google.com/]127.0.0.1:54
-[/streamingaudio.itunes.apple.com/]127.0.0.1:54
 [/streamlakeapi.com/]127.0.0.1:54
 [/streffy.com/]127.0.0.1:54
 [/strong-study.com/]127.0.0.1:54
@@ -72131,7 +71970,6 @@ tls://1.0.0.1
 [/stz8.com/]127.0.0.1:54
 [/su-jiao.com/]127.0.0.1:54
 [/su-long.com/]127.0.0.1:54
-[/su.itunes.apple.com/]127.0.0.1:54
 [/suaee.com/]127.0.0.1:54
 [/suan5.com/]127.0.0.1:54
 [/suanbanyun.com/]127.0.0.1:54
@@ -72530,10 +72368,8 @@ tls://1.0.0.1
 [/supool.com/]127.0.0.1:54
 [/supor.com/]127.0.0.1:54
 [/supplierlist.com/]127.0.0.1:54
-[/support-china.apple-support.akadns.net/]127.0.0.1:54
 [/support-cn.samsung.com/]127.0.0.1:54
 [/support.1ucrs.com/]127.0.0.1:54
-[/support.apple.com/]127.0.0.1:54
 [/supportcenter.corp.google.com/]127.0.0.1:54
 [/supuvalve.com/]127.0.0.1:54
 [/supwk.com/]127.0.0.1:54
@@ -72623,8 +72459,6 @@ tls://1.0.0.1
 [/sw996.com/]127.0.0.1:54
 [/swaeab.com/]127.0.0.1:54
 [/swakopuranium.com/]127.0.0.1:54
-[/swallow-apple-com.v.aaplimg.com/]127.0.0.1:54
-[/swallow.apple.com/]127.0.0.1:54
 [/swanchemical.com/]127.0.0.1:54
 [/swang8.com/]127.0.0.1:54
 [/swangwx.com/]127.0.0.1:54
@@ -72635,13 +72469,7 @@ tls://1.0.0.1
 [/swarma.org/]127.0.0.1:54
 [/swatou.com/]127.0.0.1:54
 [/swbbsc.com/]127.0.0.1:54
-[/swcatalog-cdn.apple.com.akadns.net/]127.0.0.1:54
-[/swcatalog.apple.com/]127.0.0.1:54
-[/swcdn.apple.com/]127.0.0.1:54
-[/swcdn.g.aaplimg.com/]127.0.0.1:54
 [/swchina.org/]127.0.0.1:54
-[/swdist.apple.com/]127.0.0.1:54
-[/swdist.apple.com.akadns.net/]127.0.0.1:54
 [/sweet-data.com/]127.0.0.1:54
 [/sweetalkos.com/]127.0.0.1:54
 [/sweetdan.com/]127.0.0.1:54
@@ -72698,8 +72526,6 @@ tls://1.0.0.1
 [/swordtt.com/]127.0.0.1:54
 [/swotbbs.com/]127.0.0.1:54
 [/swsbw.com/]127.0.0.1:54
-[/swscan-cdn.apple.com.akadns.net/]127.0.0.1:54
-[/swscan.apple.com/]127.0.0.1:54
 [/swsm.net/]127.0.0.1:54
 [/swsmu.com/]127.0.0.1:54
 [/swstsg.com/]127.0.0.1:54
@@ -72956,7 +72782,6 @@ tls://1.0.0.1
 [/sylnst.com/]127.0.0.1:54
 [/sylnyx.com/]127.0.0.1:54
 [/syltgl.com/]127.0.0.1:54
-[/sylvan.apple.com/]127.0.0.1:54
 [/symama.com/]127.0.0.1:54
 [/symboltek.com/]127.0.0.1:54
 [/symf-crm.com/]127.0.0.1:54
@@ -72964,7 +72789,6 @@ tls://1.0.0.1
 [/syn029.com/]127.0.0.1:54
 [/synacast.com/]127.0.0.1:54
 [/synball.com/]127.0.0.1:54
-[/sync.itunes.apple.com/]127.0.0.1:54
 [/sync.sh/]127.0.0.1:54
 [/syncedoffplanet.com/]127.0.0.1:54
 [/synjones.com/]127.0.0.1:54
@@ -74631,7 +74455,6 @@ tls://1.0.0.1
 [/tezhongzhuangbei.com/]127.0.0.1:54
 [/tezign.com/]127.0.0.1:54
 [/tf-bm.com/]127.0.0.1:54
-[/tf-feedback.itunes.apple.com/]127.0.0.1:54
 [/tf.wiki/]127.0.0.1:54
 [/tf86.com/]127.0.0.1:54
 [/tfaqg.com/]127.0.0.1:54
@@ -75346,7 +75169,6 @@ tls://1.0.0.1
 [/tj-htjh.com/]127.0.0.1:54
 [/tj-kingdee.com/]127.0.0.1:54
 [/tj-model.com/]127.0.0.1:54
-[/tj-pod1-smp-device.apple.com/]127.0.0.1:54
 [/tj-un.com/]127.0.0.1:54
 [/tj-zt.com/]127.0.0.1:54
 [/tj0573.com/]127.0.0.1:54
@@ -77741,7 +77563,6 @@ tls://1.0.0.1
 [/update.crashlytics.com/]127.0.0.1:54
 [/update.googleapis.com/]127.0.0.1:54
 [/updates-http.cdn-apple.com/]127.0.0.1:54
-[/updates-http.cdn-apple.com.akadns.net/]127.0.0.1:54
 [/updates.cdn-apple.com/]127.0.0.1:54
 [/updeals.com/]127.0.0.1:54
 [/updf.com/]127.0.0.1:54
@@ -77763,7 +77584,6 @@ tls://1.0.0.1
 [/uplooking.com/]127.0.0.1:54
 [/upluck.cc/]127.0.0.1:54
 [/upowerchain.com/]127.0.0.1:54
-[/upp.itunes.apple.com/]127.0.0.1:54
 [/uppershop.hk/]127.0.0.1:54
 [/uppsd.com/]127.0.0.1:54
 [/upqzfile.com/]127.0.0.1:54
@@ -78151,8 +77971,6 @@ tls://1.0.0.1
 [/vaillant99.com/]127.0.0.1:54
 [/vainpz.com/]127.0.0.1:54
 [/vakku.com/]127.0.0.1:54
-[/valid.apple.com/]127.0.0.1:54
-[/valid.origin-apple.com.akadns.net/]127.0.0.1:54
 [/valinbl.com/]127.0.0.1:54
 [/valinresources.com/]127.0.0.1:54
 [/valuablexmail.com/]127.0.0.1:54
@@ -79888,14 +79706,9 @@ tls://1.0.0.1
 [/wearosbox.com/]127.0.0.1:54
 [/weartrends.com/]127.0.0.1:54
 [/weasing.com/]127.0.0.1:54
-[/weather-data.apple.com/]127.0.0.1:54
-[/weather-data.apple.com.akadns.net/]127.0.0.1:54
-[/weather-map.apple.com/]127.0.0.1:54
-[/weather-map2.apple.com/]127.0.0.1:54
 [/weatherat.com/]127.0.0.1:54
 [/weathercn.com/]127.0.0.1:54
 [/weatherdt.com/]127.0.0.1:54
-[/weatherkit.apple.com/]127.0.0.1:54
 [/weatherol.com/]127.0.0.1:54
 [/weavatar.com/]127.0.0.1:54
 [/weaverdream.com/]127.0.0.1:54
@@ -82422,9 +82235,7 @@ tls://1.0.0.1
 [/www.adobe.com/]127.0.0.1:54
 [/www.amd.com/]127.0.0.1:54
 [/www.analog.com/]127.0.0.1:54
-[/www.apple.com/]127.0.0.1:54
 [/www.apple.com.edgekey.net/]127.0.0.1:54
-[/www.apple.com.edgekey.net.globalredir.akadns.net/]127.0.0.1:54
 [/www.cc/]127.0.0.1:54
 [/www.cg/]127.0.0.1:54
 [/www.com.my/]127.0.0.1:54
@@ -82445,7 +82256,6 @@ tls://1.0.0.1
 [/www.redhat.com/]127.0.0.1:54
 [/www.samsung.com/]127.0.0.1:54
 [/www.st.com/]127.0.0.1:54
-[/www.support.apple.com/]127.0.0.1:54
 [/www.tutorabc.com/]127.0.0.1:54
 [/www.vive.com/]127.0.0.1:54
 [/www.viveport.com/]127.0.0.1:54
@@ -85597,7 +85407,6 @@ tls://1.0.0.1
 [/xoyobox.com/]127.0.0.1:54
 [/xoyocdn.com/]127.0.0.1:54
 [/xoyq.net/]127.0.0.1:54
-[/xp.apple.com/]127.0.0.1:54
 [/xp6000.com/]127.0.0.1:54
 [/xp666.com/]127.0.0.1:54
 [/xp85.com/]127.0.0.1:54

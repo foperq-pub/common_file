@@ -27,6 +27,8 @@ tls://1.0.0.1
 [/apple-mapkit.com/]tls://223.5.5.5
 [/apple-dns.net/]tls://223.5.5.5
 [/syncthing.net/]tls://223.5.5.5
+[/cdn-apple.com/]tls://223.5.5.5
+[/edgekey.net/]tls://223.5.5.5
 [/0.zone/]223.5.5.5
 [/00.net/]223.5.5.5
 [/000.link/]223.5.5.5
@@ -10867,7 +10869,6 @@ tls://1.0.0.1
 [/app-measurement-cn.com/]223.5.5.5
 [/app-measurement.com/]223.5.5.5
 [/app-router.com/]223.5.5.5
-[/app-site-association.cdn-apple.com/]223.5.5.5
 [/app001.com/]223.5.5.5
 [/app0772.com/]223.5.5.5
 [/app111.com/]223.5.5.5
@@ -10924,7 +10925,6 @@ tls://1.0.0.1
 [/appleads-trk.com/]223.5.5.5
 [/appleadstech.com/]223.5.5.5
 [/applebl.com/]223.5.5.5
-[/appleid.cdn-apple.com/]223.5.5.5
 [/applemdm.corp.google.com/]223.5.5.5
 [/applemei.com/]223.5.5.5
 [/applethome.com/]223.5.5.5
@@ -21841,7 +21841,6 @@ tls://1.0.0.1
 [/cssyzxx.com/]223.5.5.5
 [/csszone.net/]223.5.5.5
 [/cst6.com/]223.5.5.5
-[/cstat.cdn-apple.com/]223.5.5.5
 [/cstccloud.org/]223.5.5.5
 [/cstcloud.net/]223.5.5.5
 [/cstcq.com/]223.5.5.5
@@ -32912,7 +32911,6 @@ tls://1.0.0.1
 [/gsmgw.com/]223.5.5.5
 [/gsmpers.com/]223.5.5.5
 [/gsmuban.com/]223.5.5.5
-[/gsp4-cn.ls.apple.com.edgekey.net/]223.5.5.5
 [/gspaceteam.com/]223.5.5.5
 [/gspst.com/]223.5.5.5
 [/gsqstudio.com/]223.5.5.5
@@ -42062,7 +42060,6 @@ tls://1.0.0.1
 [/iclickstatic.com/]223.5.5.5
 [/icljt.com/]223.5.5.5
 [/icloud-power.com/]223.5.5.5
-[/icloud.cdn-apple.com/]223.5.5.5
 [/icloudcity.com/]223.5.5.5
 [/icloudgslb.com/]223.5.5.5
 [/icloudnative.io/]223.5.5.5
@@ -56224,7 +56221,6 @@ tls://1.0.0.1
 [/mkzhou.com/]223.5.5.5
 [/mkzoo.com/]223.5.5.5
 [/ml-kq.com/]223.5.5.5
-[/ml.cdn-apple.com/]223.5.5.5
 [/mlairport.com/]223.5.5.5
 [/mlbaikew.com/]223.5.5.5
 [/mlbbq.com/]223.5.5.5
@@ -62647,7 +62643,6 @@ tls://1.0.0.1
 [/pubg8x.com/]223.5.5.5
 [/pubghelper.com/]223.5.5.5
 [/pubgtool.com/]223.5.5.5
-[/publicassets.cdn-apple.com/]223.5.5.5
 [/publiccms.com/]223.5.5.5
 [/publicdns.cc/]223.5.5.5
 [/pubmed007.com/]223.5.5.5
@@ -68621,7 +68616,6 @@ tls://1.0.0.1
 [/shawnzeng.com/]223.5.5.5
 [/shaxian.biz/]223.5.5.5
 [/shayujizhang.com/]223.5.5.5
-[/shazam-insights.cdn-apple.com/]223.5.5.5
 [/shb.ltd/]223.5.5.5
 [/shb02.com/]223.5.5.5
 [/shbaimeng.com/]223.5.5.5
@@ -71887,8 +71881,6 @@ tls://1.0.0.1
 [/stonexp.com/]223.5.5.5
 [/stor-age.com/]223.5.5.5
 [/storage-asset.msi.com/]223.5.5.5
-[/store.apple.com.edgekey.net/]223.5.5.5
-[/store.storeimages.cdn-apple.com/]223.5.5.5
 [/store12.com/]223.5.5.5
 [/storeapi.net/]223.5.5.5
 [/storecorefulfillment.download.prss.microsoft.com/]223.5.5.5
@@ -77562,8 +77554,6 @@ tls://1.0.0.1
 [/upd.kaspersky.com/]223.5.5.5
 [/update.crashlytics.com/]223.5.5.5
 [/update.googleapis.com/]223.5.5.5
-[/updates-http.cdn-apple.com/]223.5.5.5
-[/updates.cdn-apple.com/]223.5.5.5
 [/updeals.com/]223.5.5.5
 [/updf.com/]223.5.5.5
 [/updrv.com/]223.5.5.5
@@ -82235,7 +82225,6 @@ tls://1.0.0.1
 [/www.adobe.com/]223.5.5.5
 [/www.amd.com/]223.5.5.5
 [/www.analog.com/]223.5.5.5
-[/www.apple.com.edgekey.net/]223.5.5.5
 [/www.cc/]223.5.5.5
 [/www.cg/]223.5.5.5
 [/www.com.my/]223.5.5.5

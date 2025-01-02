@@ -26,6 +26,7 @@ tls://1.0.0.1
 [/aaplimg.com/]tls://223.5.5.5
 [/apple-mapkit.com/]tls://223.5.5.5
 [/apple-dns.net/]tls://223.5.5.5
+[/syncthing.net/]tls://223.5.5.5
 [/0.zone/]223.5.5.5
 [/00.net/]223.5.5.5
 [/000.link/]223.5.5.5

@@ -27,3 +27,5 @@ tls://1.0.0.1
 [/apple-mapkit.com/]tls://223.5.5.5
 [/apple-dns.net/]tls://223.5.5.5
 [/syncthing.net/]tls://223.5.5.5
+[/cdn-apple.com/]tls://223.5.5.5
+[/edgekey.net/]tls://223.5.5.5

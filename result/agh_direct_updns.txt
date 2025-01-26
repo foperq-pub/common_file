@@ -80796,6 +80796,7 @@ tls://1.0.0.1
 [/volcenginedns.com/]127.0.0.1:54
 [/volcenginedns.net/]127.0.0.1:54
 [/volcenginepaas.com/]127.0.0.1:54
+[/volces.com/]127.0.0.1:54
 [/volcfake.com/]127.0.0.1:54
 [/volcfcdn.com/]127.0.0.1:54
 [/volcfcdnbyte.com/]127.0.0.1:54

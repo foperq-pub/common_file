@@ -21,9 +21,10 @@ tls://1.0.0.1
 [/8.0.4.2.ip6.arpa/]127.0.0.1:54
 [/9.0.4.2.ip6.arpa/]127.0.0.1:54
 [/e.0.4.2.ip6.arpa/]127.0.0.1:54
-[/time.edu.cn/]127.0.0.1:54
-[/ntp.org.cn/]127.0.0.1:54
-[/pool.ntp.org/]127.0.0.1:54
+[/time.edu.cn/]tls://223.5.5.5
+[/ntp.org.cn/]tls://223.5.5.5
+[/pool.ntp.org/]tls://223.5.5.5
+[/syncthing.net/]tls://223.5.5.5
 [/apple.cn/]tls://223.5.5.5
 [/apple.com/]tls://223.5.5.5
 [/apple.com.cn/]tls://223.5.5.5
@@ -35,7 +36,6 @@ tls://1.0.0.1
 [/aaplimg.com/]tls://223.5.5.5
 [/apple-mapkit.com/]tls://223.5.5.5
 [/apple-dns.net/]tls://223.5.5.5
-[/syncthing.net/]tls://223.5.5.5
 [/cdn-apple.com/]tls://223.5.5.5
 [/edgekey.net/]tls://223.5.5.5
 [/mzstatic.com/]tls://223.5.5.5

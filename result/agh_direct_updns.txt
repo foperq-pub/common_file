@@ -66400,6 +66400,8 @@ tls://1.0.0.1
 [/qwe1e.com/]127.0.0.1:54
 [/qweather.com/]127.0.0.1:54
 [/qweather.net/]127.0.0.1:54
+[/qwen.ai/]127.0.0.1:54
+[/qwenlm.ai/]127.0.0.1:54
 [/qwerhost.com/]127.0.0.1:54
 [/qwfync.com/]127.0.0.1:54
 [/qwgg.com/]127.0.0.1:54

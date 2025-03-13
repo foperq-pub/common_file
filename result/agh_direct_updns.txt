@@ -38875,6 +38875,7 @@ tls://1.0.0.1
 [/heytapimage.com/]127.0.0.1:54
 [/heytapmobi.com/]127.0.0.1:54
 [/heytapugc.com/]127.0.0.1:54
+[/heytea-co.com/]127.0.0.1:54
 [/heytea.com/]127.0.0.1:54
 [/heythings-iot.com/]127.0.0.1:54
 [/heytime.com/]127.0.0.1:54
@@ -54321,6 +54322,7 @@ tls://1.0.0.1
 [/luckeeinc.com/]127.0.0.1:54
 [/luckforcalendar.com/]127.0.0.1:54
 [/luckincalendar.com/]127.0.0.1:54
+[/luckincdn.com/]127.0.0.1:54
 [/luckincoffee.co/]127.0.0.1:54
 [/luckincoffee.com/]127.0.0.1:54
 [/luckincoffeecdn.com/]127.0.0.1:54

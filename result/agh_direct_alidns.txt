@@ -25,7 +25,6 @@ tls://1.0.0.1
 [/ntp.org.cn/]tls://223.5.5.5
 [/pool.ntp.org/]tls://223.5.5.5
 [/syncthing.net/]tls://223.5.5.5
-[/apple.cn/]tls://223.5.5.5
 [/apple.com/]tls://223.5.5.5
 [/apple.com.cn/]tls://223.5.5.5
 [/icloud.com/]tls://223.5.5.5

@@ -10392,6 +10392,7 @@
 [/aliasnb.xyz/]127.0.0.1:54
 [/alibaba/]127.0.0.1:54
 [/alibaba-inc.com/]127.0.0.1:54
+[/alibaba.cdn.steampipe.steamcontent.com/]127.0.0.1:54
 [/alibaba.com/]127.0.0.1:54
 [/alibaba.net/]127.0.0.1:54
 [/alibabacapital.com/]127.0.0.1:54
@@ -32666,6 +32667,7 @@
 [/forestfood.com/]127.0.0.1:54
 [/forestmusicnanjing.com/]127.0.0.1:54
 [/forestpolice.org/]127.0.0.1:54
+[/forevernine.com/]127.0.0.1:54
 [/foreveross.com/]127.0.0.1:54
 [/foreweld.com/]127.0.0.1:54
 [/forface3d.com/]127.0.0.1:54
@@ -36148,6 +36150,8 @@
 [/golenpower.com/]127.0.0.1:54
 [/golfvv.com/]127.0.0.1:54
 [/golink.com/]127.0.0.1:54
+[/golinkapi.com/]127.0.0.1:54
+[/golinkcn.com/]127.0.0.1:54
 [/golinksworld.com/]127.0.0.1:54
 [/golive-tv.com/]127.0.0.1:54
 [/golivetv.tv/]127.0.0.1:54
@@ -48175,6 +48179,7 @@
 [/imlianai.com/]127.0.0.1:54
 [/imliuyi.com/]127.0.0.1:54
 [/immeee.com/]127.0.0.1:54
+[/immersivetranslate.com/]127.0.0.1:54
 [/immfast.com/]127.0.0.1:54
 [/immi520.com/]127.0.0.1:54
 [/immiexpo.com/]127.0.0.1:54
@@ -74164,6 +74169,7 @@
 [/rm.run/]127.0.0.1:54
 [/rmb.sh/]127.0.0.1:54
 [/rmbbk.com/]127.0.0.1:54
+[/rmbgame.net/]127.0.0.1:54
 [/rmbrate.net/]127.0.0.1:54
 [/rmburl.com/]127.0.0.1:54
 [/rmcaribbean.com/]127.0.0.1:54
@@ -80856,6 +80862,7 @@
 [/stdout.pub/]127.0.0.1:54
 [/stdwp.com/]127.0.0.1:54
 [/ste56.com/]127.0.0.1:54
+[/steam302.xyz/]127.0.0.1:54
 [/steambang.com/]127.0.0.1:54
 [/steambig.com/]127.0.0.1:54
 [/steamboxs.com/]127.0.0.1:54

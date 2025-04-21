@@ -9937,6 +9937,7 @@
 [/abykt.com/]127.0.0.1:54
 [/abyssdawn.com/]127.0.0.1:54
 [/abz-sh.com/]127.0.0.1:54
+[/ac.fun/]127.0.0.1:54
 [/ac268.com/]127.0.0.1:54
 [/ac57.com/]127.0.0.1:54
 [/acabridge.net/]127.0.0.1:54
@@ -9985,6 +9986,7 @@
 [/acfechina.org/]127.0.0.1:54
 [/acftu.org/]127.0.0.1:54
 [/acfun.com/]127.0.0.1:54
+[/acfun.net/]127.0.0.1:54
 [/acfun.tv/]127.0.0.1:54
 [/acfunchina.com/]127.0.0.1:54
 [/acfunchina.net/]127.0.0.1:54
@@ -10669,7 +10671,6 @@
 [/ai-vip.net/]127.0.0.1:54
 [/ai-ways.com/]127.0.0.1:54
 [/ai.cc/]127.0.0.1:54
-[/ai.ytimg.com/]127.0.0.1:54
 [/ai012.com/]127.0.0.1:54
 [/ai0513.com/]127.0.0.1:54
 [/ai257.com/]127.0.0.1:54
@@ -12671,6 +12672,7 @@
 [/apowo.com/]127.0.0.1:54
 [/apowogame.com/]127.0.0.1:54
 [/apoyl.com/]127.0.0.1:54
+[/app-analytics-services.com/]127.0.0.1:54
 [/app-measurement-cn.com/]127.0.0.1:54
 [/app-measurement.com/]127.0.0.1:54
 [/app-router.com/]127.0.0.1:54
@@ -21462,6 +21464,8 @@
 [/cheshipin.com/]127.0.0.1:54
 [/cheshirex.com/]127.0.0.1:54
 [/cheshizh.com/]127.0.0.1:54
+[/chesicc.com/]127.0.0.1:54
+[/chesicc.net/]127.0.0.1:54
 [/chesir.com/]127.0.0.1:54
 [/chesir.net/]127.0.0.1:54
 [/chestercharles.com/]127.0.0.1:54
@@ -30067,9 +30071,6 @@
 [/dissona.vip/]127.0.0.1:54
 [/distantmeaning.com/]127.0.0.1:54
 [/distinctclinic.com/]127.0.0.1:54
-[/distribution.qatp1.net/]127.0.0.1:54
-[/distribution.qcpp1.net/]127.0.0.1:54
-[/distribution.qpdp1.net/]127.0.0.1:54
 [/ditai.fun/]127.0.0.1:54
 [/ditan.com/]127.0.0.1:54
 [/ditan360.com/]127.0.0.1:54
@@ -31160,8 +31161,6 @@
 [/download.microsoft.com/]127.0.0.1:54
 [/download.msi.com/]127.0.0.1:54
 [/download.qatp1.net/]127.0.0.1:54
-[/download.qcpp1.net/]127.0.0.1:54
-[/download.qpdp1.net/]127.0.0.1:54
 [/download.visualstudio.microsoft.com/]127.0.0.1:54
 [/downloads.ltd/]127.0.0.1:54
 [/downok.com/]127.0.0.1:54
@@ -38795,6 +38794,8 @@
 [/gfan.com/]127.0.0.1:54
 [/gfanstore.com/]127.0.0.1:54
 [/gfbk.net/]127.0.0.1:54
+[/gfbzb.com/]127.0.0.1:54
+[/gfbzb.net/]127.0.0.1:54
 [/gfcdn.xyz/]127.0.0.1:54
 [/gfcity.com/]127.0.0.1:54
 [/gfcname.com/]127.0.0.1:54
@@ -50220,6 +50221,7 @@
 [/huaweicloud-dns.net/]127.0.0.1:54
 [/huaweicloud-dns.org/]127.0.0.1:54
 [/huaweicloud-idme.com/]127.0.0.1:54
+[/huaweicloud-koophone.com/]127.0.0.1:54
 [/huaweicloud-smn.com/]127.0.0.1:54
 [/huaweicloud-smn.net/]127.0.0.1:54
 [/huaweicloud.com/]127.0.0.1:54
@@ -70195,6 +70197,7 @@
 [/modb.cc/]127.0.0.1:54
 [/modb.pro/]127.0.0.1:54
 [/modelarts-infer.com/]127.0.0.1:54
+[/modelarts-maas.com/]127.0.0.1:54
 [/modelevel.com/]127.0.0.1:54
 [/modelltd.com/]127.0.0.1:54
 [/modelones.com/]127.0.0.1:54
@@ -70398,8 +70401,6 @@
 [/monhun.fun/]127.0.0.1:54
 [/monidai.com/]127.0.0.1:54
 [/monidata.com/]127.0.0.1:54
-[/monitoring.qatp1.net/]127.0.0.1:54
-[/monitoring.qcpp1.net/]127.0.0.1:54
 [/monitoring.qpdp1.net/]127.0.0.1:54
 [/monknow.com/]127.0.0.1:54
 [/monolink.net/]127.0.0.1:54
@@ -77260,7 +77261,6 @@
 [/play-cdn11.com/]127.0.0.1:54
 [/play-cdn14.com/]127.0.0.1:54
 [/play-cdn20.com/]127.0.0.1:54
-[/play.1ucrs.com/]127.0.0.1:54
 [/play.craft.moe/]127.0.0.1:54
 [/play.jinnantv.top/]127.0.0.1:54
 [/play.scrstv.com/]127.0.0.1:54
@@ -78349,8 +78349,6 @@
 [/qae3orq9we9t7.com/]127.0.0.1:54
 [/qaeczbxr.com/]127.0.0.1:54
 [/qagpublic.qatp1.net/]127.0.0.1:54
-[/qagpublic.qcpp1.net/]127.0.0.1:54
-[/qagpublic.qpdp1.net/]127.0.0.1:54
 [/qahzp.com/]127.0.0.1:54
 [/qajung.xyz/]127.0.0.1:54
 [/qakkan.vip/]127.0.0.1:54
@@ -78703,9 +78701,7 @@
 [/qg.net/]127.0.0.1:54
 [/qg108.com/]127.0.0.1:54
 [/qg3oed7882.com/]127.0.0.1:54
-[/qgadmin.qatp1.net/]127.0.0.1:54
 [/qgadmin.qcpp1.net/]127.0.0.1:54
-[/qgadmin.qpdp1.net/]127.0.0.1:54
 [/qgb2b.com/]127.0.0.1:54
 [/qgbnzb.com/]127.0.0.1:54
 [/qgbzyzl.com/]127.0.0.1:54
@@ -78736,6 +78732,7 @@
 [/qgyqshz.com/]127.0.0.1:54
 [/qgysj.org/]127.0.0.1:54
 [/qgyyzs.net/]127.0.0.1:54
+[/qgzb.net/]127.0.0.1:54
 [/qgzxx.com/]127.0.0.1:54
 [/qgzzz.com/]127.0.0.1:54
 [/qh-cdn.com/]127.0.0.1:54
@@ -80321,10 +80318,6 @@
 [/qualcomm.cn.cdn.cloudflare.net/]127.0.0.1:54
 [/qualtekgz.com/]127.0.0.1:54
 [/qualysapi.qatp1.net/]127.0.0.1:54
-[/qualysapi.qcpp1.net/]127.0.0.1:54
-[/qualysapi.qpdp1.net/]127.0.0.1:54
-[/qualysguard.qatp1.net/]127.0.0.1:54
-[/qualysguard.qcpp1.net/]127.0.0.1:54
 [/qualysguard.qpdp1.net/]127.0.0.1:54
 [/quan.mx/]127.0.0.1:54
 [/quan007.com/]127.0.0.1:54
@@ -83549,9 +83542,7 @@
 [/scaffi.com/]127.0.0.1:54
 [/scagz.com/]127.0.0.1:54
 [/scanfang.com/]127.0.0.1:54
-[/scanservice1.qatp1.net/]127.0.0.1:54
 [/scanservice1.qcpp1.net/]127.0.0.1:54
-[/scanservice1.qpdp1.net/]127.0.0.1:54
 [/scansmt.com/]127.0.0.1:54
 [/scanv.com/]127.0.0.1:54
 [/scarbbs.com/]127.0.0.1:54
@@ -84716,7 +84707,6 @@
 [/setdg.net/]127.0.0.1:54
 [/seteuid0.com/]127.0.0.1:54
 [/setshop.vip/]127.0.0.1:54
-[/settings.xn--9trs65b.com/]127.0.0.1:54
 [/seuic.com/]127.0.0.1:54
 [/seven-meters.com/]127.0.0.1:54
 [/seven7777.eu/]127.0.0.1:54
@@ -90373,7 +90363,6 @@
 [/supplierlist.com/]127.0.0.1:54
 [/supplywater.com/]127.0.0.1:54
 [/support-cn.samsung.com/]127.0.0.1:54
-[/support.1ucrs.com/]127.0.0.1:54
 [/supreme-oe.com/]127.0.0.1:54
 [/supuvalve.com/]127.0.0.1:54
 [/supwisdom.com/]127.0.0.1:54
@@ -93178,7 +93167,6 @@
 [/tesolsh.com/]127.0.0.1:54
 [/tesoon.com/]127.0.0.1:54
 [/test-cignacmb.com/]127.0.0.1:54
-[/test.bugs-qa.chromium.org/]127.0.0.1:54
 [/test.gbugs-qa.chromium.org/]127.0.0.1:54
 [/testbird.com/]127.0.0.1:54
 [/testcoo.com/]127.0.0.1:54
@@ -106267,7 +106255,6 @@
 [/xn--9et52u/]127.0.0.1:54
 [/xn--9kqx88aa0024cywe.org/]127.0.0.1:54
 [/xn--9kr72kqwe.com/]127.0.0.1:54
-[/xn--9kr7l.com/]127.0.0.1:54
 [/xn--9myo55bi8l.com/]127.0.0.1:54
 [/xn--9pr56vfna007k.com/]127.0.0.1:54
 [/xn--b0tn0sxy3ayhj.com/]127.0.0.1:54
@@ -113422,6 +113409,7 @@
 [/zbao.com/]127.0.0.1:54
 [/zbao56.com/]127.0.0.1:54
 [/zbbar.net/]127.0.0.1:54
+[/zbbm.net/]127.0.0.1:54
 [/zbbus.com/]127.0.0.1:54
 [/zbc.pub/]127.0.0.1:54
 [/zbc.wiki/]127.0.0.1:54

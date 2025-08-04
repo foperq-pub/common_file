@@ -30,20 +30,20 @@ jobs:
       - name: Download Contents
         run: |
           mkdir ./tmp
-          wget ${{ env.DIRECT_RULESET }} -O ./tmp/ruleset_direct.txt
+          wget ${{ env.DIRECT_RULESET }} -O ./tmp/raw_direct.txt
 
 
       - name: Process Contents
         run: |
-          # sed '/^#/d; ; /^IP-/d; /^PROCESS-NAME/d; /^DOMAIN-KEYWORD/d; s/DOMAIN,//g; s/DOMAIN-SUFFIX,//g; /^$/d' ./tmp/raw_direct.txt > ./tmp/list_direct.txt
-          python3 script/remove_domains.py ./tmp/ruleset_direct.txt ./customization/removed_domains.txt
+          sed '/^#/d; ; /^IP-/d; /^PROCESS-NAME/d; /^DOMAIN-KEYWORD/d; s/DOMAIN,//g; s/DOMAIN-SUFFIX,//g; /^$/d' ./tmp/raw_direct.txt > ./tmp/list_direct.txt
+          python3 script/remove_domains.py ./tmp/list_direct.txt ./customization/removed_domains.txt
 
       - name: Generate Common Files
         run: |
           cat ./customization/base_content.txt > ./result/agh_direct_alidns.txt
-          (echo "" && cat ./tmp/ruleset_direct.txt) >> ./result/agh_direct_alidns.txt
+          (echo "" && cat ./tmp/list_direct.txt) >> ./result/agh_direct_alidns.txt
           cat ./customization/base_content.txt > ./result/agh_direct_updns.txt
-          (echo "" && cat ./tmp/ruleset_direct.txt) >>  ./result/agh_direct_updns.txt
+          (echo "" && cat ./tmp/list_direct.txt) >>  ./result/agh_direct_updns.txt
           python3 script/gen_agh_file.py ./result/agh_direct_alidns.txt --dns ${{ env.ALI_DNS }}
           python3 script/gen_agh_file.py ./result/agh_direct_updns.txt --dns ${{ env.UPSTREAM_DNS }}
 

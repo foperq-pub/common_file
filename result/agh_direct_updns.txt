@@ -62,6 +62,7 @@
 [/apple-livephotoskit.com/]tls://223.5.5.5
 [/apzones.com/]tls://223.5.5.5
 [/akadns.net/]tls://223.5.5.5
+[/akamai.net/]tls://223.5.5.5
 [/akamaiedge.net/]tls://223.5.5.5
 [/aaplimg.com/]tls://223.5.5.5
 [/mzstatic.com/]tls://223.5.5.5
@@ -101435,7 +101436,6 @@
 [/whnfc.com/]127.0.0.1:54
 [/who.cx/]127.0.0.1:54
 [/who2o.com/]127.0.0.1:54
-[/whoami.akamai.net/]127.0.0.1:54
 [/whocool.com/]127.0.0.1:54
 [/whoisreminder.net/]127.0.0.1:54
 [/whoisspy.ai/]127.0.0.1:54

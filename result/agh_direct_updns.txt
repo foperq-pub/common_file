@@ -143,6 +143,8 @@
 [/apple/]tls://223.5.5.5
 [/apple.com/]tls://223.5.5.5
 [/apple.com.cn/]tls://223.5.5.5
+[/me.com/]tls://223.5.5.5
+[/mac.com/]tls://223.5.5.5
 [/icloud.com/]tls://223.5.5.5
 [/icloud.com.cn/]tls://223.5.5.5
 [/icloud-content.com/]tls://223.5.5.5

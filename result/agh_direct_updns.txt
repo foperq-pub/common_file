@@ -141,6 +141,7 @@
 [/ohttp-relay1.fastly-edge.com/]tls://223.5.5.5
 [/appldnld.apple.com.edgesuite.net/]tls://223.5.5.5
 [/apple/]tls://223.5.5.5
+[/apple.cn/]tls://223.5.5.5
 [/apple.com/]tls://223.5.5.5
 [/apple.com.cn/]tls://223.5.5.5
 [/me.com/]tls://223.5.5.5

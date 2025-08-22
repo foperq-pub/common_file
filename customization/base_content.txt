@@ -163,3 +163,4 @@
 [/mzstatic.com/]tls://223.5.5.5
 [/edgekey.net/]tls://223.5.5.5
 [/mzstatic.com/]tls://223.5.5.5
+[/detectportal.firefox.com/]tls://223.5.5.5

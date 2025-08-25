@@ -131,6 +131,7 @@
 [/stun.voipstunt.com/]tls://223.5.5.5
 [/stun.voxgratia.org/]tls://223.5.5.5
 [/stun.xten.com/]tls://223.5.5.5
+[/stun.1und1.de/]tls://223.5.5.5
 [/ocsp.digicert.com/]tls://223.5.5.5
 [/crl3.digicert.com/]tls://223.5.5.5
 [/crl4.digicert.com/]tls://223.5.5.5

@@ -10465,6 +10465,7 @@
 [/afarway.com/]223.5.5.5
 [/afca-asia.org/]223.5.5.5
 [/afcec.com/]223.5.5.5
+[/afcs.dell.com/]223.5.5.5
 [/afdian.com/]223.5.5.5
 [/afdian.net/]223.5.5.5
 [/afdiancdn.com/]223.5.5.5
@@ -23928,6 +23929,7 @@
 [/clickwifi.net/]223.5.5.5
 [/clidone.com/]223.5.5.5
 [/client51.com/]223.5.5.5
+[/clientperipherals.dell.com/]223.5.5.5
 [/clientservices.googleapis.com/]223.5.5.5
 [/clifford-hospital.org/]223.5.5.5
 [/cliffordtrading.com/]223.5.5.5
@@ -25853,7 +25855,6 @@
 [/copl.com.hk/]223.5.5.5
 [/copperalliance.asia/]223.5.5.5
 [/copperhome.net/]223.5.5.5
-[/copy-manga.com/]223.5.5.5
 [/copyedu.com/]223.5.5.5
 [/copyfuture.com/]223.5.5.5
 [/copyswisswatches.com/]223.5.5.5
@@ -27541,6 +27542,7 @@
 [/cusdvs.com/]223.5.5.5
 [/cusdvs.net/]223.5.5.5
 [/custeel.com/]223.5.5.5
+[/customization-cdn.dell.com/]223.5.5.5
 [/customizedfasteners.com/]223.5.5.5
 [/customsapp.com/]223.5.5.5
 [/custouch.com/]223.5.5.5
@@ -29149,6 +29151,7 @@
 [/ddpai.com/]223.5.5.5
 [/ddpoc.com/]223.5.5.5
 [/ddqcw.com/]223.5.5.5
+[/dds.dell.com/]223.5.5.5
 [/ddsaas.com/]223.5.5.5
 [/ddsiojf.xyz/]223.5.5.5
 [/ddsk.la/]223.5.5.5
@@ -29356,6 +29359,7 @@
 [/delixidrive.com/]223.5.5.5
 [/deliyun.com/]223.5.5.5
 [/dell-alw.com/]223.5.5.5
+[/dell-brand.com/]223.5.5.5
 [/dell027.com/]223.5.5.5
 [/dellecs.com/]223.5.5.5
 [/dellemc-solution.com/]223.5.5.5
@@ -30570,6 +30574,7 @@
 [/dl-meitu.com/]223.5.5.5
 [/dl-rc.com/]223.5.5.5
 [/dl.delivery.mp.microsoft.com/]223.5.5.5
+[/dl.dell.com/]223.5.5.5
 [/dl.google.com/]223.5.5.5
 [/dl.l.google.com/]223.5.5.5
 [/dl0728.com/]223.5.5.5
@@ -32664,6 +32669,9 @@
 [/ea-china.com/]223.5.5.5
 [/ea-retina.com/]223.5.5.5
 [/ea-xing.com/]223.5.5.5
+[/ea2cn-dev-outlet.dell.com/]223.5.5.5
+[/ea2cn-prod-outlet.dell.com/]223.5.5.5
+[/ea2cn-staging-outlet.dell.com/]223.5.5.5
 [/ea360.com/]223.5.5.5
 [/ea3w.com/]223.5.5.5
 [/eabax.com/]223.5.5.5
@@ -35438,6 +35446,7 @@
 [/fcpowerup.com/]223.5.5.5
 [/fcqjc.com/]223.5.5.5
 [/fcrc114.com/]223.5.5.5
+[/fcs.dell.com/]223.5.5.5
 [/fcs1.com/]223.5.5.5
 [/fcsc.com/]223.5.5.5
 [/fcsccz.com/]223.5.5.5
@@ -37260,7 +37269,11 @@
 [/ft3e.com/]223.5.5.5
 [/ft77.com/]223.5.5.5
 [/ft98.com/]223.5.5.5
+[/fta.dell.com/]223.5.5.5
+[/ftaapj.dell.com/]223.5.5.5
+[/ftaemea.dell.com/]223.5.5.5
 [/ftaro.com/]223.5.5.5
+[/ftasitapj.dell.com/]223.5.5.5
 [/ftbj.net/]223.5.5.5
 [/ftcoaster.com/]223.5.5.5
 [/ftd.nz/]223.5.5.5
@@ -37436,6 +37449,7 @@
 [/functionads.com/]223.5.5.5
 [/functionaltextilesshanghai.com/]223.5.5.5
 [/functioncool.com/]223.5.5.5
+[/functiongraph.run/]223.5.5.5
 [/fund001.com/]223.5.5.5
 [/fundebug.com/]223.5.5.5
 [/fundebug.net/]223.5.5.5
@@ -38400,6 +38414,8 @@
 [/gbtranswins.com/]223.5.5.5
 [/gbvh.com/]223.5.5.5
 [/gbw114.com/]223.5.5.5
+[/gbxgateway-dev.dell.com/]223.5.5.5
+[/gbxgateway.dell.com/]223.5.5.5
 [/gc-zb.com/]223.5.5.5
 [/gc0771.com/]223.5.5.5
 [/gc1616.com/]223.5.5.5
@@ -68095,9 +68111,7 @@
 [/manfred-auto.com/]223.5.5.5
 [/manfrottoclub.com/]223.5.5.5
 [/manga.bilibili.com/]223.5.5.5
-[/mangacopy.com/]223.5.5.5
 [/mangafuna.xyz/]223.5.5.5
-[/mangafunb.fun/]223.5.5.5
 [/manganesenanhai.com/]223.5.5.5
 [/mangg.com/]223.5.5.5
 [/mangguo.com/]223.5.5.5
@@ -77638,6 +77652,7 @@
 [/plateno.com/]223.5.5.5
 [/platenogroup.com/]223.5.5.5
 [/platform-cn.com/]223.5.5.5
+[/platform.dell.com/]223.5.5.5
 [/platinum-traveller.com/]223.5.5.5
 [/platinumchina.com/]223.5.5.5
 [/play-analytics.com/]223.5.5.5
@@ -82583,6 +82598,7 @@
 [/robam.com/]223.5.5.5
 [/robei.com/]223.5.5.5
 [/roboeyeai.com/]223.5.5.5
+[/robomaster.com/]223.5.5.5
 [/roboo.com/]223.5.5.5
 [/robook.com/]223.5.5.5
 [/robopeak.net/]223.5.5.5
@@ -84119,6 +84135,7 @@
 [/sceeo.com/]223.5.5.5
 [/sceia.org/]223.5.5.5
 [/scemrq.com/]223.5.5.5
+[/scene7-cdn.dell.com/]223.5.5.5
 [/scengine.com/]223.5.5.5
 [/scenictc.com/]223.5.5.5
 [/scensmart.com/]223.5.5.5
@@ -87872,6 +87889,7 @@
 [/si-era.com/]223.5.5.5
 [/si-in.com/]223.5.5.5
 [/si-win.com/]223.5.5.5
+[/si.cdn.dell.com/]223.5.5.5
 [/sia1995.net/]223.5.5.5
 [/siad-c.com/]223.5.5.5
 [/siaedu.net/]223.5.5.5
@@ -88857,6 +88875,7 @@
 [/sm-check.com/]223.5.5.5
 [/sm-cq.com/]223.5.5.5
 [/sm-main.com/]223.5.5.5
+[/sm.dell.com/]223.5.5.5
 [/sm0.fun/]223.5.5.5
 [/sm160.com/]223.5.5.5
 [/sm160.net/]223.5.5.5
@@ -89166,6 +89185,8 @@
 [/snowkey.com/]223.5.5.5
 [/snowlotusgroup.com/]223.5.5.5
 [/snowyimall.com/]223.5.5.5
+[/snp.cdn.dell.com/]223.5.5.5
+[/snpi.dell.com/]223.5.5.5
 [/snps.tech/]223.5.5.5
 [/snptc.com/]223.5.5.5
 [/snrat.com/]223.5.5.5
@@ -91013,6 +91034,7 @@
 [/supplywater.com/]223.5.5.5
 [/support-cn.samsung.com/]223.5.5.5
 [/support.amd.com/]223.5.5.5
+[/supportassist.dell.com/]223.5.5.5
 [/supreme-oe.com/]223.5.5.5
 [/supuvalve.com/]223.5.5.5
 [/supwisdom.com/]223.5.5.5
@@ -103382,13 +103404,13 @@
 [/www-4466666.com/]223.5.5.5
 [/www-666789.com/]223.5.5.5
 [/www-76244.com/]223.5.5.5
+[/www-csb.dell.com/]223.5.5.5
 [/www-google-analytics.l.google.com/]223.5.5.5
 [/www-googletagmanager.l.google.com/]223.5.5.5
 [/www.adobe.com/]223.5.5.5
 [/www.amd.com/]223.5.5.5
 [/www.cg/]223.5.5.5
 [/www.com.my/]223.5.5.5
-[/www.dell-brand.com/]223.5.5.5
 [/www.dell.com/]223.5.5.5
 [/www.destinationurl.com/]223.5.5.5
 [/www.djivideos.com/]223.5.5.5

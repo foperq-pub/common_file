@@ -182,6 +182,11 @@
 [/steambroadcast.akamaized.net/]tls://223.5.5.5
 [/steampipe.akamaized.net/]tls://223.5.5.5
 [/steampipe-partner.akamaized.net/]tls://223.5.5.5
+[/2k.com/]tls://223.5.5.5
+[/2kct.onl/]tls://223.5.5.5
+[/firaxislive.com/]tls://223.5.5.5
+[/civilization.com/]tls://223.5.5.5
+[/2kcoretech.online/]tls://223.5.5.5
 [/0.zone/]127.0.0.1:54
 [/00.net/]127.0.0.1:54
 [/000.link/]127.0.0.1:54

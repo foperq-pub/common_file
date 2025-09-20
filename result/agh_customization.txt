@@ -8,3 +8,13 @@
 ! 2k game
 ||telemetryk.api.2kcoretech.online^
 ||telemetryk.prod1-telemetry-prod.2kct.onl^
+! other
+||nebula^
+||example.org^
+||openai.com^
+||sentry.io^
+||chatgpt.com^
+||google.com^
+||googleapis.com^
+||steamcommunity.com^
+||epdg.epc.mnc015.mcc208.pub.3gppnetwork.org^

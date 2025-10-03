@@ -1,6 +1,12 @@
 !
 ! agh customiztion file
 !
+! whitelist part
+@@||loggw-ex.alipay.com^
+@@||dns.weixin.qq.com.cn^
+@@||dns.weixin.qq.com^
+@@||amdc.alipay.com^
+! block part
 ||waapdg.jd.com^
 ||jddebug.com^
 ! could be wrong

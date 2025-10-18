@@ -12386,6 +12386,7 @@
 [/apcups.org/]127.0.0.1:54
 [/apcupse.com/]127.0.0.1:54
 [/apdcdn.com/]127.0.0.1:54
+[/apdcdn.net/]127.0.0.1:54
 [/ape8.com/]127.0.0.1:54
 [/apearth.com/]127.0.0.1:54
 [/apecome.com/]127.0.0.1:54
@@ -14855,6 +14856,7 @@
 [/bdkyr.com/]127.0.0.1:54
 [/bdlcqjw.com/]127.0.0.1:54
 [/bdmozon.com/]127.0.0.1:54
+[/bdmyandex.com/]127.0.0.1:54
 [/bdns-api-test.net/]127.0.0.1:54
 [/bdns-boe.com/]127.0.0.1:54
 [/bdns-boe.net/]127.0.0.1:54
@@ -18302,6 +18304,7 @@
 [/bytetstatic.net/]127.0.0.1:54
 [/byteug.com/]127.0.0.1:54
 [/bytevalk.com/]127.0.0.1:54
+[/bytevcloudapi.com/]127.0.0.1:54
 [/bytevcloudvod.com/]127.0.0.1:54
 [/bytevdn-boe.com/]127.0.0.1:54
 [/bytevdn.com/]127.0.0.1:54
@@ -22579,6 +22582,7 @@
 [/chomixbiotech.com/]127.0.0.1:54
 [/chong-wu.net/]127.0.0.1:54
 [/chong4.net/]127.0.0.1:54
+[/chongbuluo.com/]127.0.0.1:54
 [/chongchi.com/]127.0.0.1:54
 [/chongchuang.biz/]127.0.0.1:54
 [/chongdawang.com/]127.0.0.1:54
@@ -25390,6 +25394,7 @@
 [/coyotebio-lab.com/]127.0.0.1:54
 [/coyuk.com/]127.0.0.1:54
 [/coyuns.net/]127.0.0.1:54
+[/coze.site/]127.0.0.1:54
 [/cozonenet.com/]127.0.0.1:54
 [/cp-keji.com/]127.0.0.1:54
 [/cp0556.com/]127.0.0.1:54
@@ -29841,6 +29846,7 @@
 [/djgy.com/]127.0.0.1:54
 [/djhxn.com/]127.0.0.1:54
 [/dji.com/]127.0.0.1:54
+[/dji.ink/]127.0.0.1:54
 [/dji.net/]127.0.0.1:54
 [/djiang.net/]127.0.0.1:54
 [/djiavip.com/]127.0.0.1:54
@@ -48673,6 +48679,7 @@
 [/hspharm.com/]127.0.0.1:54
 [/hspm.net/]127.0.0.1:54
 [/hspress.net/]127.0.0.1:54
+[/hsqh.net/]127.0.0.1:54
 [/hsqhfunds.com/]127.0.0.1:54
 [/hsqhospital.com/]127.0.0.1:54
 [/hsqjfw.com/]127.0.0.1:54
@@ -51297,7 +51304,9 @@
 [/ibbwhat.com/]127.0.0.1:54
 [/ibcet.org/]127.0.0.1:54
 [/ibczy.com/]127.0.0.1:54
+[/ibdxiguaimg.com/]127.0.0.1:54
 [/ibdxigualive.com/]127.0.0.1:54
+[/ibdxiguastatic.com/]127.0.0.1:54
 [/ibdxiguavod.com/]127.0.0.1:54
 [/ibeidiao.com/]127.0.0.1:54
 [/ibeifeng.com/]127.0.0.1:54
@@ -66755,6 +66764,7 @@
 [/maotuying.com/]127.0.0.1:54
 [/maowotao.com/]127.0.0.1:54
 [/maoxia007.com/]127.0.0.1:54
+[/maoxiangai.com/]127.0.0.1:54
 [/maoxinhang.com/]127.0.0.1:54
 [/maoxinquan.net/]127.0.0.1:54
 [/maoxiongtv.com/]127.0.0.1:54
@@ -67094,6 +67104,7 @@
 [/mc91.com/]127.0.0.1:54
 [/mc9y.net/]127.0.0.1:54
 [/mcake.com/]127.0.0.1:54
+[/mcbaas.work/]127.0.0.1:54
 [/mcbang.com/]127.0.0.1:54
 [/mcbao.com/]127.0.0.1:54
 [/mcbbs.co/]127.0.0.1:54
@@ -67109,6 +67120,7 @@
 [/mccshhospital.com/]127.0.0.1:54
 [/mcd.cc/]127.0.0.1:54
 [/mcdchina.net/]127.0.0.1:54
+[/mcdemo.show/]127.0.0.1:54
 [/mcdsusan.com/]127.0.0.1:54
 [/mcdvisa.com/]127.0.0.1:54
 [/mce.msi.com/]127.0.0.1:54
@@ -70187,6 +70199,7 @@
 [/myp17.com/]127.0.0.1:54
 [/myp2pch.net/]127.0.0.1:54
 [/mypaas.com/]127.0.0.1:54
+[/myparallelstory.com/]127.0.0.1:54
 [/mypcrun.com/]127.0.0.1:54
 [/mypethome.com/]127.0.0.1:54
 [/mypharma.com/]127.0.0.1:54
@@ -75851,6 +75864,7 @@
 [/pixcakes.com/]127.0.0.1:54
 [/pixe44lrifted.com/]127.0.0.1:54
 [/pixelauth.com/]127.0.0.1:54
+[/pixeldance.com/]127.0.0.1:54
 [/pixelgame.net/]127.0.0.1:54
 [/pixepf.sbs/]127.0.0.1:54
 [/pixiaojiang.com/]127.0.0.1:54
@@ -91548,6 +91562,7 @@
 [/tctran.com/]127.0.0.1:54
 [/tctz.com/]127.0.0.1:54
 [/tcvywoh.com/]127.0.0.1:54
+[/tcwqqdy.guru/]127.0.0.1:54
 [/tcwt.net/]127.0.0.1:54
 [/tcxmt.com/]127.0.0.1:54
 [/tcxw.cc/]127.0.0.1:54
@@ -93881,6 +93896,7 @@
 [/tradow.com/]127.0.0.1:54
 [/tradplus.com/]127.0.0.1:54
 [/tradplusad.com/]127.0.0.1:54
+[/trae.guru/]127.0.0.1:54
 [/trafstore.com/]127.0.0.1:54
 [/traineexp.com/]127.0.0.1:54
 [/trainingipv6.com/]127.0.0.1:54

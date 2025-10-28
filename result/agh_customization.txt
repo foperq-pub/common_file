@@ -15,11 +15,13 @@
 ||telemetryk.api.2kcoretech.online^
 ||telemetryk.prod1-telemetry-prod.2kct.onl^
 ! other
+||google^
 ||nebula^
 ||example.org^
 ||openai.com^
 ||sentry.io^
 ||chatgpt.com^
+||facebook.com^
 ||google.com^
 ||googleapis.com^
 ||steamcommunity.com^

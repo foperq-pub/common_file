@@ -28363,8 +28363,14 @@
 [/dcloud.io/]127.0.0.1:54
 [/dcloud.xin/]127.0.0.1:54
 [/dcloudlive.com/]127.0.0.1:54
+[/dcloudlive.net/]127.0.0.1:54
 [/dclouds.cloud/]127.0.0.1:54
+[/dcloudsp.com/]127.0.0.1:54
+[/dcloudsp.net/]127.0.0.1:54
 [/dcloudstc.com/]127.0.0.1:54
+[/dcloudstc.net/]127.0.0.1:54
+[/dcloudvod.com/]127.0.0.1:54
+[/dcloudvod.net/]127.0.0.1:54
 [/dclygroup.com/]127.0.0.1:54
 [/dcmagcn.com/]127.0.0.1:54
 [/dcmk17.com/]127.0.0.1:54
@@ -46140,7 +46146,10 @@
 [/herllamo.com/]127.0.0.1:54
 [/hermod1.com/]127.0.0.1:54
 [/hero-geek.com/]127.0.0.1:54
+[/hero.com/]127.0.0.1:54
 [/herocoming.com/]127.0.0.1:54
+[/heroesports.com/]127.0.0.1:54
+[/herogame.com/]127.0.0.1:54
 [/herohr.net/]127.0.0.1:54
 [/heroic-ltd.com/]127.0.0.1:54
 [/heroje.com/]127.0.0.1:54
@@ -85892,6 +85901,7 @@
 [/shyuzhai.com/]127.0.0.1:54
 [/shywly.com/]127.0.0.1:54
 [/shyx-bio.com/]127.0.0.1:54
+[/shyxhy.com/]127.0.0.1:54
 [/shyxi5.com/]127.0.0.1:54
 [/shyxwz.com/]127.0.0.1:54
 [/shyy6688.com/]127.0.0.1:54

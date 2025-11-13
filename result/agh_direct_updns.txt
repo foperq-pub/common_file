@@ -27350,6 +27350,7 @@
 [/cztv.cc/]127.0.0.1:54
 [/cztv.com/]127.0.0.1:54
 [/cztv.tv/]127.0.0.1:54
+[/cztvcdn.com/]127.0.0.1:54
 [/cztvcloud.com/]127.0.0.1:54
 [/cztzkg.com/]127.0.0.1:54
 [/czur.com/]127.0.0.1:54
@@ -38214,6 +38215,7 @@
 [/geekmaker.com/]127.0.0.1:54
 [/geekman.vip/]127.0.0.1:54
 [/geeknev.com/]127.0.0.1:54
+[/geekpark/]127.0.0.1:54
 [/geekpark.net/]127.0.0.1:54
 [/geekpwn.org/]127.0.0.1:54
 [/geeksblog.cc/]127.0.0.1:54
@@ -92803,7 +92805,6 @@
 [/tinyyuan.com/]127.0.0.1:54
 [/tipaipai.com/]127.0.0.1:54
 [/tipask.com/]127.0.0.1:54
-[/tipdim.org/]127.0.0.1:54
 [/tipdm.com/]127.0.0.1:54
 [/tipdm.org/]127.0.0.1:54
 [/tipray.com/]127.0.0.1:54

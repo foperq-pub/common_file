@@ -116968,3 +116968,7 @@
 [/zzzyyy.com/]127.0.0.1:54
 [/zzzzaaaa.com/]127.0.0.1:54
 [/zzzzzz.me/]127.0.0.1:54
+[/# add domains here (one per line) to be appended to generated agh files using `add_domains.py`./]127.0.0.1:54
+[/# lines starting with '#' are ignored. example:/]127.0.0.1:54
+[/# other/]127.0.0.1:54
+[/allsaints.top/]127.0.0.1:54

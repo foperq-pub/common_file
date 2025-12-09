@@ -15,6 +15,7 @@
 ||telemetryk.api.2kcoretech.online^
 ||telemetryk.prod1-telemetry-prod.2kct.onl^
 ! other
+||cmd^
 ||google^
 ||nebula^
 ||example.org^

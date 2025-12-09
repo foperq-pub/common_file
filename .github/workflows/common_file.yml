@@ -36,7 +36,7 @@ jobs:
       - name: Process Contents
         run: |
           sed '/^#/d; ; /^IP-/d; /^PROCESS-NAME/d; /^DOMAIN-KEYWORD/d; s/DOMAIN,//g; s/DOMAIN-SUFFIX,//g; /^$/d' ./tmp/raw_direct.txt > ./tmp/list_direct.txt
-          python3 script/remove_domains.py ./tmp/list_direct.txt ./customization/removed_domains.txt
+          python3 script/remove_domains.py ./tmp/list_direct.txt ./customization/domains_to_remove.txt
 
       - name: Generate Common Files
         run: |
@@ -44,6 +44,10 @@ jobs:
           (echo "" && cat ./tmp/list_direct.txt) >> ./result/agh_direct_alidns.txt
           cat ./customization/base_content.txt > ./result/agh_direct_updns.txt
           (echo "" && cat ./tmp/list_direct.txt) >>  ./result/agh_direct_updns.txt
+          # Optionally add curated domains to results (no-op if file empty)
+          python3 script/add_domains.py ./customization/domains_to_add.txt --to ./result/agh_direct_alidns.txt --dns ${{ env.ALI_DNS }} --dry-run || true
+          python3 script/add_domains.py ./customization/domains_to_add.txt --to ./result/agh_direct_updns.txt --dns ${{ env.UPSTREAM_DNS }} --dry-run || true
+          # Generate AGH-format files
           python3 script/gen_agh_file.py ./result/agh_direct_alidns.txt --dns ${{ env.ALI_DNS }}
           python3 script/gen_agh_file.py ./result/agh_direct_updns.txt --dns ${{ env.UPSTREAM_DNS }}
 

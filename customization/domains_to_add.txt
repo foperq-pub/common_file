@@ -1,0 +1,4 @@
+# Add domains here (one per line) to be appended to generated AGH files using `add_domains.py`.
+# Lines starting with '#' are ignored. Example:
+# other
+allsaints.top

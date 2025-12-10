@@ -16,7 +16,8 @@ from pathlib import Path
 
 def read_domains_file(path):
     with open(path, 'r') as f:
-        return [line.strip() for line in f if line.strip()]
+        # ignore empty lines and comments starting with '#'
+        return [line.strip() for line in f if line.strip() and not line.strip().startswith('#')]
 
 
 def extract_domain_from_line(line):
@@ -128,7 +129,9 @@ def main():
     parsed = []
     for d in domains:
         ed = extract_domain_from_line(d)
-        parsed.append(ed if ed else d.strip().lower())
+        if ed:
+            parsed.append(ed)
+        # if ed is None the line was not a domain (or was a comment); skip it
 
     add_domains(parsed, args.target, args.dns, position=args.position, backup=args.backup, dry_run=args.dry_run)
 

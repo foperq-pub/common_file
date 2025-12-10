@@ -6,7 +6,8 @@ from pathlib import Path
 
 def read_list_file(path):
     with open(path, 'r') as f:
-        return [line.strip() for line in f if line.strip()]
+        # ignore empty lines and comments starting with '#'
+        return [line.strip() for line in f if line.strip() and not line.strip().startswith('#')]
 
 
 def extract_domain_from_line(line):

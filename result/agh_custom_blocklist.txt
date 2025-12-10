@@ -12,6 +12,8 @@
 !! 2k game
 ||telemetryk.api.2kcoretech.online^
 ||telemetryk.prod1-telemetry-prod.2kct.onl^
+!! xiaomi
+||api.miwifi.com^
 !! other
 ||cmd^
 ||google^

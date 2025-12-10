@@ -5,6 +5,8 @@
 !! alibaba
 @@||amdc.alipay.com^
 @@||loggw-ex.alipay.com^
+!! apple
+@@||metrics.icloud.com^
 !! tencent
 @@||dns.weixin.qq.com^
 @@||dns.weixin.qq.com.cn^

@@ -287,6 +287,7 @@
 [/crl.pki.goog/]127.0.0.1:54
 [/crls.pki.goog/]127.0.0.1:54
 [/csi.gstatic.com/]127.0.0.1:54
+[/ctdsb.clouddiffuse.xyz/]127.0.0.1:54
 [/ctldl.windowsupdate.com/]127.0.0.1:54
 [/cueme-api.quark.cn/]127.0.0.1:54
 [/customization-cdn.dell.com/]127.0.0.1:54
@@ -13430,6 +13431,7 @@
 [/anhuisjx.com/]127.0.0.1:54
 [/anhuisuya.com/]127.0.0.1:54
 [/anhuiwine.com/]127.0.0.1:54
+[/anhuiyun.com/]127.0.0.1:54
 [/anhuizk.com/]127.0.0.1:54
 [/ani-sh.com/]127.0.0.1:54
 [/aniccw.net/]127.0.0.1:54

@@ -287,6 +287,7 @@
 [/crl.pki.goog/]223.5.5.5
 [/crls.pki.goog/]223.5.5.5
 [/csi.gstatic.com/]223.5.5.5
+[/ctdsb.clouddiffuse.xyz/]223.5.5.5
 [/ctldl.windowsupdate.com/]223.5.5.5
 [/cueme-api.quark.cn/]223.5.5.5
 [/customization-cdn.dell.com/]223.5.5.5
@@ -13430,6 +13431,7 @@
 [/anhuisjx.com/]223.5.5.5
 [/anhuisuya.com/]223.5.5.5
 [/anhuiwine.com/]223.5.5.5
+[/anhuiyun.com/]223.5.5.5
 [/anhuizk.com/]223.5.5.5
 [/ani-sh.com/]223.5.5.5
 [/aniccw.net/]223.5.5.5

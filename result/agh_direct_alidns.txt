@@ -393,6 +393,7 @@
 [/images-cn-8.ssl-images-amazon.com/]223.5.5.5
 [/images-cn.ssl-images-amazon.com/]223.5.5.5
 [/imasdk.googleapis.com/]223.5.5.5
+[/izattime.qcomgeo2.com/]223.5.5.5
 [/ksn-cinfo-geo.kaspersky-labs.com/]223.5.5.5
 [/ksn-cinfo.geoksn.kaspersky.com/]223.5.5.5
 [/ksn-crypto-info-geo.kaspersky-labs.com/]223.5.5.5
@@ -596,6 +597,7 @@
 [/www.recaptcha.net/]223.5.5.5
 [/www4-static.gog-statics.com/]223.5.5.5
 [/xn--flw351e.com/]223.5.5.5
+[/xtratime.qcomgeo2.com/]223.5.5.5
 [/xz.pphimalayanrt.com/]223.5.5.5
 [/0.zone/]223.5.5.5
 [/00.net/]223.5.5.5
@@ -66411,7 +66413,6 @@
 [/lousj.com/]223.5.5.5
 [/lousw.com/]223.5.5.5
 [/louyue.com/]223.5.5.5
-[/lovart.ai/]223.5.5.5
 [/lovcuty.com/]223.5.5.5
 [/love-freedom.com/]223.5.5.5
 [/love-math-edu.com/]223.5.5.5

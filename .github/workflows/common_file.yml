@@ -30,7 +30,7 @@ jobs:
       - name: Download Contents
         run: |
           mkdir ./tmp
-          curl -sSL "${{ env.DIRECT_RULESET }}" > ./tmp/raw_direct.txt
+          curl -sSL "${{ env.DIRECT_RULESET }}" > ./tmp/list_direct.txt
 
       - name: Generate Files
         run: |

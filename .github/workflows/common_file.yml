@@ -15,9 +15,11 @@ jobs:
       run:
         shell: bash
     env:
-      ALI_DNS:          223.5.5.5
-      UPSTREAM_DNS:     127.0.0.1:54
-      DIRECT_RULESET:   https://is.gd/tuzJiT
+      ALI_DNS:                      223.5.5.5
+      UPSTREAM_DNS:                 127.0.0.1:54
+      # LAN_DOMAINS:                  https://is.gd/VC7Ieb
+      DIRECT_DOMAINS_WITHOUT_LAN:   https://is.gd/na2nLa
+
 
     steps:
       - name: Checkout the "master" branch of this repo
@@ -30,7 +32,7 @@ jobs:
       - name: Download Contents
         run: |
           mkdir ./tmp
-          curl -sSL "${{ env.DIRECT_RULESET }}" > ./tmp/list_direct.txt
+          curl -sSL "${{ env.DIRECT_DOMAINS_WITHOUT_LAN }}" > ./tmp/list_direct.txt
 
       - name: Generate Files
         run: |

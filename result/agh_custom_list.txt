@@ -30,5 +30,8 @@
 ||steamcommunity.com^
 ||time.cloudflare.com^
 ||epdg.epc.mnc015.mcc208.pub.3gppnetwork.org^
-!!! Unkown
+!! Unkown
 ||shpqfreason.bond^
+! dns rewrite
+||_dns-sd._udp.lan^$dnsrewrite=NXDOMAIN;;
+||_dns-sd._udp.0.66.168.192.in-addr.arpa^$dnsrewrite=NXDOMAIN;;

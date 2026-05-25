@@ -1886,7 +1886,6 @@
 [/1hkt.com/]127.0.0.1:54
 [/1hourlife.com/]127.0.0.1:54
 [/1hshop.com/]127.0.0.1:54
-[/1huamu.com/]127.0.0.1:54
 [/1huizhan.com/]127.0.0.1:54
 [/1ij6ut.com/]127.0.0.1:54
 [/1iptv.com/]127.0.0.1:54
@@ -6687,7 +6686,6 @@
 [/aecbattery.com/]127.0.0.1:54
 [/aecc-mall.com/]127.0.0.1:54
 [/aecichina.com/]127.0.0.1:54
-[/aecsian.com/]127.0.0.1:54
 [/aeenergy.com/]127.0.0.1:54
 [/aeenets.com/]127.0.0.1:54
 [/aeespace.com/]127.0.0.1:54
@@ -20590,7 +20588,6 @@
 [/daxishi.com/]127.0.0.1:54
 [/daxitouzi.com/]127.0.0.1:54
 [/daxuecidian.com/]127.0.0.1:54
-[/daxuecn.com/]127.0.0.1:54
 [/daxuejiayou.com/]127.0.0.1:54
 [/daxuepc.com/]127.0.0.1:54
 [/daxuesoutijiang.com/]127.0.0.1:54
@@ -22054,6 +22051,7 @@
 [/dnspod.org/]127.0.0.1:54
 [/dnsrw.com/]127.0.0.1:54
 [/dnss.vip/]127.0.0.1:54
+[/dnssina.com/]127.0.0.1:54
 [/dnstest.vip/]127.0.0.1:54
 [/dnsurl.net/]127.0.0.1:54
 [/dnsv1.com/]127.0.0.1:54
@@ -34666,7 +34664,6 @@
 [/hexin-puleather.com/]127.0.0.1:54
 [/hexinchemical.com/]127.0.0.1:54
 [/hexindai.com/]127.0.0.1:54
-[/hexinli.org/]127.0.0.1:54
 [/hexinwanjia.com/]127.0.0.1:54
 [/hexiny.com/]127.0.0.1:54
 [/hexinyu.com/]127.0.0.1:54
@@ -38743,6 +38740,7 @@
 [/ichika.cc/]127.0.0.1:54
 [/ichinaceo.com/]127.0.0.1:54
 [/ichongdao.com/]127.0.0.1:54
+[/ichongqing.info/]127.0.0.1:54
 [/ichtcm.com/]127.0.0.1:54
 [/ichuanglan.com/]127.0.0.1:54
 [/ichuangye.com/]127.0.0.1:54
@@ -39297,7 +39295,6 @@
 [/ijovo.com/]127.0.0.1:54
 [/ijsi.org/]127.0.0.1:54
 [/ijson.com/]127.0.0.1:54
-[/ijsp.net/]127.0.0.1:54
 [/ijuanshi.com/]127.0.0.1:54
 [/ijuer.com/]127.0.0.1:54
 [/ijuhepay.com/]127.0.0.1:54
@@ -44189,7 +44186,6 @@
 [/jxdxxt.com/]127.0.0.1:54
 [/jxdyf.com/]127.0.0.1:54
 [/jxdyyy.com/]127.0.0.1:54
-[/jxdzx.com/]127.0.0.1:54
 [/jxeca.com/]127.0.0.1:54
 [/jxedgroup.com/]127.0.0.1:54
 [/jxedt.com/]127.0.0.1:54
@@ -58246,6 +58242,7 @@
 [/qhcswhh.com/]127.0.0.1:54
 [/qhd-marathon.com/]127.0.0.1:54
 [/qhd.net/]127.0.0.1:54
+[/qhdast.com/]127.0.0.1:54
 [/qhderwei.com/]127.0.0.1:54
 [/qhdgjj.com/]127.0.0.1:54
 [/qhdjgyy.com/]127.0.0.1:54
@@ -58340,7 +58337,6 @@
 [/qianfanwanmu.com/]127.0.0.1:54
 [/qianfanyun.com/]127.0.0.1:54
 [/qianfeng.com/]127.0.0.1:54
-[/qiang100.com/]127.0.0.1:54
 [/qiangchuan.com/]127.0.0.1:54
 [/qiangfu.xyz/]127.0.0.1:54
 [/qianggen.net/]127.0.0.1:54
@@ -59149,6 +59145,7 @@
 [/qnqcdn.net/]127.0.0.1:54
 [/qnsdk.com/]127.0.0.1:54
 [/qnssl.com/]127.0.0.1:54
+[/qnvip.com/]127.0.0.1:54
 [/qnvipmall.com/]127.0.0.1:54
 [/qnydns.com/]127.0.0.1:54
 [/qnydns.net/]127.0.0.1:54
@@ -61278,7 +61275,6 @@
 [/runjf.com/]127.0.0.1:54
 [/runjian.com/]127.0.0.1:54
 [/runjiapp.com/]127.0.0.1:54
-[/runkodo.com/]127.0.0.1:54
 [/runkunoptics.com/]127.0.0.1:54
 [/runmang.com/]127.0.0.1:54
 [/runnar.com/]127.0.0.1:54
@@ -66550,6 +66546,7 @@
 [/sqphb.com/]127.0.0.1:54
 [/sqqmall.com/]127.0.0.1:54
 [/sqqmtj.com/]127.0.0.1:54
+[/sqrc.net/]127.0.0.1:54
 [/sqrcw.com/]127.0.0.1:54
 [/sqreader.com/]127.0.0.1:54
 [/sqrush.com/]127.0.0.1:54
@@ -87960,7 +87957,6 @@
 [/zqgreen.com/]127.0.0.1:54
 [/zqhuahui.com/]127.0.0.1:54
 [/zqhuwkc.com/]127.0.0.1:54
-[/zqic.net/]127.0.0.1:54
 [/zqids.com/]127.0.0.1:54
 [/zqjcedu.com/]127.0.0.1:54
 [/zqjiese.com/]127.0.0.1:54

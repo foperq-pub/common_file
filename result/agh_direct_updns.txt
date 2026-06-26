@@ -20791,7 +20791,6 @@
 [/de0.cc/]127.0.0.1:54
 [/de1000.com/]127.0.0.1:54
 [/de123.net/]127.0.0.1:54
-[/de1919.com/]127.0.0.1:54
 [/deadnine.com/]127.0.0.1:54
 [/deafchina.com/]127.0.0.1:54
 [/deahu.com/]127.0.0.1:54
@@ -25298,6 +25297,7 @@
 [/favang.com/]127.0.0.1:54
 [/favdeb.com/]127.0.0.1:54
 [/favopen.com/]127.0.0.1:54
+[/favoreducation.com/]127.0.0.1:54
 [/favorites.ren/]127.0.0.1:54
 [/faw-vw.com/]127.0.0.1:54
 [/faw.com/]127.0.0.1:54
@@ -67970,7 +67970,6 @@
 [/szdaily.com/]127.0.0.1:54
 [/szdcjd.com/]127.0.0.1:54
 [/szddns.net/]127.0.0.1:54
-[/szdesigncenter.org/]127.0.0.1:54
 [/szdesigner.org/]127.0.0.1:54
 [/szdesy.com/]127.0.0.1:54
 [/szdf.com/]127.0.0.1:54
@@ -87275,7 +87274,6 @@
 [/zjwanma.com/]127.0.0.1:54
 [/zjwater.com/]127.0.0.1:54
 [/zjwater.org/]127.0.0.1:54
-[/zjwcjm.com/]127.0.0.1:54
 [/zjwcqp.com/]127.0.0.1:54
 [/zjwebapp.com/]127.0.0.1:54
 [/zjwentou.com/]127.0.0.1:54

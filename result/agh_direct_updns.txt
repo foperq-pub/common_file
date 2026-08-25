@@ -8559,6 +8559,7 @@
 [/arkoo.com/]127.0.0.1:54
 [/arkrdigital.com/]127.0.0.1:54
 [/arkread.com/]127.0.0.1:54
+[/arkrog.com/]127.0.0.1:54
 [/arks.red/]127.0.0.1:54
 [/arliki.com/]127.0.0.1:54
 [/arm9home.net/]127.0.0.1:54
@@ -10346,6 +10347,7 @@
 [/beijingzc.com/]127.0.0.1:54
 [/beijingzoo.com/]127.0.0.1:54
 [/beijinxuetang.com/]127.0.0.1:54
+[/beijqunan.com/]127.0.0.1:54
 [/beijzc.com/]127.0.0.1:54
 [/beikeba.com/]127.0.0.1:54
 [/beikeiot.com/]127.0.0.1:54
@@ -16382,6 +16384,7 @@
 [/ciftis.org/]127.0.0.1:54
 [/cig-cq.com/]127.0.0.1:54
 [/cigadesign.com/]127.0.0.1:54
+[/cige.net/]127.0.0.1:54
 [/cigh.com/]127.0.0.1:54
 [/cignacmb-ipmi.com/]127.0.0.1:54
 [/cignacmb.com/]127.0.0.1:54
@@ -16814,6 +16817,7 @@
 [/cloudstudio.run/]127.0.0.1:54
 [/cloudstudio.work/]127.0.0.1:54
 [/cloudswift.cloud/]127.0.0.1:54
+[/cloudt.chat/]127.0.0.1:54
 [/cloudtalkers.com/]127.0.0.1:54
 [/cloudtomicro.com/]127.0.0.1:54
 [/cloudtopo.com/]127.0.0.1:54
@@ -17085,6 +17089,7 @@
 [/cnats.com/]127.0.0.1:54
 [/cnautofinance.com/]127.0.0.1:54
 [/cnautonews.com/]127.0.0.1:54
+[/cnazd.com/]127.0.0.1:54
 [/cnb.cool/]127.0.0.1:54
 [/cnb.run/]127.0.0.1:54
 [/cnb.space/]127.0.0.1:54
@@ -21141,6 +21146,7 @@
 [/dht5867.com/]127.0.0.1:54
 [/dhtest.com/]127.0.0.1:54
 [/dhtopology.com/]127.0.0.1:54
+[/dhtsm.com/]127.0.0.1:54
 [/dhtv.tv/]127.0.0.1:54
 [/dhuili.com/]127.0.0.1:54
 [/dhvisiontech.com/]127.0.0.1:54
@@ -25414,6 +25420,7 @@
 [/feiyouyun.com/]127.0.0.1:54
 [/feiyu.com/]127.0.0.1:54
 [/feiyuapi.com/]127.0.0.1:54
+[/feiyue15.com/]127.0.0.1:54
 [/feiyueconglin.com/]127.0.0.1:54
 [/feiyunjs.com/]127.0.0.1:54
 [/feizan.com/]127.0.0.1:54
@@ -27095,6 +27102,7 @@
 [/gafata.com/]127.0.0.1:54
 [/gafencuchina.com/]127.0.0.1:54
 [/gagacafe.com/]127.0.0.1:54
+[/gaiabiohx.com/]127.0.0.1:54
 [/gaiamount.com/]127.0.0.1:54
 [/gaiaworkforce.com/]127.0.0.1:54
 [/gaibang365.com/]127.0.0.1:54
@@ -29931,6 +29939,7 @@
 [/guokelonghui.com/]127.0.0.1:54
 [/guoketest.com/]127.0.0.1:54
 [/guokeyun.com/]127.0.0.1:54
+[/guoko.com/]127.0.0.1:54
 [/guokongqixie.com/]127.0.0.1:54
 [/guokr.com/]127.0.0.1:54
 [/guokr.net/]127.0.0.1:54
@@ -31940,6 +31949,8 @@
 [/gzenxx.com/]127.0.0.1:54
 [/gzeryun.com/]127.0.0.1:54
 [/gzexpo.com/]127.0.0.1:54
+[/gzfeice.com/]127.0.0.1:54
+[/gzfeice.net/]127.0.0.1:54
 [/gzfengmao.com/]127.0.0.1:54
 [/gzfezx.com/]127.0.0.1:54
 [/gzfgxh.com/]127.0.0.1:54
@@ -33610,6 +33621,7 @@
 [/hbydsy.com/]127.0.0.1:54
 [/hbyh0561.com/]127.0.0.1:54
 [/hbyhfcyy.com/]127.0.0.1:54
+[/hbyidc.com/]127.0.0.1:54
 [/hbyidu.com/]127.0.0.1:54
 [/hbyisen.com/]127.0.0.1:54
 [/hbyjfs.com/]127.0.0.1:54
@@ -40078,6 +40090,7 @@
 [/itwlw.com/]127.0.0.1:54
 [/itwork.club/]127.0.0.1:54
 [/itwsms.com/]127.0.0.1:54
+[/itwz.cc/]127.0.0.1:54
 [/itxp365.com/]127.0.0.1:54
 [/itxst.com/]127.0.0.1:54
 [/itxueyuan.com/]127.0.0.1:54
@@ -47423,6 +47436,7 @@
 [/lilanz.com/]127.0.0.1:54
 [/lili.cc/]127.0.0.1:54
 [/liliangji.com/]127.0.0.1:54
+[/lilihuyu.com/]127.0.0.1:54
 [/lilishare.com/]127.0.0.1:54
 [/lilisi.com/]127.0.0.1:54
 [/lilith.com/]127.0.0.1:54
@@ -52161,6 +52175,7 @@
 [/mxdraw.com/]127.0.0.1:54
 [/mxdraw3d.com/]127.0.0.1:54
 [/mxdx.net/]127.0.0.1:54
+[/mxdzlk.com/]127.0.0.1:54
 [/mxew.com/]127.0.0.1:54
 [/mxflutter.com/]127.0.0.1:54
 [/mxgogo.com/]127.0.0.1:54
@@ -59430,6 +59445,7 @@
 [/qyxa-tencentclb.net/]127.0.0.1:54
 [/qyxa-tencentclb.work/]127.0.0.1:54
 [/qyxzfw.com/]127.0.0.1:54
+[/qyy888.com/]127.0.0.1:54
 [/qyyt.com/]127.0.0.1:54
 [/qyzba.club/]127.0.0.1:54
 [/qyzlgame.com/]127.0.0.1:54
@@ -60061,6 +60077,7 @@
 [/rhexe.com/]127.0.0.1:54
 [/rhhz.net/]127.0.0.1:54
 [/rhine-inc.com/]127.0.0.1:54
+[/rhino.auto/]127.0.0.1:54
 [/rhinoxky.com/]127.0.0.1:54
 [/rhkj.com/]127.0.0.1:54
 [/rhky.com/]127.0.0.1:54
@@ -69398,6 +69415,7 @@
 [/thepoemforyou.com/]127.0.0.1:54
 [/thepredictivemodel.com/]127.0.0.1:54
 [/thepresidentialhotel.com/]127.0.0.1:54
+[/theringlive.com/]127.0.0.1:54
 [/thesetech.com/]127.0.0.1:54
 [/thesmartmelon.com/]127.0.0.1:54
 [/theszt.com/]127.0.0.1:54
@@ -77842,6 +77860,7 @@
 [/xiaozhang365.com/]127.0.0.1:54
 [/xiaozhao365.com/]127.0.0.1:54
 [/xiaozhenpaotui.com/]127.0.0.1:54
+[/xiaozhenwaimai.com/]127.0.0.1:54
 [/xiaozhi.me/]127.0.0.1:54
 [/xiaozhibaoxian.com/]127.0.0.1:54
 [/xiaozhibo.com/]127.0.0.1:54
@@ -78381,6 +78400,7 @@
 [/xintianw.com/]127.0.0.1:54
 [/xintiao100.com/]127.0.0.1:54
 [/xintiaogroup.com/]127.0.0.1:54
+[/xintiaolv.com/]127.0.0.1:54
 [/xintiaoyouxi.com/]127.0.0.1:54
 [/xintrum.com/]127.0.0.1:54
 [/xintuan.com/]127.0.0.1:54
@@ -83472,6 +83492,7 @@
 [/yunzhonghe.com/]127.0.0.1:54
 [/yunzhu100.com/]127.0.0.1:54
 [/yunzhuangbei.com/]127.0.0.1:54
+[/yunzhuru.com/]127.0.0.1:54
 [/yunzhuxue.com/]127.0.0.1:54
 [/yunzitraining.com/]127.0.0.1:54
 [/yunzmall.com/]127.0.0.1:54

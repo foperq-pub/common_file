@@ -1061,6 +1061,7 @@
 [/11lx.com/]127.0.0.1:54
 [/11meigui.com/]127.0.0.1:54
 [/11pdf.com/]127.0.0.1:54
+[/11rain.com/]127.0.0.1:54
 [/11space.com/]127.0.0.1:54
 [/11sun.com/]127.0.0.1:54
 [/11xotn7p.com/]127.0.0.1:54
@@ -3058,6 +3059,7 @@
 [/4008123123.com/]127.0.0.1:54
 [/4008258399.com/]127.0.0.1:54
 [/4008338788.com/]127.0.0.1:54
+[/4008600011.com/]127.0.0.1:54
 [/4008618618.com/]127.0.0.1:54
 [/4008787706.com/]127.0.0.1:54
 [/4008800016.com/]127.0.0.1:54
@@ -13905,7 +13907,6 @@
 [/cdn-cba.com/]127.0.0.1:54
 [/cdn-hotels.com/]127.0.0.1:54
 [/cdn-speed.com/]127.0.0.1:54
-[/cdn.fun/]127.0.0.1:54
 [/cdn.me/]127.0.0.1:54
 [/cdn.show/]127.0.0.1:54
 [/cdn.vin/]127.0.0.1:54
@@ -15356,6 +15357,7 @@
 [/chinacba.org/]127.0.0.1:54
 [/chinaccia.com/]127.0.0.1:54
 [/chinacdc.com/]127.0.0.1:54
+[/chinacdnb2b.com/]127.0.0.1:54
 [/chinaceotv.com/]127.0.0.1:54
 [/chinacfa.com/]127.0.0.1:54
 [/chinacfi.net/]127.0.0.1:54
@@ -17656,6 +17658,7 @@
 [/cnso.org/]127.0.0.1:54
 [/cnsoc.org/]127.0.0.1:54
 [/cnsoftbei.com/]127.0.0.1:54
+[/cnsolarwind.com/]127.0.0.1:54
 [/cnsolomo.com/]127.0.0.1:54
 [/cnsorl.com/]127.0.0.1:54
 [/cnspeed.com/]127.0.0.1:54
@@ -25763,6 +25766,7 @@
 [/fineheads.com/]127.0.0.1:54
 [/fineidc.com/]127.0.0.1:54
 [/fineimmu.com/]127.0.0.1:54
+[/finelybook.com/]127.0.0.1:54
 [/finer2.com/]127.0.0.1:54
 [/finereport.com/]127.0.0.1:54
 [/finereporthelp.com/]127.0.0.1:54
@@ -43114,6 +43118,7 @@
 [/jsjdzf.com/]127.0.0.1:54
 [/jsjeda.com/]127.0.0.1:54
 [/jsjform.com/]127.0.0.1:54
+[/jsjgbxg.com/]127.0.0.1:54
 [/jsjgtz.com/]127.0.0.1:54
 [/jsjiami.com/]127.0.0.1:54
 [/jsjianli.com/]127.0.0.1:54
@@ -53465,6 +53470,7 @@
 [/niaogebiji.com/]127.0.0.1:54
 [/niaosuangao.online/]127.0.0.1:54
 [/niaowoclub.com/]127.0.0.1:54
+[/niaoyun.com/]127.0.0.1:54
 [/niba.com/]127.0.0.1:54
 [/nibaku.com/]127.0.0.1:54
 [/nibomu.com/]127.0.0.1:54
@@ -65292,6 +65298,7 @@
 [/smartzzx.com/]127.0.0.1:54
 [/smarun.com/]127.0.0.1:54
 [/smaryun.com/]127.0.0.1:54
+[/smasmj.com/]127.0.0.1:54
 [/smb956101.com/]127.0.0.1:54
 [/smbxw.com/]127.0.0.1:54
 [/smc3s.com/]127.0.0.1:54
@@ -71412,6 +71419,7 @@
 [/tulipsport.com/]127.0.0.1:54
 [/tuliu.com/]127.0.0.1:54
 [/tulsj.com/]127.0.0.1:54
+[/tumajewelry.com/]127.0.0.1:54
 [/tumanyi.com/]127.0.0.1:54
 [/tumchina.com/]127.0.0.1:54
 [/tumengtech.com/]127.0.0.1:54
@@ -78394,6 +78402,7 @@
 [/xingshu.com/]127.0.0.1:54
 [/xingshuishuiwu.net/]127.0.0.1:54
 [/xingshulin.com/]127.0.0.1:54
+[/xingsteel.com/]127.0.0.1:54
 [/xingtai0319.com/]127.0.0.1:54
 [/xingtai123.com/]127.0.0.1:54
 [/xingtaishipping.com/]127.0.0.1:54
@@ -86906,7 +86915,6 @@
 [/zjwanma.com/]127.0.0.1:54
 [/zjwater.com/]127.0.0.1:54
 [/zjwater.org/]127.0.0.1:54
-[/zjwcjm.com/]127.0.0.1:54
 [/zjwebapp.com/]127.0.0.1:54
 [/zjwentou.com/]127.0.0.1:54
 [/zjwfgroup.com/]127.0.0.1:54

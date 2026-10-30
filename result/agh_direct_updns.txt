@@ -13897,7 +13897,6 @@
 [/cdn-cba.com/]127.0.0.1:54
 [/cdn-hotels.com/]127.0.0.1:54
 [/cdn-speed.com/]127.0.0.1:54
-[/cdn.fun/]127.0.0.1:54
 [/cdn.me/]127.0.0.1:54
 [/cdn.show/]127.0.0.1:54
 [/cdn.vin/]127.0.0.1:54
@@ -39968,6 +39967,7 @@
 [/issks.com/]127.0.0.1:54
 [/istarshine.com/]127.0.0.1:54
 [/istcw.com/]127.0.0.1:54
+[/istpei.com/]127.0.0.1:54
 [/istrongcloud.com/]127.0.0.1:54
 [/istrongcloud.net/]127.0.0.1:54
 [/isuanyun.com/]127.0.0.1:54

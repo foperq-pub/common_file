@@ -6523,6 +6523,7 @@
 [/adznb.com/]127.0.0.1:54
 [/adzshd.com/]127.0.0.1:54
 [/ae1234.com/]127.0.0.1:54
+[/ae256.com/]127.0.0.1:54
 [/ae60.com/]127.0.0.1:54
 [/aebell.com/]127.0.0.1:54
 [/aebiz.net/]127.0.0.1:54
@@ -12790,6 +12791,7 @@
 [/bytevdn.com/]127.0.0.1:54
 [/bytewebservice.com/]127.0.0.1:54
 [/byteww.com/]127.0.0.1:54
+[/bytexns.com/]127.0.0.1:54
 [/bytexns.net/]127.0.0.1:54
 [/bytexservice.com/]127.0.0.1:54
 [/bythewayer.com/]127.0.0.1:54
@@ -14731,6 +14733,7 @@
 [/chbml.com/]127.0.0.1:54
 [/chbpp.com/]127.0.0.1:54
 [/chcedo.com/]127.0.0.1:54
+[/chceg.com/]127.0.0.1:54
 [/chcmu.com/]127.0.0.1:54
 [/chcnav.com/]127.0.0.1:54
 [/chcoin.com/]127.0.0.1:54
@@ -15976,6 +15979,7 @@
 [/chinazh.net/]127.0.0.1:54
 [/chinazhijiang.com/]127.0.0.1:54
 [/chinazhz.com/]127.0.0.1:54
+[/chinazikao.com/]127.0.0.1:54
 [/chinazjph.com/]127.0.0.1:54
 [/chinazjy.com/]127.0.0.1:54
 [/chinazkjc.com/]127.0.0.1:54
@@ -18327,6 +18331,7 @@
 [/cqcartest.com/]127.0.0.1:54
 [/cqcasin.com/]127.0.0.1:54
 [/cqcb.com/]127.0.0.1:54
+[/cqcbank.com/]127.0.0.1:54
 [/cqcbd-jbc.com/]127.0.0.1:54
 [/cqcbl.com/]127.0.0.1:54
 [/cqccn.com/]127.0.0.1:54
@@ -20613,6 +20618,7 @@
 [/dd-advisor.com/]127.0.0.1:54
 [/dd-gz.com/]127.0.0.1:54
 [/dd-img.com/]127.0.0.1:54
+[/dd.ma/]127.0.0.1:54
 [/dd001.net/]127.0.0.1:54
 [/dd01.com/]127.0.0.1:54
 [/dd128.com/]127.0.0.1:54
@@ -34572,7 +34578,6 @@
 [/hgzxgz.com/]127.0.0.1:54
 [/hgzxgz.net/]127.0.0.1:54
 [/hgzxzc.com/]127.0.0.1:54
-[/hgzxzc.net/]127.0.0.1:54
 [/hh-gltd.com/]127.0.0.1:54
 [/hh-honghu.com/]127.0.0.1:54
 [/hh-jt.com/]127.0.0.1:54
@@ -39080,6 +39085,7 @@
 [/ilanyao.com/]127.0.0.1:54
 [/ilanzou.com/]127.0.0.1:54
 [/ilaoyou.com/]127.0.0.1:54
+[/ilaozhu.com/]127.0.0.1:54
 [/ilaw66.com/]127.0.0.1:54
 [/ilawpress.com/]127.0.0.1:54
 [/ilazycat.com/]127.0.0.1:54
@@ -40713,7 +40719,6 @@
 [/jddaojia.shop/]127.0.0.1:54
 [/jddapeigou.com/]127.0.0.1:54
 [/jdddata.com/]127.0.0.1:54
-[/jddebug.com/]127.0.0.1:54
 [/jddglobal.com/]127.0.0.1:54
 [/jddj.com/]127.0.0.1:54
 [/jddmoto.com/]127.0.0.1:54
@@ -41916,6 +41921,7 @@
 [/jinruimedical.com/]127.0.0.1:54
 [/jinrunsoft.com/]127.0.0.1:54
 [/jins-cn.com/]127.0.0.1:54
+[/jinsan168.com/]127.0.0.1:54
 [/jinsebook.com/]127.0.0.1:54
 [/jinsehuaqin.com/]127.0.0.1:54
 [/jinsenforestry.com/]127.0.0.1:54
@@ -63144,6 +63150,7 @@
 [/shaobin-jiang.com/]127.0.0.1:54
 [/shaoerwushu.org/]127.0.0.1:54
 [/shaogefenhao.com/]127.0.0.1:54
+[/shaojiu.com/]127.0.0.1:54
 [/shaoke.com/]127.0.0.1:54
 [/shaolinjingwu.com/]127.0.0.1:54
 [/shaolintagou.com/]127.0.0.1:54
@@ -76178,7 +76185,6 @@
 [/woyao998.com/]127.0.0.1:54
 [/woyaobaoliang.com/]127.0.0.1:54
 [/woyaodayin.com/]127.0.0.1:54
-[/woyaogexing.com/]127.0.0.1:54
 [/woyaojiaju.com/]127.0.0.1:54
 [/woyaoqiudai.com/]127.0.0.1:54
 [/woyaosai.com/]127.0.0.1:54
@@ -83633,6 +83639,7 @@
 [/yunhaiqiao.com/]127.0.0.1:54
 [/yunhaisteel.com/]127.0.0.1:54
 [/yunhaoka.com/]127.0.0.1:54
+[/yunhaoren.com/]127.0.0.1:54
 [/yunhedata.com/]127.0.0.1:54
 [/yunhehudong.com/]127.0.0.1:54
 [/yunheit.com/]127.0.0.1:54

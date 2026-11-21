@@ -10,6 +10,8 @@
 !! tencent
 @@||dns.weixin.qq.com^
 @@||dns.weixin.qq.com.cn^
+!! unionpay
+@@||ads.cup.com.cn^
 ! block part
 !! 2k game
 ||telemetryk.api.2kcoretech.online^
